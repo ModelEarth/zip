@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<meta charset="utf-8">
+<title>Zip Output</title>
+<link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon"> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link type="text/css" rel="stylesheet" href="https://neighborhood.org/localsite/css/base.css" />
+<script type="text/javascript" src="https://neighborhood.org/localsite/js/d3.v5.min.js"></script>
+<script type="text/javascript" src="https://neighborhood.org/localsite/js/jquery/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="https://neighborhood.org/localsite/js/localsite.js"></script>
+<script type="text/javascript" src="https://neighborhood.org/localsite/js/showdown.min.js"></script>
+<script type="text/javascript" src="https://neighborhood.org/localsite/js/navigation.js"></script>
+
+<style>
+.txtbox {
+    position: relative;
+    overflow: hidden;
+    outline: none;
+    width: 100%;
+    max-width: 190px;
+    padding: 0 20px;
+    height: 48px;
+    line-height: 60px;
+    font-size: 24px;
+    color: #777;
+    border: solid 1px #b7b7b7;
+    border-radius: 5px;
+    margin-right: 7px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    float: left;
+}
+.gobutton {
+    margin: 0px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 14px 12px 15px 12px;
+    min-height: 38px;
+    color: #fff;
+    box-sizing: border-box;
+    background: #555;
+    height: 48px;
+    text-decoration: none;
+}
+.resultsHolder {
+    background: rgba(33,33,33,0);
+    padding: 20px 20px 10px 20px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    margin-bottom: 8px;
+    line-height: 26px;
+}
+</style>
+
+<script type="text/javascript">
+  loadMarkdown("README.md", "readmeDiv", "_parent");
+
+  $('#zip').on("keypress", function(e) {
+    if (e.keyCode == 13) { // Enter hit
+      goZip();
+    }
+  });
+  function goZip() {
+    zip = $('#zip').val();
+    if (zip.length == 5) {
+      //window.location='../../community/zip/#zip=' + zip;
+      $('#zip_output').text(zip + " coming soon");
+      // Load JSON here
+
+    } else {
+      $('#zip_output').text('Please enter a 5 digit zip.');
+    }
+  }
+</script>
+
+</head>
+
+<body>
+
+<div class="content contentpadding" style="margin-bottom:0px; padding-bottom:0px">
+
+  <div id="readmeDiv"></div>
+
+  <div id="greatestNeedsHolder" class="resultsHolder" style="margin-right:30px; ">
+    <div style="margin-bottom:10px;padding-top:0px">
+
+      <input type="text" id="zip" class="txtbox frst_location" style="float:left" placeholder="Zip Code">
+      <div class="gobutton" style="float:left" onclick="goZip()">GO</div>
+      <div style="clear:both"></div>
+      <h3><span id="zip_output" style="margin-left:10px">Enter a zip code to view details.</span></h3>
+    </div>
+  </div>
+
+  
+  <br><br>
+
+</div>
+
+</body>
+</html>

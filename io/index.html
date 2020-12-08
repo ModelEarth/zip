@@ -53,6 +53,15 @@
     margin-bottom: 8px;
     line-height: 26px;
 }
+td {
+  padding-right: 20px;
+}
+td {
+  border-bottom:1px solid #ccc;
+}
+th {
+  text-align: left;
+}
 </style>
 
 <script type="text/javascript">
@@ -60,20 +69,29 @@
 
   $('#zip').on("keypress", function(e) {
     if (e.keyCode == 13) { // Enter hit
-      goZip();
+      if ($('#zip').val().length >= 5) {
+        goZip($('#zip').val().substring(0, 5));
+      }
     }
   });
-  function goZip() {
-    zip = $('#zip').val();
+  function goZip(zip) {
     if (zip.length == 5) {
-      //window.location='../../community/zip/#zip=' + zip;
-      $('#zip_output').text(zip + " coming soon");
+      $('#zip_output').text("");
       // Load JSON here
 
+      updateHash({"zip":zip});
+      // Load markdown .md file for zip
+      loadMarkdown("data/" + zip.split('').join('/') + "/zipinfo.md", "zip_output", "_parent");
     } else {
       $('#zip_output').text('Please enter a 5 digit zip.');
     }
   }
+  $(document).ready(function () {
+    if (param.zip) {
+      $('#zip').val(param.zip);
+      goZip($('#zip').val());
+    }
+  });
 </script>
 
 </head>
@@ -88,7 +106,7 @@
     <div style="margin-bottom:10px;padding-top:0px">
 
       <input type="text" id="zip" class="txtbox frst_location" style="float:left" placeholder="Zip Code">
-      <div class="gobutton" style="float:left" onclick="goZip()">GO</div>
+      <div class="gobutton" style="float:left" onclick="goZip($('#zip').val())">GO</div>
       <div style="clear:both"></div>
       <h3><span id="zip_output" style="margin-left:10px">Enter a zip code to view details.</span></h3>
     </div>

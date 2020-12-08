@@ -1,28 +1,27 @@
-30310
-=====
-| Variable                | Value         |
-|-------------------------|---------------|
-| zipcode                 | 30310         |
-| zipcode_type            | Standard      |
-| major_city              | Atlanta       |
-| post_office_city        | Atlanta, GA   |
-| common_city_list        | Atlanta       |
-| county                  | Fulton County |
-| state                   | GA            |
-| lat                     | 33.73         |
-| lng                     | -84.43        |
-| timezone                | Eastern       |
-| radius_in_miles         | 3.0           |
-| area_code_list          | 404, 678      |
-| population              | 26912         |
-| population_density      | 3051.0        |
-| land_area_in_sqmi       | 8.82          |
-| water_area_in_sqmi      | 0.01          |
-| housing_units           | 14349         |
-| occupied_housing_units  | 10697         |
-| median_home_value       | 89300         |
-| median_household_income | 22861         |
-| bounds_west             | -84.466965    |
-| bounds_east             | -84.394397    |
-| bounds_north            | 33.754598     |
-| bounds_south            | 33.696383     |
+
+| | |
+|--|--|
+| Zipcode | 30310 |
+| Zipcode type | Standard |
+| Major city | Atlanta |
+| Post office city        | Atlanta, GA   |
+| Common city list        | Atlanta       |
+| County                  | Fulton County |
+| State                   | GA            |
+| Latitude                | 33.73         |
+| Longitude               | -84.43        |
+| Timezone                | Eastern       |
+| Radius in miles         | 3.0           |
+| Area code list          | 404, 678      |
+| Population              | 26912         |
+| Population density      | 3051.0        |
+| Land area in sqmi       | 8.82          |
+| Water area in sqmi      | 0.01          |
+| Housing units           | 14,349         |
+| Occupied housing units  | 10,697         |
+| Median home value       | 89,300         |
+| Median household income | 22,861         |
+| Bounds west             | -84.466965    |
+| Bounds east             | -84.394397    |
+| Bounds north            | 33.754598     |
+| Bounds south            | 33.696383     |

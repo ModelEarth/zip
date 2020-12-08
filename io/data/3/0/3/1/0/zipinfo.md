@@ -13,8 +13,8 @@
 | Timezone                | Eastern       |
 | Radius in miles         | 3.0           |
 | Area code list          | 404, 678      |
-| Population              | 26912         |
-| Population density      | 3051.0        |
+| Population              | 26,912         |
+| Population density      | 3,051.0        |
 | Land area in sqmi       | 8.82          |
 | Water area in sqmi      | 0.01          |
 | Housing units           | 14,349         |

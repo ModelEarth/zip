@@ -1,28 +1,27 @@
 30312
 =====
-| Variable                | Value              |
 |-------------------------|--------------------|
-| zipcode                 | 30312              |
-| zipcode_type            | Standard           |
-| major_city              | Atlanta            |
-| post_office_city        | Atlanta, GA        |
-| common_city_list        | Atlanta            |
-| county                  | Fulton County      |
-| state                   | GA                 |
-| lat                     | 33.74              |
-| lng                     | -84.38             |
-| timezone                | Eastern            |
-| radius_in_miles         | 2.0                |
-| area_code_list          | 470, 404, 678, 770 |
-| population              | 19360              |
-| population_density      | 5774.0             |
-| land_area_in_sqmi       | 3.35               |
-| water_area_in_sqmi      | 0.0                |
-| housing_units           | 12007              |
-| occupied_housing_units  | 10031              |
-| median_home_value       | 189400             |
-| median_household_income | 39105              |
-| bounds_west             | -84.408184         |
-| bounds_east             | -84.358197         |
-| bounds_north            | 33.771133          |
-| bounds_south            | 33.717052          |
+| Zipcode                 | 30312              |
+| Zipcode type            | Standard           |
+| Major city              | Atlanta            |
+| Post office city        | Atlanta, GA        |
+| Common city list        | Atlanta            |
+| County                  | Fulton County      |
+| State                   | GA                 |
+| Latitude                | 33.74              |
+| Longitude               | -84.38             |
+| Timezone                | Eastern            |
+| Radius in miles         | 2.0                |
+| Area code list          | 470, 404, 678, 770 |
+| Population              | 19,360             |
+| Population density      | 5,774.0            |
+| Land area in sqmi       | 3.35               |
+| Water area in sqmi      | 0.0                |
+| Housing units           | 12,007             |
+| Occupied housing units  | 10,031             |
+| Median home value       | 189,400            |
+| Median household income | 39,105             |
+| Bounds west             | -84.408184         |
+| Bounds east             | -84.358197         |
+| Bounds north            | 33.771133          |
+| Bounds south            | 33.717052          |

@@ -6,7 +6,7 @@ Generates nested folders for each zip code
 from uszipcode import SearchEngine
 import os
 import json
-from tabulate import tabulate
+# from tabulate import tabulate
 
 def main():
     search = SearchEngine(simple_zipcode=True)
@@ -28,27 +28,47 @@ def main():
                 json.dump(zip_dict, outfile, indent=4)
             
             #clean dictionary for md file
-            cleaned_zip_dict = {}
-            for key, value in zip_dict.items():
-                #capitalize keys and replace underscore with spaces
-                key = key.capitalize().replace("_", " ")
-                #clean up lat and long
-                if key == "Lat":
-                    key = "Latitude"
-                elif key == "Lng":
-                    key = "Longitude"
-                #convert lists to comma separated strings
-                if isinstance(value, list):          
-                    value = ", ".join(value)
-                #comma separate numbers
-                elif isinstance(value, int) | isinstance(value, float):
-                    value = "{:,}".format(value)
-                cleaned_zip_dict[key] = value
+            # cleaned_zip_dict = {}
+            # for key, value in zip_dict.items():
+            #     #capitalize keys and replace underscore with spaces
+            #     key = key.capitalize().replace("_", " ")
+            #     #clean up lat and long
+            #     if key == "Lat":
+            #         key = "Latitude"
+            #     elif key == "Lng":
+            #         key = "Longitude"
+            #     #convert lists to comma separated strings
+            #     if isinstance(value, list):          
+            #         value = ", ".join(value)
+            #     #comma separate numbers
+            #     elif isinstance(value, int) | isinstance(value, float):
+            #         value = "{:,}".format(value)
+            #     cleaned_zip_dict[key] = value
+                # outfile.write(tabulate(cleaned_zip_dict.items(), tablefmt='github'))    
                 
-              #write md file 
+            #clean data and write md file 
             with open(filepath + 'zipinfo.md', 'w') as outfile:
-                outfile.write(z.zipcode + '\n=====\n')
-                outfile.write(tabulate(cleaned_zip_dict.items(), tablefmt='github'))    
+                outfile.write(z.zipcode + '\n=====\n') #md file header
+                # outfile.write('|Zipcode|' + zip_dict['zipcode'] + 
+                #               '|\n|--|--|\n') #table header
+                # zip_dict.pop('zipcode')
+                outfile.write('|--|--|\n') #table header'
+                for key, value in zip_dict.items():
+                    #capitalize keys and replace underscore with spaces
+                    key = key.capitalize().replace("_", " ")
+                    #clean up lat and long
+                    if key == "Lat":
+                        key = "Latitude"
+                    elif key == "Lng":
+                        key = "Longitude"
+                    #convert lists to comma separated strings
+                    if isinstance(value, list):          
+                        value = ", ".join(value)
+                    #comma separate numbers
+                    elif isinstance(value, int) | isinstance(value, float):
+                        value = "{:,}".format(value)
+                    outfile.write('|' + key + "|" + value + '|\n')
+                
 
                 
 if __name__== "__main__":

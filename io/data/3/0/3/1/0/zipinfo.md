@@ -1,6 +1,8 @@
 30310
 =====
+|||
 |--|--|
+|Zipcode|30310|
 |Zipcode type|Standard|
 |Major city|Atlanta|
 |Post office city|Atlanta, GA|

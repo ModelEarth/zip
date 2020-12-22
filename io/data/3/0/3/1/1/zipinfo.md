@@ -21,10 +21,10 @@
 |Occupied housing units|13,125|
 |Median home value|121,200|
 |Median household income|27,651|
-|Bounds west|-84.502793|
-|Bounds east|-84.434022|
-|Bounds north|33.764465|
-|Bounds south|33.68457|
+|Bounds west|-84.5|
+|Bounds east|-84.43|
+|Bounds north|33.76|
+|Bounds south|33.68|
 |Zipcode|30311|
 |Population by year: 2005|25,730|
 |Population by year: 2006|2,163|
@@ -257,17 +257,17 @@
 |Employment status: worked full-time with earnings|8,066|
 |Employment status: worked part-time with earnings|6,617|
 |Employment status: no earnings|12,971|
-|Average household income over time: 2005|30,929.7334|
-|Average household income over time: 2006|436.747|
-|Average household income over time: 2007|27,485.2125|
-|Average household income over time: 2008|29,728.7769|
-|Average household income over time: 2009|29,082.1145|
-|Average household income over time: 2010|27,239.8759|
-|Average household income over time: 2011|27,914.6348|
-|Average household income over time: 2012|30,026.465|
-|Average household income over time: 2013|30,266.7348|
-|Average household income over time: 2014|31,390.1358|
-|Average household income over time: 2015|31,564.2857|
+|Average household income over time: 2005|30,929.73|
+|Average household income over time: 2006|436.75|
+|Average household income over time: 2007|27,485.21|
+|Average household income over time: 2008|29,728.78|
+|Average household income over time: 2009|29,082.11|
+|Average household income over time: 2010|27,239.88|
+|Average household income over time: 2011|27,914.63|
+|Average household income over time: 2012|30,026.47|
+|Average household income over time: 2013|30,266.73|
+|Average household income over time: 2014|31,390.14|
+|Average household income over time: 2015|31,564.29|
 |Household income: < $25,000|6,111|
 |Household income: $25,000-$44,999|2,894|
 |Household income: $45,000-$59,999|1,382|
@@ -284,28 +284,28 @@
 |Annual individual earnings: $65,000-$74,999|264|
 |Annual individual earnings: $75,000-$99,999|597|
 |Annual individual earnings: $100,000+|398|
-|Sources of household income, percent of households receiving income: wages|80.2143|
-|Sources of household income, percent of households receiving income: business|26.0714|
-|Sources of household income, percent of households receiving income: partnership|1.3571|
-|Sources of household income, percent of households receiving income: unemployment|3.1429|
-|Sources of household income, average income per household by income source: wages|27,247.2841|
-|Sources of household income, average income per household by income source: business|3,302.4658|
-|Sources of household income, average income per household by income source: partnership|31,047.3684|
-|Sources of household income, average income per household by income source: unemployment|2,997.7273|
-|Household investment income, percent of households receiving investment income: interest|10.2143|
-|Household investment income, percent of households receiving investment income: ordinary dividends|6.2143|
-|Household investment income, percent of households receiving investment income: qualified dividends|5.2143|
-|Household investment income, percent of households receiving investment income: capital gains|3.7857|
-|Household investment income, average income per household by income source: interest|462.2378|
-|Household investment income, average income per household by income source: ordinary dividends|1,641.3793|
-|Household investment income, average income per household by income source: qualified dividends|1,364.3836|
-|Household investment income, average income per household by income source: capital gains|4,139.6226|
+|Sources of household income, percent of households receiving income: wages|80.21|
+|Sources of household income, percent of households receiving income: business|26.07|
+|Sources of household income, percent of households receiving income: partnership|1.36|
+|Sources of household income, percent of households receiving income: unemployment|3.14|
+|Sources of household income, average income per household by income source: wages|27,247.28|
+|Sources of household income, average income per household by income source: business|3,302.47|
+|Sources of household income, average income per household by income source: partnership|31,047.37|
+|Sources of household income, average income per household by income source: unemployment|2,997.73|
+|Household investment income, percent of households receiving investment income: interest|10.21|
+|Household investment income, percent of households receiving investment income: ordinary dividends|6.21|
+|Household investment income, percent of households receiving investment income: qualified dividends|5.21|
+|Household investment income, percent of households receiving investment income: capital gains|3.79|
+|Household investment income, average income per household by income source: interest|462.24|
+|Household investment income, average income per household by income source: ordinary dividends|1,641.38|
+|Household investment income, average income per household by income source: qualified dividends|1,364.38|
+|Household investment income, average income per household by income source: capital gains|4,139.62|
 |Household retirement income, percent of households receiving retirement incom: ira distributions|4.5|
-|Household retirement income, percent of households receiving retirement incom: pensions/annuities|20.4286|
-|Household retirement income, percent of households receiving retirement incom: social security|10.7857|
-|Household retirement income, average income per household by income source: ira distributions|13,112.6984|
-|Household retirement income, average income per household by income source: pensions/annuities|31,118.1818|
-|Household retirement income, average income per household by income source: social security|10,381.457|
+|Household retirement income, percent of households receiving retirement incom: pensions/annuities|20.43|
+|Household retirement income, percent of households receiving retirement incom: social security|10.79|
+|Household retirement income, average income per household by income source: ira distributions|13,112.7|
+|Household retirement income, average income per household by income source: pensions/annuities|31,118.18|
+|Household retirement income, average income per household by income source: social security|10,381.46|
 |Source of earnings: worked full-time with earnings|8,066|
 |Source of earnings: worked part-time with earnings|6,617|
 |Source of earnings: no earnings|12,971|

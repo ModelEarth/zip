@@ -22,8 +22,18 @@ def main():
                 if not os.path.exists(filepath):
                     os.mkdir(filepath)
             
-            #write json file
             zip_dict = z.to_dict()
+            
+            #round decimals
+            num_decimals = 2
+            for key, value in zip_dict.items():
+                if 'bounds' in key:
+                    zip_dict[key] = round(value, num_decimals)
+                elif ('percent' in key) | ('average' in key):
+                    for sub_dict in value[0]['values']:
+                        sub_dict['y'] = round(sub_dict['y'], num_decimals)
+            
+            #write json file
             with open(filepath + 'zipinfo.json', 'w') as outfile:
                 json.dump(zip_dict, outfile, indent=4)
             

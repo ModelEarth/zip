@@ -1,0 +1,117 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Denver",
+    "post_office_city": "Denver, CO",
+    "common_city_list": [
+        "Denver"
+    ],
+    "county": "Denver County",
+    "state": "CO",
+    "lat": 39.74,
+    "lng": -105.02,
+    "timezone": "Mountain",
+    "radius_in_miles": 2.0,
+    "area_code_list": [
+        "303"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -104.99,
+    "bounds_east": -104.99,
+    "bounds_north": 39.75,
+    "bounds_south": 39.75,
+    "zipcode": "80293",
+    "polygon": [
+        [
+            -104.988902,
+            39.74638
+        ],
+        [
+            -104.98914,
+            39.746193
+        ],
+        [
+            -104.989855,
+            39.745632
+        ],
+        [
+            -104.990094,
+            39.745446
+        ],
+        [
+            -104.990268,
+            39.74558
+        ],
+        [
+            -104.990791,
+            39.745983
+        ],
+        [
+            -104.990966,
+            39.746118
+        ],
+        [
+            -104.990729,
+            39.746307
+        ],
+        [
+            -104.99002,
+            39.746875
+        ],
+        [
+            -104.989784,
+            39.747065
+        ],
+        [
+            -104.989607,
+            39.746928
+        ],
+        [
+            -104.989078,
+            39.746517
+        ],
+        [
+            -104.988902,
+            39.74638
+        ]
+    ],
+    "population_by_year": null,
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": null,
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

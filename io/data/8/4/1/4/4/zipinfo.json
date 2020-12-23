@@ -1,0 +1,579 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Salt Lake City",
+    "post_office_city": "Salt Lake City, UT",
+    "common_city_list": [
+        "Salt Lake City",
+        "Salt Lake Cty",
+        "Slc"
+    ],
+    "county": "Salt Lake County",
+    "state": "UT",
+    "lat": 40.76,
+    "lng": -111.88,
+    "timezone": "Mountain",
+    "radius_in_miles": 1.0,
+    "area_code_list": [
+        "801"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": 82609,
+    "bounds_west": -111.89,
+    "bounds_east": -111.89,
+    "bounds_north": 40.77,
+    "bounds_south": 40.77,
+    "zipcode": "84144",
+    "polygon": [
+        [
+            -111.891097,
+            40.769346
+        ],
+        [
+            -111.891096,
+            40.768911
+        ],
+        [
+            -111.891094,
+            40.767608
+        ],
+        [
+            -111.891094,
+            40.767174
+        ],
+        [
+            -111.891354,
+            40.767174
+        ],
+        [
+            -111.892134,
+            40.767174
+        ],
+        [
+            -111.892395,
+            40.767174
+        ],
+        [
+            -111.892706,
+            40.767174
+        ],
+        [
+            -111.893643,
+            40.767174
+        ],
+        [
+            -111.893955,
+            40.767175
+        ],
+        [
+            -111.893955,
+            40.767609
+        ],
+        [
+            -111.893956,
+            40.768911
+        ],
+        [
+            -111.893957,
+            40.769346
+        ],
+        [
+            -111.893644,
+            40.769346
+        ],
+        [
+            -111.892709,
+            40.769348
+        ],
+        [
+            -111.892397,
+            40.769349
+        ],
+        [
+            -111.892137,
+            40.769348
+        ],
+        [
+            -111.891357,
+            40.769346
+        ],
+        [
+            -111.891097,
+            40.769346
+        ]
+    ],
+    "population_by_year": null,
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "1939 Or Earlier",
+                    "y": 0
+                },
+                {
+                    "x": "1940s",
+                    "y": 0
+                },
+                {
+                    "x": "1950s",
+                    "y": 0
+                },
+                {
+                    "x": "1960s",
+                    "y": 0
+                },
+                {
+                    "x": "1970s",
+                    "y": 0
+                },
+                {
+                    "x": "1980s",
+                    "y": 0
+                },
+                {
+                    "x": "1990s",
+                    "y": 0
+                },
+                {
+                    "x": "2000s",
+                    "y": 132
+                },
+                {
+                    "x": "2010 Or Later",
+                    "y": 58
+                }
+            ]
+        }
+    ],
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "$1-$24,999",
+                    "y": 0
+                },
+                {
+                    "x": "$25,000-$49,999",
+                    "y": 0
+                },
+                {
+                    "x": "$50,000-$99,999",
+                    "y": 0
+                },
+                {
+                    "x": "$100,000-$149,999",
+                    "y": 0
+                },
+                {
+                    "x": "$150,000-$199,999",
+                    "y": 0
+                },
+                {
+                    "x": "$200,000-$399,999",
+                    "y": 14
+                },
+                {
+                    "x": "$400,000-$749,999",
+                    "y": 0
+                },
+                {
+                    "x": "$750,000+",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "rental_properties_by_number_of_rooms": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Studio Apartment",
+                    "y": 0
+                },
+                {
+                    "x": "1 Bedroom",
+                    "y": 44
+                },
+                {
+                    "x": "2 Bedroom",
+                    "y": 0
+                },
+                {
+                    "x": "3+ Bedroom",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "monthly_rent_including_utilities_studio_apt": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "< $200",
+                    "y": 0
+                },
+                {
+                    "x": "$200-$299",
+                    "y": 0
+                },
+                {
+                    "x": "$300-$499",
+                    "y": 0
+                },
+                {
+                    "x": "$500-$749",
+                    "y": 0
+                },
+                {
+                    "x": "$750-$999",
+                    "y": 0
+                },
+                {
+                    "x": "$1,000+",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "monthly_rent_including_utilities_1_b": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "< $200",
+                    "y": 0
+                },
+                {
+                    "x": "$200-$299",
+                    "y": 0
+                },
+                {
+                    "x": "$300-$499",
+                    "y": 0
+                },
+                {
+                    "x": "$500-$749",
+                    "y": 0
+                },
+                {
+                    "x": "$750-$999",
+                    "y": 0
+                },
+                {
+                    "x": "$1,000+",
+                    "y": 44
+                }
+            ]
+        }
+    ],
+    "monthly_rent_including_utilities_2_b": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "< $200",
+                    "y": 0
+                },
+                {
+                    "x": "$200-$299",
+                    "y": 0
+                },
+                {
+                    "x": "$300-$499",
+                    "y": 0
+                },
+                {
+                    "x": "$500-$749",
+                    "y": 0
+                },
+                {
+                    "x": "$750-$999",
+                    "y": 0
+                },
+                {
+                    "x": "$1,000+",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "monthly_rent_including_utilities_3plus_b": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "< $200",
+                    "y": 0
+                },
+                {
+                    "x": "$200-$299",
+                    "y": 0
+                },
+                {
+                    "x": "$300-$499",
+                    "y": 0
+                },
+                {
+                    "x": "$500-$749",
+                    "y": 0
+                },
+                {
+                    "x": "$750-$999",
+                    "y": 0
+                },
+                {
+                    "x": "$1,000+",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "employment_status": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Worked Full-time With Earnings",
+                    "y": 22
+                },
+                {
+                    "x": "Worked Part-time With Earnings",
+                    "y": 30
+                },
+                {
+                    "x": "No Earnings",
+                    "y": 14
+                }
+            ]
+        }
+    ],
+    "average_household_income_over_time": null,
+    "household_income": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "< $25,000",
+                    "y": 7
+                },
+                {
+                    "x": "$25,000-$44,999",
+                    "y": 14
+                },
+                {
+                    "x": "$45,000-$59,999",
+                    "y": 7
+                },
+                {
+                    "x": "$60,000-$99,999",
+                    "y": 23
+                },
+                {
+                    "x": "$100,000-$149,999",
+                    "y": 0
+                },
+                {
+                    "x": "$150,000-$199,999",
+                    "y": 7
+                },
+                {
+                    "x": "$200,000+",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "annual_individual_earnings": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "< $10,000",
+                    "y": 7
+                },
+                {
+                    "x": "$10,000-$19,999",
+                    "y": 0
+                },
+                {
+                    "x": "$20,000-$29,999",
+                    "y": 0
+                },
+                {
+                    "x": "$30,000-$39,999",
+                    "y": 0
+                },
+                {
+                    "x": "$40,000-$49,999",
+                    "y": 7
+                },
+                {
+                    "x": "$50,000-$64,999",
+                    "y": 7
+                },
+                {
+                    "x": "$65,000-$74,999",
+                    "y": 0
+                },
+                {
+                    "x": "$75,000-$99,999",
+                    "y": 23
+                },
+                {
+                    "x": "$100,000+",
+                    "y": 8
+                }
+            ]
+        }
+    ],
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Worked Full-time With Earnings",
+                    "y": 22
+                },
+                {
+                    "x": "Worked Part-time With Earnings",
+                    "y": 30
+                },
+                {
+                    "x": "No Earnings",
+                    "y": 14
+                }
+            ]
+        }
+    ],
+    "means_of_transportation_to_work_for_workers_16_and_over": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Car, Truck, Or Van",
+                    "y": 44
+                },
+                {
+                    "x": "Public Transportation",
+                    "y": 8
+                },
+                {
+                    "x": "Taxicab",
+                    "y": 0
+                },
+                {
+                    "x": "Motorcycle",
+                    "y": 0
+                },
+                {
+                    "x": "Bicycle, Walked, Or Other Means",
+                    "y": 0
+                },
+                {
+                    "x": "Worked At Home",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "travel_time_to_work_in_minutes": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "< 10",
+                    "y": 7
+                },
+                {
+                    "x": "10-19",
+                    "y": 7
+                },
+                {
+                    "x": "20-29",
+                    "y": 31
+                },
+                {
+                    "x": "30-39",
+                    "y": 0
+                },
+                {
+                    "x": "40-44",
+                    "y": 7
+                },
+                {
+                    "x": "45-59",
+                    "y": 0
+                },
+                {
+                    "x": "60-89",
+                    "y": 0
+                },
+                {
+                    "x": "90+",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "educational_attainment_for_population_25_and_over": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Less Than High School Diploma",
+                    "y": 8
+                },
+                {
+                    "x": "High School Graduate",
+                    "y": 7
+                },
+                {
+                    "x": "Associate's Degree",
+                    "y": 0
+                },
+                {
+                    "x": "Bachelor's Degree",
+                    "y": 7
+                },
+                {
+                    "x": "Master's Degree",
+                    "y": 14
+                },
+                {
+                    "x": "Professional School Degree",
+                    "y": 0
+                },
+                {
+                    "x": "Doctorate Degree",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "school_enrollment_age_3_to_17": null
+}

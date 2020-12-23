@@ -1,0 +1,242 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Pittsburgh",
+    "post_office_city": "Pittsburgh, PA",
+    "common_city_list": [
+        "Pittsburgh"
+    ],
+    "county": "Allegheny County",
+    "state": "PA",
+    "lat": 40.457,
+    "lng": -80.02,
+    "timezone": "Eastern",
+    "radius_in_miles": 0.2840909090909091,
+    "area_code_list": [
+        "724",
+        "412"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -80.02,
+    "bounds_east": -80.02,
+    "bounds_north": 40.46,
+    "bounds_south": 40.46,
+    "zipcode": "15290",
+    "polygon": [
+        [
+            -80.02074,
+            40.457152
+        ],
+        [
+            -80.020806,
+            40.457311
+        ],
+        [
+            -80.020865,
+            40.457489
+        ],
+        [
+            -80.021118,
+            40.458244
+        ],
+        [
+            -80.021183,
+            40.458442
+        ],
+        [
+            -80.021326,
+            40.458834
+        ],
+        [
+            -80.02109,
+            40.458877
+        ],
+        [
+            -80.020383,
+            40.45901
+        ],
+        [
+            -80.020148,
+            40.459055
+        ],
+        [
+            -80.019915,
+            40.459097
+        ],
+        [
+            -80.019219,
+            40.459227
+        ],
+        [
+            -80.018987,
+            40.459271
+        ],
+        [
+            -80.01885,
+            40.459296
+        ],
+        [
+            -80.018442,
+            40.459372
+        ],
+        [
+            -80.018306,
+            40.459398
+        ],
+        [
+            -80.018365,
+            40.459333
+        ],
+        [
+            -80.01834,
+            40.45924
+        ],
+        [
+            -80.01828,
+            40.459059
+        ],
+        [
+            -80.017931,
+            40.457994
+        ],
+        [
+            -80.017815,
+            40.457639
+        ],
+        [
+            -80.017759,
+            40.457472
+        ],
+        [
+            -80.017594,
+            40.456974
+        ],
+        [
+            -80.017569,
+            40.456899
+        ],
+        [
+            -80.017475,
+            40.455869
+        ],
+        [
+            -80.017775,
+            40.455769
+        ],
+        [
+            -80.018075,
+            40.455769
+        ],
+        [
+            -80.018251,
+            40.455555
+        ],
+        [
+            -80.019891,
+            40.455248
+        ],
+        [
+            -80.020109,
+            40.4552
+        ],
+        [
+            -80.020137,
+            40.455287
+        ],
+        [
+            -80.020221,
+            40.455551
+        ],
+        [
+            -80.02025,
+            40.45564
+        ],
+        [
+            -80.02028,
+            40.455736
+        ],
+        [
+            -80.020372,
+            40.456025
+        ],
+        [
+            -80.020403,
+            40.456122
+        ],
+        [
+            -80.020432,
+            40.456212
+        ],
+        [
+            -80.020522,
+            40.456485
+        ],
+        [
+            -80.020552,
+            40.456576
+        ],
+        [
+            -80.020571,
+            40.456626
+        ],
+        [
+            -80.020593,
+            40.456684
+        ],
+        [
+            -80.020682,
+            40.456728
+        ],
+        [
+            -80.020731,
+            40.456753
+        ],
+        [
+            -80.020714,
+            40.456981
+        ],
+        [
+            -80.02074,
+            40.457152
+        ]
+    ],
+    "population_by_year": null,
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": null,
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

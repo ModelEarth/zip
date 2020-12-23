@@ -1,0 +1,192 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Salt Lake City",
+    "post_office_city": "Salt Lake City, UT",
+    "common_city_list": [
+        "Salt Lake City",
+        "Salt Lake Cty",
+        "Slc"
+    ],
+    "county": "Salt Lake County",
+    "state": "UT",
+    "lat": 40.77,
+    "lng": -111.9,
+    "timezone": "Mountain",
+    "radius_in_miles": 0.22727272727272727,
+    "area_code_list": [
+        "385",
+        "801"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -111.9,
+    "bounds_east": -111.9,
+    "bounds_north": 40.77,
+    "bounds_south": 40.77,
+    "zipcode": "84180",
+    "polygon": [
+        [
+            -111.899675,
+            40.770557
+        ],
+        [
+            -111.899674,
+            40.770515
+        ],
+        [
+            -111.899674,
+            40.770389
+        ],
+        [
+            -111.899674,
+            40.770347
+        ],
+        [
+            -111.899674,
+            40.7703
+        ],
+        [
+            -111.899674,
+            40.770159
+        ],
+        [
+            -111.899674,
+            40.770112
+        ],
+        [
+            -111.899674,
+            40.769958
+        ],
+        [
+            -111.899674,
+            40.769499
+        ],
+        [
+            -111.899674,
+            40.769346
+        ],
+        [
+            -111.900245,
+            40.769345
+        ],
+        [
+            -111.901961,
+            40.769342
+        ],
+        [
+            -111.902533,
+            40.769342
+        ],
+        [
+            -111.902533,
+            40.769502
+        ],
+        [
+            -111.902533,
+            40.769984
+        ],
+        [
+            -111.902534,
+            40.770145
+        ],
+        [
+            -111.902534,
+            40.770186
+        ],
+        [
+            -111.902534,
+            40.770309
+        ],
+        [
+            -111.902534,
+            40.77035
+        ],
+        [
+            -111.902534,
+            40.770389
+        ],
+        [
+            -111.902534,
+            40.770506
+        ],
+        [
+            -111.902534,
+            40.770545
+        ],
+        [
+            -111.902534,
+            40.770745
+        ],
+        [
+            -111.902534,
+            40.771345
+        ],
+        [
+            -111.902535,
+            40.771545
+        ],
+        [
+            -111.901963,
+            40.771545
+        ],
+        [
+            -111.900247,
+            40.771545
+        ],
+        [
+            -111.899675,
+            40.771545
+        ],
+        [
+            -111.899675,
+            40.771347
+        ],
+        [
+            -111.899675,
+            40.770754
+        ],
+        [
+            -111.899675,
+            40.770557
+        ]
+    ],
+    "population_by_year": null,
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": null,
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

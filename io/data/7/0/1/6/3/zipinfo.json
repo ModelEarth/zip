@@ -1,0 +1,129 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "New Orleans",
+    "post_office_city": "New Orleans, LA",
+    "common_city_list": [
+        "New Orleans"
+    ],
+    "county": "Orleans Parish",
+    "state": "LA",
+    "lat": 29.9501,
+    "lng": -90.0756,
+    "timezone": "Central",
+    "radius_in_miles": 0.056818181818181816,
+    "area_code_list": [
+        "504"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -90.08,
+    "bounds_east": -90.07,
+    "bounds_north": 29.95,
+    "bounds_south": 29.95,
+    "zipcode": "70163",
+    "polygon": [
+        [
+            -90.075562,
+            29.950808
+        ],
+        [
+            -90.075019,
+            29.950659
+        ],
+        [
+            -90.074931,
+            29.950455
+        ],
+        [
+            -90.075325,
+            29.949327
+        ],
+        [
+            -90.07598,
+            29.949477
+        ],
+        [
+            -90.075613,
+            29.950644
+        ],
+        [
+            -90.075562,
+            29.950808
+        ]
+    ],
+    "population_by_year": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 99
+                },
+                {
+                    "x": 2006,
+                    "y": 101
+                },
+                {
+                    "x": 2007,
+                    "y": 64
+                }
+            ]
+        }
+    ],
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 236354.17
+                },
+                {
+                    "x": 2006,
+                    "y": 245240.74
+                },
+                {
+                    "x": 2007,
+                    "y": 211108.94
+                }
+            ]
+        }
+    ],
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

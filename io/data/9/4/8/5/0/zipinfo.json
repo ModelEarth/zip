@@ -1,0 +1,197 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Richmond",
+    "post_office_city": "Richmond, CA",
+    "common_city_list": [
+        "Richmond"
+    ],
+    "county": "Contra Costa County",
+    "state": "CA",
+    "lat": 37.903,
+    "lng": -122.321,
+    "timezone": "Pacific",
+    "radius_in_miles": 0.2840909090909091,
+    "area_code_list": [
+        "510"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -122.32,
+    "bounds_east": -122.31,
+    "bounds_north": 37.91,
+    "bounds_south": 37.9,
+    "zipcode": "94850",
+    "polygon": [
+        [
+            -122.319973,
+            37.903942
+        ],
+        [
+            -122.320298,
+            37.904443
+        ],
+        [
+            -122.319923,
+            37.90425
+        ],
+        [
+            -122.319932,
+            37.90455
+        ],
+        [
+            -122.319934,
+            37.904564
+        ],
+        [
+            -122.319205,
+            37.905832
+        ],
+        [
+            -122.319032,
+            37.906025
+        ],
+        [
+            -122.31782,
+            37.904592
+        ],
+        [
+            -122.315573,
+            37.901864
+        ],
+        [
+            -122.31517,
+            37.901368
+        ],
+        [
+            -122.314081,
+            37.900047
+        ],
+        [
+            -122.314327,
+            37.900013
+        ],
+        [
+            -122.314485,
+            37.89999
+        ],
+        [
+            -122.314644,
+            37.899968
+        ],
+        [
+            -122.314735,
+            37.899954
+        ],
+        [
+            -122.315416,
+            37.899848
+        ],
+        [
+            -122.315918,
+            37.899763
+        ],
+        [
+            -122.316137,
+            37.899727
+        ],
+        [
+            -122.316394,
+            37.899678
+        ],
+        [
+            -122.316445,
+            37.89967
+        ],
+        [
+            -122.3166,
+            37.899647
+        ],
+        [
+            -122.316652,
+            37.89964
+        ],
+        [
+            -122.316858,
+            37.899956
+        ],
+        [
+            -122.316914,
+            37.900042
+        ],
+        [
+            -122.317166,
+            37.900358
+        ],
+        [
+            -122.318035,
+            37.901449
+        ],
+        [
+            -122.318112,
+            37.901539
+        ],
+        [
+            -122.318489,
+            37.901986
+        ],
+        [
+            -122.31884,
+            37.902417
+        ],
+        [
+            -122.318871,
+            37.902455
+        ],
+        [
+            -122.319281,
+            37.902934
+        ],
+        [
+            -122.319419,
+            37.903086
+        ],
+        [
+            -122.319973,
+            37.903942
+        ]
+    ],
+    "population_by_year": null,
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": null,
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

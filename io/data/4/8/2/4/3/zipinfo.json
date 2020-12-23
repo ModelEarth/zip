@@ -1,0 +1,179 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Detroit",
+    "post_office_city": "Detroit, MI",
+    "common_city_list": [
+        "Detroit"
+    ],
+    "county": "Wayne County",
+    "state": "MI",
+    "lat": 42.329,
+    "lng": -83.04,
+    "timezone": "Eastern",
+    "radius_in_miles": 0.17045454545454544,
+    "area_code_list": [
+        "313",
+        "248",
+        "586"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -83.04,
+    "bounds_east": -83.04,
+    "bounds_north": 42.33,
+    "bounds_south": 42.33,
+    "zipcode": "48243",
+    "polygon": [
+        [
+            -83.039605,
+            42.330611
+        ],
+        [
+            -83.039231,
+            42.330764
+        ],
+        [
+            -83.039007,
+            42.33086
+        ],
+        [
+            -83.038065,
+            42.331115
+        ],
+        [
+            -83.037863,
+            42.330872
+        ],
+        [
+            -83.037814,
+            42.330801
+        ],
+        [
+            -83.037403,
+            42.330188
+        ],
+        [
+            -83.037488,
+            42.330137
+        ],
+        [
+            -83.038746,
+            42.329559
+        ],
+        [
+            -83.0408,
+            42.328837
+        ],
+        [
+            -83.041162,
+            42.329322
+        ],
+        [
+            -83.041266,
+            42.32946
+        ],
+        [
+            -83.041429,
+            42.329381
+        ],
+        [
+            -83.04115,
+            42.329
+        ],
+        [
+            -83.041846,
+            42.329656
+        ],
+        [
+            -83.041218,
+            42.329929
+        ],
+        [
+            -83.040853,
+            42.330078
+        ],
+        [
+            -83.040232,
+            42.330333
+        ],
+        [
+            -83.039605,
+            42.330611
+        ]
+    ],
+    "population_by_year": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 198
+                },
+                {
+                    "x": 2006,
+                    "y": 160
+                },
+                {
+                    "x": 2007,
+                    "y": 179
+                }
+            ]
+        }
+    ],
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 248633.03
+                },
+                {
+                    "x": 2006,
+                    "y": 103190
+                },
+                {
+                    "x": 2007,
+                    "y": 104134.9
+                }
+            ]
+        }
+    ],
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

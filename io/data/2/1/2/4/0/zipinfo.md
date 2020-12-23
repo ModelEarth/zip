@@ -1,0 +1,65 @@
+21240
+=====
+|||
+|--|--|
+|Zipcode type|Standard|
+|Major city|Baltimore|
+|Post office city|Baltimore, MD|
+|Common city list|Baltimore|
+|County|Anne Arundel County|
+|State|MD|
+|Latitude|39.17|
+|Longitude|-76.67|
+|Timezone|Eastern|
+|Radius in miles|2.0|
+|Area code list|240, 410, 443|
+|Population|0|
+|Population density|None|
+|Land area in sqmi|0.0|
+|Water area in sqmi|0.0|
+|Housing units|0|
+|Occupied housing units|0|
+|Median home value|None|
+|Median household income|None|
+|Bounds west|-76.7|
+|Bounds east|-76.65|
+|Bounds north|39.19|
+|Bounds south|39.16|
+|Zipcode|21240|
+|Population by year: 2005|117|
+|Population by year: 2006|81|
+|Population by year: 2007|83|
+|Population by age|None|
+|Population by gender|None|
+|Population by race|None|
+|Head of household by age|None|
+|Families vs singles|None|
+|Households with kids|None|
+|Children by age|None|
+|Housing type|None|
+|Year housing was built|None|
+|Housing occupancy|None|
+|Vancancy reason|None|
+|Owner occupied home values|None|
+|Rental properties by number of rooms|None|
+|Monthly rent including utilities studio apt|None|
+|Monthly rent including utilities 1 b|None|
+|Monthly rent including utilities 2 b|None|
+|Monthly rent including utilities 3plus b|None|
+|Employment status|None|
+|Average household income over time: 2005|81,241.38|
+|Average household income over time: 2006|65,300|
+|Average household income over time: 2007|83,454.12|
+|Household income|None|
+|Annual individual earnings|None|
+|Sources of household income, percent of households receiving income|None|
+|Sources of household income, average income per household by income source|None|
+|Household investment income, percent of households receiving investment income|None|
+|Household investment income, average income per household by income source|None|
+|Household retirement income, percent of households receiving retirement incom|None|
+|Household retirement income, average income per household by income source|None|
+|Source of earnings|None|
+|Means of transportation to work for workers 16 and over|None|
+|Travel time to work in minutes|None|
+|Educational attainment for population 25 and over|None|
+|School enrollment age 3 to 17|None|

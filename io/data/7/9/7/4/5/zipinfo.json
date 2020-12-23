@@ -1,0 +1,1582 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Kermit",
+    "post_office_city": "Kermit, TX",
+    "common_city_list": [
+        "Kermit"
+    ],
+    "county": "Winkler County",
+    "state": "TX",
+    "lat": 31.9,
+    "lng": -103.1,
+    "timezone": "Central",
+    "radius_in_miles": 18.0,
+    "area_code_list": [
+        "432"
+    ],
+    "population": 6125,
+    "population_density": 16.0,
+    "land_area_in_sqmi": 391.71,
+    "water_area_in_sqmi": 0.05,
+    "housing_units": 2601,
+    "occupied_housing_units": 2206,
+    "median_home_value": 44500,
+    "median_household_income": 48488,
+    "bounds_west": -103.33,
+    "bounds_east": -102.8,
+    "bounds_north": 32.0,
+    "bounds_south": 31.65,
+    "zipcode": "79745",
+    "polygon": [
+        [
+            [
+                -103.060676,
+                31.927747
+            ],
+            [
+                -103.060599,
+                31.927881
+            ],
+            [
+                -103.060512,
+                31.928
+            ],
+            [
+                -103.060341,
+                31.928047
+            ],
+            [
+                -103.05941,
+                31.92831
+            ],
+            [
+                -103.0591,
+                31.9284
+            ],
+            [
+                -103.059051,
+                31.928269
+            ],
+            [
+                -103.058906,
+                31.927881
+            ],
+            [
+                -103.058858,
+                31.927752
+            ],
+            [
+                -103.059266,
+                31.92766
+            ],
+            [
+                -103.060179,
+                31.927458
+            ],
+            [
+                -103.060487,
+                31.927574
+            ],
+            [
+                -103.060583,
+                31.927611
+            ],
+            [
+                -103.060676,
+                31.927747
+            ]
+        ]
+    ],
+    "population_by_year": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 5313
+                },
+                {
+                    "x": 2006,
+                    "y": 5361
+                },
+                {
+                    "x": 2007,
+                    "y": 5992
+                },
+                {
+                    "x": 2008,
+                    "y": 5655
+                },
+                {
+                    "x": 2009,
+                    "y": 5491
+                },
+                {
+                    "x": 2010,
+                    "y": 5612
+                },
+                {
+                    "x": 2011,
+                    "y": 5961
+                },
+                {
+                    "x": 2012,
+                    "y": 6040
+                },
+                {
+                    "x": 2013,
+                    "y": 6330
+                },
+                {
+                    "x": 2014,
+                    "y": 6530
+                },
+                {
+                    "x": 2015,
+                    "y": 6390
+                }
+            ]
+        }
+    ],
+    "population_by_age": [
+        {
+            "key": "Male",
+            "values": [
+                {
+                    "x": "Under 5",
+                    "y": 274
+                },
+                {
+                    "x": "5-9",
+                    "y": 265
+                },
+                {
+                    "x": "10-14",
+                    "y": 246
+                },
+                {
+                    "x": "15-19",
+                    "y": 246
+                },
+                {
+                    "x": "20-24",
+                    "y": 181
+                },
+                {
+                    "x": "25-29",
+                    "y": 207
+                },
+                {
+                    "x": "30-34",
+                    "y": 186
+                },
+                {
+                    "x": "35-39",
+                    "y": 162
+                },
+                {
+                    "x": "40-44",
+                    "y": 162
+                },
+                {
+                    "x": "45-49",
+                    "y": 248
+                },
+                {
+                    "x": "50-54",
+                    "y": 226
+                },
+                {
+                    "x": "55-59",
+                    "y": 191
+                },
+                {
+                    "x": "60-64",
+                    "y": 154
+                },
+                {
+                    "x": "65-69",
+                    "y": 90
+                },
+                {
+                    "x": "70-74",
+                    "y": 84
+                },
+                {
+                    "x": "75-79",
+                    "y": 69
+                },
+                {
+                    "x": "80-84",
+                    "y": 50
+                },
+                {
+                    "x": "85 Plus",
+                    "y": 35
+                }
+            ]
+        },
+        {
+            "key": "Female",
+            "values": [
+                {
+                    "x": "Under 5",
+                    "y": 261
+                },
+                {
+                    "x": "5-9",
+                    "y": 230
+                },
+                {
+                    "x": "10-14",
+                    "y": 227
+                },
+                {
+                    "x": "15-19",
+                    "y": 221
+                },
+                {
+                    "x": "20-24",
+                    "y": 157
+                },
+                {
+                    "x": "25-29",
+                    "y": 216
+                },
+                {
+                    "x": "30-34",
+                    "y": 196
+                },
+                {
+                    "x": "35-39",
+                    "y": 181
+                },
+                {
+                    "x": "40-44",
+                    "y": 181
+                },
+                {
+                    "x": "45-49",
+                    "y": 225
+                },
+                {
+                    "x": "50-54",
+                    "y": 202
+                },
+                {
+                    "x": "55-59",
+                    "y": 175
+                },
+                {
+                    "x": "60-64",
+                    "y": 155
+                },
+                {
+                    "x": "65-69",
+                    "y": 125
+                },
+                {
+                    "x": "70-74",
+                    "y": 102
+                },
+                {
+                    "x": "75-79",
+                    "y": 84
+                },
+                {
+                    "x": "80-84",
+                    "y": 70
+                },
+                {
+                    "x": "85 Plus",
+                    "y": 41
+                }
+            ]
+        },
+        {
+            "key": "Total",
+            "values": [
+                {
+                    "x": "Under 5",
+                    "y": 535
+                },
+                {
+                    "x": "5-9",
+                    "y": 495
+                },
+                {
+                    "x": "10-14",
+                    "y": 473
+                },
+                {
+                    "x": "15-19",
+                    "y": 467
+                },
+                {
+                    "x": "20-24",
+                    "y": 338
+                },
+                {
+                    "x": "25-29",
+                    "y": 423
+                },
+                {
+                    "x": "30-34",
+                    "y": 382
+                },
+                {
+                    "x": "35-39",
+                    "y": 343
+                },
+                {
+                    "x": "40-44",
+                    "y": 343
+                },
+                {
+                    "x": "45-49",
+                    "y": 473
+                },
+                {
+                    "x": "50-54",
+                    "y": 428
+                },
+                {
+                    "x": "55-59",
+                    "y": 366
+                },
+                {
+                    "x": "60-64",
+                    "y": 309
+                },
+                {
+                    "x": "65-69",
+                    "y": 215
+                },
+                {
+                    "x": "70-74",
+                    "y": 186
+                },
+                {
+                    "x": "75-79",
+                    "y": 153
+                },
+                {
+                    "x": "80-84",
+                    "y": 120
+                },
+                {
+                    "x": "85 Plus",
+                    "y": 76
+                }
+            ],
+            "color": "#000000"
+        }
+    ],
+    "population_by_gender": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Male",
+                    "y": 3076
+                },
+                {
+                    "x": "Female",
+                    "y": 3049
+                }
+            ]
+        }
+    ],
+    "population_by_race": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "White",
+                    "y": 4407
+                },
+                {
+                    "x": "Black Or African American",
+                    "y": 147
+                },
+                {
+                    "x": "American Indian Or Alaskan Native",
+                    "y": 65
+                },
+                {
+                    "x": "Asian",
+                    "y": 17
+                },
+                {
+                    "x": "Native Hawaiian & Other Pacific Islander",
+                    "y": 0
+                },
+                {
+                    "x": "Other Race",
+                    "y": 1311
+                },
+                {
+                    "x": "Two Or More Races",
+                    "y": 178
+                }
+            ]
+        }
+    ],
+    "head_of_household_by_age": [
+        {
+            "key": "Owner",
+            "values": [
+                {
+                    "x": "15-24",
+                    "y": 54
+                },
+                {
+                    "x": "25-34",
+                    "y": 264
+                },
+                {
+                    "x": "35-44",
+                    "y": 277
+                },
+                {
+                    "x": "45-54",
+                    "y": 399
+                },
+                {
+                    "x": "55-64",
+                    "y": 352
+                },
+                {
+                    "x": "65-74",
+                    "y": 221
+                },
+                {
+                    "x": "75-84",
+                    "y": 173
+                },
+                {
+                    "x": "85 Plus",
+                    "y": 53
+                }
+            ]
+        },
+        {
+            "key": "Renter",
+            "values": [
+                {
+                    "x": "15-24",
+                    "y": 42
+                },
+                {
+                    "x": "25-34",
+                    "y": 101
+                },
+                {
+                    "x": "35-44",
+                    "y": 75
+                },
+                {
+                    "x": "45-54",
+                    "y": 77
+                },
+                {
+                    "x": "55-64",
+                    "y": 53
+                },
+                {
+                    "x": "65-74",
+                    "y": 34
+                },
+                {
+                    "x": "75-84",
+                    "y": 22
+                },
+                {
+                    "x": "85 Plus",
+                    "y": 9
+                }
+            ]
+        },
+        {
+            "key": "Total",
+            "values": [
+                {
+                    "x": "15-24",
+                    "y": 96
+                },
+                {
+                    "x": "25-34",
+                    "y": 365
+                },
+                {
+                    "x": "35-44",
+                    "y": 352
+                },
+                {
+                    "x": "45-54",
+                    "y": 476
+                },
+                {
+                    "x": "55-64",
+                    "y": 405
+                },
+                {
+                    "x": "65-74",
+                    "y": 255
+                },
+                {
+                    "x": "75-84",
+                    "y": 195
+                },
+                {
+                    "x": "85 Plus",
+                    "y": 62
+                }
+            ],
+            "color": "#000000"
+        }
+    ],
+    "families_vs_singles": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Husband Wife Family Households",
+                    "y": 1208
+                },
+                {
+                    "x": "Single Guardian",
+                    "y": 417
+                },
+                {
+                    "x": "Singles",
+                    "y": 510
+                },
+                {
+                    "x": "Singles With Roommate",
+                    "y": 71
+                }
+            ]
+        }
+    ],
+    "households_with_kids": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Households Without Kids",
+                    "y": 1286
+                },
+                {
+                    "x": "Households With Kids",
+                    "y": 920
+                }
+            ]
+        }
+    ],
+    "children_by_age": [
+        {
+            "key": "Male",
+            "values": [
+                {
+                    "x": 0,
+                    "y": 63
+                },
+                {
+                    "x": 1,
+                    "y": 52
+                },
+                {
+                    "x": 2,
+                    "y": 58
+                },
+                {
+                    "x": 3,
+                    "y": 47
+                },
+                {
+                    "x": 4,
+                    "y": 47
+                },
+                {
+                    "x": 5,
+                    "y": 62
+                },
+                {
+                    "x": 6,
+                    "y": 57
+                },
+                {
+                    "x": 7,
+                    "y": 34
+                },
+                {
+                    "x": 8,
+                    "y": 65
+                },
+                {
+                    "x": 9,
+                    "y": 37
+                },
+                {
+                    "x": 10,
+                    "y": 49
+                },
+                {
+                    "x": 11,
+                    "y": 49
+                },
+                {
+                    "x": 12,
+                    "y": 57
+                },
+                {
+                    "x": 13,
+                    "y": 54
+                },
+                {
+                    "x": 14,
+                    "y": 45
+                },
+                {
+                    "x": 15,
+                    "y": 68
+                },
+                {
+                    "x": 16,
+                    "y": 42
+                },
+                {
+                    "x": 17,
+                    "y": 43
+                },
+                {
+                    "x": 18,
+                    "y": 48
+                },
+                {
+                    "x": 19,
+                    "y": 32
+                }
+            ]
+        },
+        {
+            "key": "Female",
+            "values": [
+                {
+                    "x": 0,
+                    "y": 50
+                },
+                {
+                    "x": 1,
+                    "y": 54
+                },
+                {
+                    "x": 2,
+                    "y": 45
+                },
+                {
+                    "x": 3,
+                    "y": 58
+                },
+                {
+                    "x": 4,
+                    "y": 38
+                },
+                {
+                    "x": 5,
+                    "y": 39
+                },
+                {
+                    "x": 6,
+                    "y": 55
+                },
+                {
+                    "x": 7,
+                    "y": 51
+                },
+                {
+                    "x": 8,
+                    "y": 47
+                },
+                {
+                    "x": 9,
+                    "y": 40
+                },
+                {
+                    "x": 10,
+                    "y": 38
+                },
+                {
+                    "x": 11,
+                    "y": 57
+                },
+                {
+                    "x": 12,
+                    "y": 50
+                },
+                {
+                    "x": 13,
+                    "y": 42
+                },
+                {
+                    "x": 14,
+                    "y": 43
+                },
+                {
+                    "x": 15,
+                    "y": 49
+                },
+                {
+                    "x": 16,
+                    "y": 61
+                },
+                {
+                    "x": 17,
+                    "y": 36
+                },
+                {
+                    "x": 18,
+                    "y": 32
+                },
+                {
+                    "x": 19,
+                    "y": 43
+                }
+            ]
+        },
+        {
+            "key": "Total",
+            "values": [
+                {
+                    "x": 0,
+                    "y": 113
+                },
+                {
+                    "x": 1,
+                    "y": 106
+                },
+                {
+                    "x": 2,
+                    "y": 103
+                },
+                {
+                    "x": 3,
+                    "y": 105
+                },
+                {
+                    "x": 4,
+                    "y": 85
+                },
+                {
+                    "x": 5,
+                    "y": 101
+                },
+                {
+                    "x": 6,
+                    "y": 112
+                },
+                {
+                    "x": 7,
+                    "y": 85
+                },
+                {
+                    "x": 8,
+                    "y": 112
+                },
+                {
+                    "x": 9,
+                    "y": 77
+                },
+                {
+                    "x": 10,
+                    "y": 87
+                },
+                {
+                    "x": 11,
+                    "y": 106
+                },
+                {
+                    "x": 12,
+                    "y": 107
+                },
+                {
+                    "x": 13,
+                    "y": 96
+                },
+                {
+                    "x": 14,
+                    "y": 88
+                },
+                {
+                    "x": 15,
+                    "y": 117
+                },
+                {
+                    "x": 16,
+                    "y": 103
+                },
+                {
+                    "x": 17,
+                    "y": 79
+                },
+                {
+                    "x": 18,
+                    "y": 80
+                },
+                {
+                    "x": 19,
+                    "y": 75
+                }
+            ],
+            "color": "#000000"
+        }
+    ],
+    "housing_type": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "In Occupied Housing Units",
+                    "y": 6028
+                },
+                {
+                    "x": "Correctional Facility For Adults",
+                    "y": 97
+                },
+                {
+                    "x": "Juvenile Facilities",
+                    "y": 0
+                },
+                {
+                    "x": "Nursing Facilities",
+                    "y": 0
+                },
+                {
+                    "x": "Other Institutional",
+                    "y": 0
+                },
+                {
+                    "x": "College Student Housing",
+                    "y": 0
+                },
+                {
+                    "x": "Military Quarters",
+                    "y": 0
+                },
+                {
+                    "x": "Other Noninstitutional",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "year_housing_was_built": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "1939 Or Earlier",
+                    "y": 92
+                },
+                {
+                    "x": "1940s",
+                    "y": 174
+                },
+                {
+                    "x": "1950s",
+                    "y": 785
+                },
+                {
+                    "x": "1960s",
+                    "y": 826
+                },
+                {
+                    "x": "1970s",
+                    "y": 293
+                },
+                {
+                    "x": "1980s",
+                    "y": 257
+                },
+                {
+                    "x": "1990s",
+                    "y": 118
+                },
+                {
+                    "x": "2000s",
+                    "y": 31
+                },
+                {
+                    "x": "2010 Or Later",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "housing_occupancy": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Owned Households With A Mortgage",
+                    "y": 609
+                },
+                {
+                    "x": "Owned Households Free & Clear",
+                    "y": 1184
+                },
+                {
+                    "x": "Renter Occupied Households",
+                    "y": 413
+                },
+                {
+                    "x": "Households Vacant",
+                    "y": 395
+                }
+            ]
+        }
+    ],
+    "vancancy_reason": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "For Rent",
+                    "y": 43
+                },
+                {
+                    "x": "Rented & Unoccupied",
+                    "y": 7
+                },
+                {
+                    "x": "For Sale Only",
+                    "y": 26
+                },
+                {
+                    "x": "Sold & Unoccupied",
+                    "y": 39
+                },
+                {
+                    "x": "For Season Recreational Or Occasional Use",
+                    "y": 31
+                },
+                {
+                    "x": "For Migrant Workers",
+                    "y": 2
+                },
+                {
+                    "x": "Vacant For Other Reasons",
+                    "y": 247
+                }
+            ]
+        }
+    ],
+    "owner_occupied_home_values": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "$1-$24,999",
+                    "y": 472
+                },
+                {
+                    "x": "$25,000-$49,999",
+                    "y": 604
+                },
+                {
+                    "x": "$50,000-$99,999",
+                    "y": 533
+                },
+                {
+                    "x": "$100,000-$149,999",
+                    "y": 162
+                },
+                {
+                    "x": "$150,000-$199,999",
+                    "y": 52
+                },
+                {
+                    "x": "$200,000-$399,999",
+                    "y": 44
+                },
+                {
+                    "x": "$400,000-$749,999",
+                    "y": 0
+                },
+                {
+                    "x": "$750,000+",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "rental_properties_by_number_of_rooms": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Studio Apartment",
+                    "y": 0
+                },
+                {
+                    "x": "1 Bedroom",
+                    "y": 88
+                },
+                {
+                    "x": "2 Bedroom",
+                    "y": 213
+                },
+                {
+                    "x": "3+ Bedroom",
+                    "y": 118
+                }
+            ]
+        }
+    ],
+    "monthly_rent_including_utilities_studio_apt": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "< $200",
+                    "y": 0
+                },
+                {
+                    "x": "$200-$299",
+                    "y": 0
+                },
+                {
+                    "x": "$300-$499",
+                    "y": 0
+                },
+                {
+                    "x": "$500-$749",
+                    "y": 0
+                },
+                {
+                    "x": "$750-$999",
+                    "y": 0
+                },
+                {
+                    "x": "$1,000+",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "monthly_rent_including_utilities_1_b": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "< $200",
+                    "y": 5
+                },
+                {
+                    "x": "$200-$299",
+                    "y": 0
+                },
+                {
+                    "x": "$300-$499",
+                    "y": 25
+                },
+                {
+                    "x": "$500-$749",
+                    "y": 14
+                },
+                {
+                    "x": "$750-$999",
+                    "y": 0
+                },
+                {
+                    "x": "$1,000+",
+                    "y": 25
+                }
+            ]
+        }
+    ],
+    "monthly_rent_including_utilities_2_b": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "< $200",
+                    "y": 10
+                },
+                {
+                    "x": "$200-$299",
+                    "y": 11
+                },
+                {
+                    "x": "$300-$499",
+                    "y": 19
+                },
+                {
+                    "x": "$500-$749",
+                    "y": 116
+                },
+                {
+                    "x": "$750-$999",
+                    "y": 11
+                },
+                {
+                    "x": "$1,000+",
+                    "y": 6
+                }
+            ]
+        }
+    ],
+    "monthly_rent_including_utilities_3plus_b": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "< $200",
+                    "y": 0
+                },
+                {
+                    "x": "$200-$299",
+                    "y": 0
+                },
+                {
+                    "x": "$300-$499",
+                    "y": 0
+                },
+                {
+                    "x": "$500-$749",
+                    "y": 38
+                },
+                {
+                    "x": "$750-$999",
+                    "y": 14
+                },
+                {
+                    "x": "$1,000+",
+                    "y": 15
+                }
+            ]
+        }
+    ],
+    "employment_status": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Worked Full-time With Earnings",
+                    "y": 1799
+                },
+                {
+                    "x": "Worked Part-time With Earnings",
+                    "y": 1010
+                },
+                {
+                    "x": "No Earnings",
+                    "y": 1653
+                }
+            ]
+        }
+    ],
+    "average_household_income_over_time": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 44880.85
+                },
+                {
+                    "x": 2006,
+                    "y": 52524.45
+                },
+                {
+                    "x": 2007,
+                    "y": 47377.65
+                },
+                {
+                    "x": 2008,
+                    "y": 55697.21
+                },
+                {
+                    "x": 2009,
+                    "y": 47120.47
+                },
+                {
+                    "x": 2010,
+                    "y": 49727.0
+                },
+                {
+                    "x": 2011,
+                    "y": 54086.47
+                },
+                {
+                    "x": 2012,
+                    "y": 60401.14
+                },
+                {
+                    "x": 2013,
+                    "y": 61098.17
+                },
+                {
+                    "x": 2014,
+                    "y": 65626.88
+                },
+                {
+                    "x": 2015,
+                    "y": 57328.57
+                }
+            ]
+        }
+    ],
+    "household_income": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "< $25,000",
+                    "y": 564
+                },
+                {
+                    "x": "$25,000-$44,999",
+                    "y": 491
+                },
+                {
+                    "x": "$45,000-$59,999",
+                    "y": 344
+                },
+                {
+                    "x": "$60,000-$99,999",
+                    "y": 468
+                },
+                {
+                    "x": "$100,000-$149,999",
+                    "y": 330
+                },
+                {
+                    "x": "$150,000-$199,999",
+                    "y": 51
+                },
+                {
+                    "x": "$200,000+",
+                    "y": 38
+                }
+            ]
+        }
+    ],
+    "annual_individual_earnings": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "< $10,000",
+                    "y": 606
+                },
+                {
+                    "x": "$10,000-$19,999",
+                    "y": 416
+                },
+                {
+                    "x": "$20,000-$29,999",
+                    "y": 418
+                },
+                {
+                    "x": "$30,000-$39,999",
+                    "y": 285
+                },
+                {
+                    "x": "$40,000-$49,999",
+                    "y": 290
+                },
+                {
+                    "x": "$50,000-$64,999",
+                    "y": 270
+                },
+                {
+                    "x": "$65,000-$74,999",
+                    "y": 122
+                },
+                {
+                    "x": "$75,000-$99,999",
+                    "y": 254
+                },
+                {
+                    "x": "$100,000+",
+                    "y": 148
+                }
+            ]
+        }
+    ],
+    "sources_of_household_income____percent_of_households_receiving_income": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Wages",
+                    "y": 88.64
+                },
+                {
+                    "x": "Business",
+                    "y": 18.32
+                },
+                {
+                    "x": "Partnership",
+                    "y": 2.93
+                },
+                {
+                    "x": "Unemployment",
+                    "y": 5.13
+                }
+            ]
+        }
+    ],
+    "sources_of_household_income____average_income_per_household_by_income_source": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Wages",
+                    "y": 51651.24
+                },
+                {
+                    "x": "Business",
+                    "y": 10066
+                },
+                {
+                    "x": "Partnership",
+                    "y": 63737.5
+                },
+                {
+                    "x": "Unemployment",
+                    "y": 5492.86
+                }
+            ]
+        }
+    ],
+    "household_investment_income____percent_of_households_receiving_investment_income": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Interest",
+                    "y": 18.32
+                },
+                {
+                    "x": "Ordinary Dividends",
+                    "y": 5.86
+                },
+                {
+                    "x": "Qualified Dividends",
+                    "y": 5.13
+                },
+                {
+                    "x": "Capital Gains",
+                    "y": 4.76
+                }
+            ]
+        }
+    ],
+    "household_investment_income____average_income_per_household_by_income_source": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Interest",
+                    "y": 684
+                },
+                {
+                    "x": "Ordinary Dividends",
+                    "y": 4668.75
+                },
+                {
+                    "x": "Qualified Dividends",
+                    "y": 3671.43
+                },
+                {
+                    "x": "Capital Gains",
+                    "y": 10538.46
+                }
+            ]
+        }
+    ],
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "IRA Distributions",
+                    "y": 5.49
+                },
+                {
+                    "x": "Pensions/annuities",
+                    "y": 13.55
+                },
+                {
+                    "x": "Social Security",
+                    "y": 9.16
+                }
+            ]
+        }
+    ],
+    "household_retirement_income____average_income_per_household_by_income_source": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "IRA Distributions",
+                    "y": 15853.33
+                },
+                {
+                    "x": "Pensions/annuities",
+                    "y": 18708.11
+                },
+                {
+                    "x": "Social Security",
+                    "y": 12288
+                }
+            ]
+        }
+    ],
+    "source_of_earnings": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Worked Full-time With Earnings",
+                    "y": 1799
+                },
+                {
+                    "x": "Worked Part-time With Earnings",
+                    "y": 1010
+                },
+                {
+                    "x": "No Earnings",
+                    "y": 1653
+                }
+            ]
+        }
+    ],
+    "means_of_transportation_to_work_for_workers_16_and_over": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Car, Truck, Or Van",
+                    "y": 2374
+                },
+                {
+                    "x": "Public Transportation",
+                    "y": 0
+                },
+                {
+                    "x": "Taxicab",
+                    "y": 0
+                },
+                {
+                    "x": "Motorcycle",
+                    "y": 0
+                },
+                {
+                    "x": "Bicycle, Walked, Or Other Means",
+                    "y": 77
+                },
+                {
+                    "x": "Worked At Home",
+                    "y": 53
+                }
+            ]
+        }
+    ],
+    "travel_time_to_work_in_minutes": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "< 10",
+                    "y": 1189
+                },
+                {
+                    "x": "10-19",
+                    "y": 454
+                },
+                {
+                    "x": "20-29",
+                    "y": 95
+                },
+                {
+                    "x": "30-39",
+                    "y": 189
+                },
+                {
+                    "x": "40-44",
+                    "y": 13
+                },
+                {
+                    "x": "45-59",
+                    "y": 174
+                },
+                {
+                    "x": "60-89",
+                    "y": 162
+                },
+                {
+                    "x": "90+",
+                    "y": 175
+                }
+            ]
+        }
+    ],
+    "educational_attainment_for_population_25_and_over": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Less Than High School Diploma",
+                    "y": 1240
+                },
+                {
+                    "x": "High School Graduate",
+                    "y": 2030
+                },
+                {
+                    "x": "Associate's Degree",
+                    "y": 187
+                },
+                {
+                    "x": "Bachelor's Degree",
+                    "y": 250
+                },
+                {
+                    "x": "Master's Degree",
+                    "y": 68
+                },
+                {
+                    "x": "Professional School Degree",
+                    "y": 10
+                },
+                {
+                    "x": "Doctorate Degree",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "school_enrollment_age_3_to_17": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Enrolled In Public School",
+                    "y": 1337
+                },
+                {
+                    "x": "Enrolled In Private School",
+                    "y": 15
+                },
+                {
+                    "x": "Not Enrolled In School",
+                    "y": 188
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Washington",
+    "post_office_city": "Washington, DC",
+    "common_city_list": [
+        "Washington"
+    ],
+    "county": "District of Columbia",
+    "state": "DC",
+    "lat": 38.9,
+    "lng": -77.02,
+    "timezone": "Eastern",
+    "radius_in_miles": 2.0,
+    "area_code_list": [
+        "202"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -77.03,
+    "bounds_east": -77.02,
+    "bounds_north": 38.88,
+    "bounds_south": 38.88,
+    "zipcode": "20260",
+    "polygon": [
+        [
+            -77.025977,
+            38.884097
+        ],
+        [
+            -77.025974,
+            38.884847
+        ],
+        [
+            -77.025685,
+            38.884844
+        ],
+        [
+            -77.024179,
+            38.884845
+        ],
+        [
+            -77.024021,
+            38.884845
+        ],
+        [
+            -77.024018,
+            38.884272
+        ],
+        [
+            -77.024014,
+            38.88344
+        ],
+        [
+            -77.023999,
+            38.883074
+        ],
+        [
+            -77.023995,
+            38.882902
+        ],
+        [
+            -77.023995,
+            38.882731
+        ],
+        [
+            -77.023994,
+            38.882546
+        ],
+        [
+            -77.024126,
+            38.88254
+        ],
+        [
+            -77.024258,
+            38.882528
+        ],
+        [
+            -77.02439,
+            38.882517
+        ],
+        [
+            -77.024588,
+            38.882504
+        ],
+        [
+            -77.024902,
+            38.882492
+        ],
+        [
+            -77.025299,
+            38.88249
+        ],
+        [
+            -77.025627,
+            38.882491
+        ],
+        [
+            -77.02579,
+            38.88249
+        ],
+        [
+            -77.025982,
+            38.88249
+        ],
+        [
+            -77.025981,
+            38.882627
+        ],
+        [
+            -77.025981,
+            38.882748
+        ],
+        [
+            -77.025981,
+            38.882773
+        ],
+        [
+            -77.025981,
+            38.882888
+        ],
+        [
+            -77.025977,
+            38.884097
+        ]
+    ],
+    "population_by_year": null,
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": null,
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

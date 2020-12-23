@@ -1,0 +1,292 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Flushing",
+    "post_office_city": "Flushing, NY",
+    "common_city_list": [
+        "Flushing",
+        "East Elmhurst",
+        "La Guardia Airport",
+        "La Gu..."
+    ],
+    "county": "Queens County",
+    "state": "NY",
+    "lat": 40.77,
+    "lng": -73.87,
+    "timezone": "Eastern",
+    "radius_in_miles": 1.0,
+    "area_code_list": [
+        "212"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -73.89,
+    "bounds_east": -73.86,
+    "bounds_north": 40.78,
+    "bounds_south": 40.76,
+    "zipcode": "11371",
+    "polygon": [
+        [
+            -73.868054,
+            40.770113
+        ],
+        [
+            -73.870094,
+            40.770809
+        ],
+        [
+            -73.873059,
+            40.771808
+        ],
+        [
+            -73.875284,
+            40.771768
+        ],
+        [
+            -73.876467,
+            40.771549
+        ],
+        [
+            -73.87686,
+            40.771479
+        ],
+        [
+            -73.878619,
+            40.770863
+        ],
+        [
+            -73.879759,
+            40.770217
+        ],
+        [
+            -73.883541,
+            40.768321
+        ],
+        [
+            -73.884802,
+            40.767838
+        ],
+        [
+            -73.887671,
+            40.76672
+        ],
+        [
+            -73.887601,
+            40.767296
+        ],
+        [
+            -73.888178,
+            40.768428
+        ],
+        [
+            -73.888726,
+            40.768916
+        ],
+        [
+            -73.88904,
+            40.770916
+        ],
+        [
+            -73.889424,
+            40.773046
+        ],
+        [
+            -73.889068,
+            40.773682
+        ],
+        [
+            -73.883993,
+            40.774202
+        ],
+        [
+            -73.884553,
+            40.777397
+        ],
+        [
+            -73.884529,
+            40.778558
+        ],
+        [
+            -73.884706,
+            40.778826
+        ],
+        [
+            -73.884504,
+            40.7797
+        ],
+        [
+            -73.877157,
+            40.780705
+        ],
+        [
+            -73.873935,
+            40.781145
+        ],
+        [
+            -73.873033,
+            40.781128
+        ],
+        [
+            -73.871622,
+            40.780661
+        ],
+        [
+            -73.870814,
+            40.780109
+        ],
+        [
+            -73.870425,
+            40.779854
+        ],
+        [
+            -73.869839,
+            40.779722
+        ],
+        [
+            -73.862875,
+            40.7763
+        ],
+        [
+            -73.862192,
+            40.77577
+        ],
+        [
+            -73.862021,
+            40.775695
+        ],
+        [
+            -73.862011,
+            40.775686
+        ],
+        [
+            -73.860886,
+            40.775197
+        ],
+        [
+            -73.856537,
+            40.772799
+        ],
+        [
+            -73.8565,
+            40.772061
+        ],
+        [
+            -73.858494,
+            40.769906
+        ],
+        [
+            -73.859179,
+            40.76891
+        ],
+        [
+            -73.862816,
+            40.76654
+        ],
+        [
+            -73.860274,
+            40.763444
+        ],
+        [
+            -73.860878,
+            40.763206
+        ],
+        [
+            -73.863481,
+            40.765979
+        ],
+        [
+            -73.863593,
+            40.766099
+        ],
+        [
+            -73.865569,
+            40.767888
+        ],
+        [
+            -73.8664,
+            40.7686
+        ],
+        [
+            -73.867035,
+            40.769144
+        ],
+        [
+            -73.868054,
+            40.770113
+        ]
+    ],
+    "population_by_year": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 97
+                },
+                {
+                    "x": 2006,
+                    "y": 89
+                },
+                {
+                    "x": 2007,
+                    "y": 116
+                }
+            ]
+        }
+    ],
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 69333.33
+                },
+                {
+                    "x": 2006,
+                    "y": 43563.64
+                },
+                {
+                    "x": 2007,
+                    "y": 38364.31
+                }
+            ]
+        }
+    ],
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

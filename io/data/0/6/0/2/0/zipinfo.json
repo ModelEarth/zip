@@ -1,0 +1,229 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Canton Center",
+    "post_office_city": "Canton Center, CT",
+    "common_city_list": [
+        "Canton Center"
+    ],
+    "county": "Hartford County",
+    "state": "CT",
+    "lat": 41.85,
+    "lng": -72.91,
+    "timezone": "Eastern",
+    "radius_in_miles": 4.0,
+    "area_code_list": [
+        "860"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -72.93,
+    "bounds_east": -72.93,
+    "bounds_north": 41.84,
+    "bounds_south": 41.83,
+    "zipcode": "06020",
+    "polygon": [
+        [
+            -72.928418,
+            41.83441
+        ],
+        [
+            -72.928217,
+            41.83397
+        ],
+        [
+            -72.927593,
+            41.832932
+        ],
+        [
+            -72.927906,
+            41.832906
+        ],
+        [
+            -72.928096,
+            41.83289
+        ],
+        [
+            -72.928194,
+            41.833022
+        ],
+        [
+            -72.928503,
+            41.83352
+        ],
+        [
+            -72.928729,
+            41.833884
+        ],
+        [
+            -72.928898,
+            41.834367
+        ],
+        [
+            -72.929008,
+            41.834526
+        ],
+        [
+            -72.929162,
+            41.834631
+        ],
+        [
+            -72.929404,
+            41.834905
+        ],
+        [
+            -72.929702,
+            41.835385
+        ],
+        [
+            -72.929735,
+            41.835438
+        ],
+        [
+            -72.929955,
+            41.835822
+        ],
+        [
+            -72.929933,
+            41.83586
+        ],
+        [
+            -72.929815,
+            41.836025
+        ],
+        [
+            -72.929831,
+            41.836021
+        ],
+        [
+            -72.930231,
+            41.835807
+        ],
+        [
+            -72.930166,
+            41.835868
+        ],
+        [
+            -72.929972,
+            41.836053
+        ],
+        [
+            -72.929942,
+            41.836083
+        ],
+        [
+            -72.929905,
+            41.836111
+        ],
+        [
+            -72.929791,
+            41.836197
+        ],
+        [
+            -72.929735,
+            41.836148
+        ],
+        [
+            -72.929448,
+            41.835896
+        ],
+        [
+            -72.928881,
+            41.835443
+        ],
+        [
+            -72.928844,
+            41.835412
+        ],
+        [
+            -72.92873,
+            41.835329
+        ],
+        [
+            -72.928719,
+            41.83533
+        ],
+        [
+            -72.928629,
+            41.835203
+        ],
+        [
+            -72.928558,
+            41.835074
+        ],
+        [
+            -72.928541,
+            41.834969
+        ],
+        [
+            -72.928534,
+            41.834739
+        ],
+        [
+            -72.928517,
+            41.834649
+        ],
+        [
+            -72.928418,
+            41.83441
+        ]
+    ],
+    "population_by_year": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2007,
+                    "y": 183
+                }
+            ]
+        }
+    ],
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2007,
+                    "y": 91751.01
+                }
+            ]
+        }
+    ],
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

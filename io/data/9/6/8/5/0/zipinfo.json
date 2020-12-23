@@ -1,0 +1,265 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Honolulu",
+    "post_office_city": "Honolulu, HI",
+    "common_city_list": [
+        "Honolulu"
+    ],
+    "county": "Honolulu County",
+    "state": "HI",
+    "lat": 21.305,
+    "lng": -157.858,
+    "timezone": "Pacific/Honolulu",
+    "radius_in_miles": 0.11363636363636363,
+    "area_code_list": [
+        "808"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -157.86,
+    "bounds_east": -157.86,
+    "bounds_north": 21.31,
+    "bounds_south": 21.3,
+    "zipcode": "96850",
+    "polygon": [
+        [
+            -157.863378,
+            21.30322
+        ],
+        [
+            -157.863457,
+            21.303356
+        ],
+        [
+            -157.863508,
+            21.303482
+        ],
+        [
+            -157.863528,
+            21.303604
+        ],
+        [
+            -157.86355,
+            21.303862
+        ],
+        [
+            -157.863582,
+            21.304082
+        ],
+        [
+            -157.863602,
+            21.304325
+        ],
+        [
+            -157.863627,
+            21.304608
+        ],
+        [
+            -157.86366,
+            21.304799
+        ],
+        [
+            -157.863692,
+            21.304911
+        ],
+        [
+            -157.863498,
+            21.305007
+        ],
+        [
+            -157.863444,
+            21.305034
+        ],
+        [
+            -157.862953,
+            21.305339
+        ],
+        [
+            -157.862942,
+            21.305342
+        ],
+        [
+            -157.862738,
+            21.305414
+        ],
+        [
+            -157.862626,
+            21.305424
+        ],
+        [
+            -157.862543,
+            21.305399
+        ],
+        [
+            -157.862257,
+            21.304958
+        ],
+        [
+            -157.862037,
+            21.304613
+        ],
+        [
+            -157.86192,
+            21.304429
+        ],
+        [
+            -157.861714,
+            21.304118
+        ],
+        [
+            -157.861615,
+            21.303947
+        ],
+        [
+            -157.861514,
+            21.30381
+        ],
+        [
+            -157.861466,
+            21.303744
+        ],
+        [
+            -157.8613,
+            21.303555
+        ],
+        [
+            -157.86119,
+            21.303436
+        ],
+        [
+            -157.861417,
+            21.303262
+        ],
+        [
+            -157.861779,
+            21.302986
+        ],
+        [
+            -157.862105,
+            21.302747
+        ],
+        [
+            -157.862337,
+            21.302578
+        ],
+        [
+            -157.862515,
+            21.302447
+        ],
+        [
+            -157.862538,
+            21.302431
+        ],
+        [
+            -157.862894,
+            21.302149
+        ],
+        [
+            -157.863009,
+            21.302084
+        ],
+        [
+            -157.863047,
+            21.302066
+        ],
+        [
+            -157.863055,
+            21.302062
+        ],
+        [
+            -157.863137,
+            21.302034
+        ],
+        [
+            -157.863266,
+            21.301994
+        ],
+        [
+            -157.863332,
+            21.302583
+        ],
+        [
+            -157.863363,
+            21.302861
+        ],
+        [
+            -157.863378,
+            21.30322
+        ]
+    ],
+    "population_by_year": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 25
+                },
+                {
+                    "x": 2006,
+                    "y": 30
+                },
+                {
+                    "x": 2007,
+                    "y": 49
+                }
+            ]
+        }
+    ],
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 90500
+                },
+                {
+                    "x": 2006,
+                    "y": 53944.44
+                },
+                {
+                    "x": 2007,
+                    "y": 86286.38
+                }
+            ]
+        }
+    ],
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

@@ -1,0 +1,164 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Pittsburgh",
+    "post_office_city": "Pittsburgh, PA",
+    "common_city_list": [
+        "Pittsburgh"
+    ],
+    "county": "Allegheny County",
+    "state": "PA",
+    "lat": 40.446,
+    "lng": -79.956,
+    "timezone": "Eastern",
+    "radius_in_miles": 0.5113636363636364,
+    "area_code_list": [
+        "412",
+        "724"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -79.96,
+    "bounds_east": -79.95,
+    "bounds_north": 40.45,
+    "bounds_south": 40.44,
+    "zipcode": "15260",
+    "polygon": [
+        [
+            [
+                -79.954776,
+                40.444418
+            ],
+            [
+                -79.954959,
+                40.444293
+            ],
+            [
+                -79.955157,
+                40.444159
+            ],
+            [
+                -79.955505,
+                40.44391
+            ],
+            [
+                -79.955686,
+                40.443782
+            ],
+            [
+                -79.956002,
+                40.444036
+            ],
+            [
+                -79.956951,
+                40.444798
+            ],
+            [
+                -79.957268,
+                40.445052
+            ],
+            [
+                -79.95709,
+                40.445182
+            ],
+            [
+                -79.956557,
+                40.445572
+            ],
+            [
+                -79.95638,
+                40.445703
+            ],
+            [
+                -79.956278,
+                40.445618
+            ],
+            [
+                -79.95606,
+                40.445444
+            ],
+            [
+                -79.955097,
+                40.444674
+            ],
+            [
+                -79.954776,
+                40.444418
+            ]
+        ]
+    ],
+    "population_by_year": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 29
+                },
+                {
+                    "x": 2006,
+                    "y": 35
+                },
+                {
+                    "x": 2007,
+                    "y": 32
+                }
+            ]
+        }
+    ],
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 22272.73
+                },
+                {
+                    "x": 2006,
+                    "y": 17166.67
+                },
+                {
+                    "x": 2007,
+                    "y": 16815.79
+                }
+            ]
+        }
+    ],
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

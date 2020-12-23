@@ -1,0 +1,169 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Washington",
+    "post_office_city": "Washington, DC",
+    "common_city_list": [
+        "Washington"
+    ],
+    "county": "District of Columbia",
+    "state": "DC",
+    "lat": 38.904,
+    "lng": -77.032,
+    "timezone": "Eastern",
+    "radius_in_miles": 0.625,
+    "area_code_list": [
+        "202"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -77.03,
+    "bounds_east": -77.03,
+    "bounds_north": 38.9,
+    "bounds_south": 38.9,
+    "zipcode": "20045",
+    "polygon": [
+        [
+            -77.029619,
+            38.897339
+        ],
+        [
+            -77.029619,
+            38.897175
+        ],
+        [
+            -77.029628,
+            38.896628
+        ],
+        [
+            -77.029636,
+            38.896259
+        ],
+        [
+            -77.02964,
+            38.896126
+        ],
+        [
+            -77.029704,
+            38.896125
+        ],
+        [
+            -77.029972,
+            38.896112
+        ],
+        [
+            -77.030448,
+            38.896114
+        ],
+        [
+            -77.030785,
+            38.896117
+        ],
+        [
+            -77.031962,
+            38.896105
+        ],
+        [
+            -77.031964,
+            38.896959
+        ],
+        [
+            -77.031963,
+            38.897349
+        ],
+        [
+            -77.031743,
+            38.897349
+        ],
+        [
+            -77.031534,
+            38.89735
+        ],
+        [
+            -77.030646,
+            38.897346
+        ],
+        [
+            -77.029972,
+            38.89735
+        ],
+        [
+            -77.029693,
+            38.897339
+        ],
+        [
+            -77.029619,
+            38.897339
+        ]
+    ],
+    "population_by_year": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 32
+                },
+                {
+                    "x": 2006,
+                    "y": 0
+                },
+                {
+                    "x": 2007,
+                    "y": 39
+                }
+            ]
+        }
+    ],
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 106333.33
+                },
+                {
+                    "x": 2007,
+                    "y": 90852.65
+                }
+            ]
+        }
+    ],
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

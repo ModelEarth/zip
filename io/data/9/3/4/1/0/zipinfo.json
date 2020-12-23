@@ -1,0 +1,250 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "San Luis Obispo",
+    "post_office_city": "San Luis Obispo, CA",
+    "common_city_list": [
+        "San Luis Obispo",
+        "Sn Luis Obisp"
+    ],
+    "county": "San Luis Obispo County",
+    "state": "CA",
+    "lat": 35.3,
+    "lng": -120.6,
+    "timezone": "Pacific",
+    "radius_in_miles": 8.0,
+    "area_code_list": [
+        "805"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -120.66,
+    "bounds_east": -120.66,
+    "bounds_north": 35.3,
+    "bounds_south": 35.3,
+    "zipcode": "93410",
+    "polygon": [
+        [
+            -120.662557,
+            35.30057
+        ],
+        [
+            -120.66304,
+            35.302356
+        ],
+        [
+            -120.663463,
+            35.303964
+        ],
+        [
+            -120.662945,
+            35.30406
+        ],
+        [
+            -120.662717,
+            35.304105
+        ],
+        [
+            -120.662632,
+            35.304117
+        ],
+        [
+            -120.662203,
+            35.304178
+        ],
+        [
+            -120.661967,
+            35.303324
+        ],
+        [
+            -120.661239,
+            35.3033
+        ],
+        [
+            -120.660808,
+            35.303316
+        ],
+        [
+            -120.658611,
+            35.303449
+        ],
+        [
+            -120.65834,
+            35.303502
+        ],
+        [
+            -120.65881,
+            35.303142
+        ],
+        [
+            -120.659157,
+            35.302666
+        ],
+        [
+            -120.658557,
+            35.302081
+        ],
+        [
+            -120.658078,
+            35.301334
+        ],
+        [
+            -120.658045,
+            35.301096
+        ],
+        [
+            -120.658018,
+            35.300877
+        ],
+        [
+            -120.658065,
+            35.300424
+        ],
+        [
+            -120.658304,
+            35.299962
+        ],
+        [
+            -120.658464,
+            35.299763
+        ],
+        [
+            -120.658584,
+            35.29963
+        ],
+        [
+            -120.658994,
+            35.299343
+        ],
+        [
+            -120.659365,
+            35.299176
+        ],
+        [
+            -120.659605,
+            35.299113
+        ],
+        [
+            -120.659649,
+            35.299102
+        ],
+        [
+            -120.660369,
+            35.298972
+        ],
+        [
+            -120.661047,
+            35.298848
+        ],
+        [
+            -120.661454,
+            35.298774
+        ],
+        [
+            -120.661856,
+            35.298825
+        ],
+        [
+            -120.662127,
+            35.298929
+        ],
+        [
+            -120.662606,
+            35.299017
+        ],
+        [
+            -120.663613,
+            35.298862
+        ],
+        [
+            -120.663776,
+            35.299353
+        ],
+        [
+            -120.663817,
+            35.299475
+        ],
+        [
+            -120.663935,
+            35.299916
+        ],
+        [
+            -120.662557,
+            35.30057
+        ]
+    ],
+    "population_by_year": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 61
+                },
+                {
+                    "x": 2006,
+                    "y": 12
+                },
+                {
+                    "x": 2007,
+                    "y": 21
+                }
+            ]
+        }
+    ],
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 3442.62
+                },
+                {
+                    "x": 2006,
+                    "y": 4370.37
+                },
+                {
+                    "x": 2007,
+                    "y": 3872.52
+                }
+            ]
+        }
+    ],
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

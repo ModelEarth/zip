@@ -1,0 +1,177 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Saint Louis",
+    "post_office_city": "Saint Louis, MO",
+    "common_city_list": [
+        "Saint Louis"
+    ],
+    "county": "St. Louis city",
+    "state": "MO",
+    "lat": 38.63,
+    "lng": -90.22,
+    "timezone": "Central",
+    "radius_in_miles": 1.0,
+    "area_code_list": [
+        "314"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -90.21,
+    "bounds_east": -90.2,
+    "bounds_north": 38.63,
+    "bounds_south": 38.63,
+    "zipcode": "63155",
+    "polygon": [
+        [
+            -90.203769,
+            38.628699
+        ],
+        [
+            -90.203854,
+            38.628488
+        ],
+        [
+            -90.204108,
+            38.627856
+        ],
+        [
+            -90.204194,
+            38.627646
+        ],
+        [
+            -90.204293,
+            38.627413
+        ],
+        [
+            -90.204589,
+            38.626715
+        ],
+        [
+            -90.204689,
+            38.626483
+        ],
+        [
+            -90.205151,
+            38.62658
+        ],
+        [
+            -90.206024,
+            38.626765
+        ],
+        [
+            -90.20654,
+            38.626866
+        ],
+        [
+            -90.207004,
+            38.626958
+        ],
+        [
+            -90.206933,
+            38.627295
+        ],
+        [
+            -90.206893,
+            38.627431
+        ],
+        [
+            -90.206842,
+            38.627608
+        ],
+        [
+            -90.206768,
+            38.627914
+        ],
+        [
+            -90.206648,
+            38.628277
+        ],
+        [
+            -90.206481,
+            38.628832
+        ],
+        [
+            -90.206394,
+            38.629123
+        ],
+        [
+            -90.206366,
+            38.629241
+        ],
+        [
+            -90.206345,
+            38.6293
+        ],
+        [
+            -90.20626,
+            38.629266
+        ],
+        [
+            -90.206036,
+            38.629206
+        ],
+        [
+            -90.20525,
+            38.628996
+        ],
+        [
+            -90.205099,
+            38.628966
+        ],
+        [
+            -90.204783,
+            38.628903
+        ],
+        [
+            -90.20458,
+            38.628862
+        ],
+        [
+            -90.203971,
+            38.628739
+        ],
+        [
+            -90.203769,
+            38.628699
+        ]
+    ],
+    "population_by_year": null,
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": null,
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

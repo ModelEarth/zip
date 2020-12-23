@@ -1,0 +1,335 @@
+87035
+=====
+|||
+|--|--|
+|Zipcode type|Standard|
+|Major city|Moriarty|
+|Post office city|Moriarty, NM|
+|Common city list|Moriarty|
+|County|Torrance County|
+|State|NM|
+|Latitude|34.9|
+|Longitude|-105.8|
+|Timezone|Mountain|
+|Radius in miles|27.0|
+|Area code list|505|
+|Population|7,268|
+|Population density|33.0|
+|Land area in sqmi|219.45|
+|Water area in sqmi|0.0|
+|Housing units|3,316|
+|Occupied housing units|2,768|
+|Median home value|98,300|
+|Median household income|30,602|
+|Bounds west|-106.17|
+|Bounds east|-105.78|
+|Bounds north|35.08|
+|Bounds south|34.87|
+|Zipcode|87035|
+|Population by year: 2005|6,185|
+|Population by year: 2006|6,105|
+|Population by year: 2007|6,632|
+|Population by year: 2008|6,287|
+|Population by year: 2009|6,083|
+|Population by year: 2010|5,921|
+|Population by year: 2011|5,867|
+|Population by year: 2012|5,730|
+|Population by year: 2013|5,600|
+|Population by year: 2014|5,630|
+|Population by year: 2015|5,510|
+|Population by age: male, under 5 years old|235|
+|Population by age: male, 5-9 years old|285|
+|Population by age: male, 10-14 years old|277|
+|Population by age: male, 15-19 years old|303|
+|Population by age: male, 20-24 years old|217|
+|Population by age: male, 25-29 years old|173|
+|Population by age: male, 30-34 years old|178|
+|Population by age: male, 35-39 years old|202|
+|Population by age: male, 40-44 years old|252|
+|Population by age: male, 45-49 years old|263|
+|Population by age: male, 50-54 years old|299|
+|Population by age: male, 55-59 years old|291|
+|Population by age: male, 60-64 years old|252|
+|Population by age: male, 65-69 years old|169|
+|Population by age: male, 70-74 years old|120|
+|Population by age: male, 75-79 years old|82|
+|Population by age: male, 80-84 years old|59|
+|Population by age: male, 85 plus years old|26|
+|Population by age: female, under 5 years old|235|
+|Population by age: female, 5-9 years old|263|
+|Population by age: female, 10-14 years old|280|
+|Population by age: female, 15-19 years old|271|
+|Population by age: female, 20-24 years old|179|
+|Population by age: female, 25-29 years old|192|
+|Population by age: female, 30-34 years old|194|
+|Population by age: female, 35-39 years old|216|
+|Population by age: female, 40-44 years old|223|
+|Population by age: female, 45-49 years old|307|
+|Population by age: female, 50-54 years old|287|
+|Population by age: female, 55-59 years old|260|
+|Population by age: female, 60-64 years old|222|
+|Population by age: female, 65-69 years old|163|
+|Population by age: female, 70-74 years old|121|
+|Population by age: female, 75-79 years old|75|
+|Population by age: female, 80-84 years old|43|
+|Population by age: female, 85 plus years old|54|
+|Population by age: total, under 5 years old|470|
+|Population by age: total, 5-9 years old|548|
+|Population by age: total, 10-14 years old|557|
+|Population by age: total, 15-19 years old|574|
+|Population by age: total, 20-24 years old|396|
+|Population by age: total, 25-29 years old|365|
+|Population by age: total, 30-34 years old|372|
+|Population by age: total, 35-39 years old|418|
+|Population by age: total, 40-44 years old|475|
+|Population by age: total, 45-49 years old|570|
+|Population by age: total, 50-54 years old|586|
+|Population by age: total, 55-59 years old|551|
+|Population by age: total, 60-64 years old|474|
+|Population by age: total, 65-69 years old|332|
+|Population by age: total, 70-74 years old|241|
+|Population by age: total, 75-79 years old|157|
+|Population by age: total, 80-84 years old|102|
+|Population by age: total, 85 plus years old|80|
+|Population by gender: male|3,683|
+|Population by gender: female|3,585|
+|Population by race: white|5,496|
+|Population by race: black or african american|95|
+|Population by race: american indian or alaskan native|189|
+|Population by race: asian|32|
+|Population by race: native hawaiian & other pacific islander|1|
+|Population by race: other race|1,140|
+|Population by race: two or more races|315|
+|Head of household by age: owner, 15-24 years old|50|
+|Head of household by age: owner, 25-34 years old|203|
+|Head of household by age: owner, 35-44 years old|374|
+|Head of household by age: owner, 45-54 years old|525|
+|Head of household by age: owner, 55-64 years old|518|
+|Head of household by age: owner, 65-74 years old|323|
+|Head of household by age: owner, 75-84 years old|148|
+|Head of household by age: owner, 85 plus years old|37|
+|Head of household by age: renter, 15-24 years old|54|
+|Head of household by age: renter, 25-34 years old|112|
+|Head of household by age: renter, 35-44 years old|105|
+|Head of household by age: renter, 45-54 years old|119|
+|Head of household by age: renter, 55-64 years old|99|
+|Head of household by age: renter, 65-74 years old|62|
+|Head of household by age: renter, 75-84 years old|32|
+|Head of household by age: renter, 85 plus years old|7|
+|Head of household by age: total, 15-24 years old|104|
+|Head of household by age: total, 25-34 years old|315|
+|Head of household by age: total, 35-44 years old|479|
+|Head of household by age: total, 45-54 years old|644|
+|Head of household by age: total, 55-64 years old|617|
+|Head of household by age: total, 65-74 years old|385|
+|Head of household by age: total, 75-84 years old|180|
+|Head of household by age: total, 85 plus years old|44|
+|Families vs singles: husband wife family households|1,306|
+|Families vs singles: single guardian|594|
+|Families vs singles: singles|706|
+|Families vs singles: singles with roommate|162|
+|Households with kids: households without kids|1,797|
+|Households with kids: households with kids|971|
+|Children by age: male, 0 years old|53|
+|Children by age: male, 1 years old|40|
+|Children by age: male, 2 years old|39|
+|Children by age: male, 3 years old|54|
+|Children by age: male, 4 years old|47|
+|Children by age: male, 5 years old|55|
+|Children by age: male, 6 years old|54|
+|Children by age: male, 7 years old|63|
+|Children by age: male, 8 years old|66|
+|Children by age: male, 9 years old|56|
+|Children by age: male, 10 years old|62|
+|Children by age: male, 11 years old|55|
+|Children by age: male, 12 years old|50|
+|Children by age: male, 13 years old|54|
+|Children by age: male, 14 years old|62|
+|Children by age: male, 15 years old|61|
+|Children by age: male, 16 years old|78|
+|Children by age: male, 17 years old|64|
+|Children by age: male, 18 years old|38|
+|Children by age: male, 19 years old|44|
+|Children by age: female, 0 years old|42|
+|Children by age: female, 1 years old|45|
+|Children by age: female, 2 years old|57|
+|Children by age: female, 3 years old|54|
+|Children by age: female, 4 years old|57|
+|Children by age: female, 5 years old|51|
+|Children by age: female, 6 years old|44|
+|Children by age: female, 7 years old|50|
+|Children by age: female, 8 years old|61|
+|Children by age: female, 9 years old|45|
+|Children by age: female, 10 years old|66|
+|Children by age: female, 11 years old|49|
+|Children by age: female, 12 years old|49|
+|Children by age: female, 13 years old|71|
+|Children by age: female, 14 years old|60|
+|Children by age: female, 15 years old|58|
+|Children by age: female, 16 years old|42|
+|Children by age: female, 17 years old|62|
+|Children by age: female, 18 years old|49|
+|Children by age: female, 19 years old|47|
+|Children by age: total, 0 years old|95|
+|Children by age: total, 1 years old|85|
+|Children by age: total, 2 years old|96|
+|Children by age: total, 3 years old|108|
+|Children by age: total, 4 years old|104|
+|Children by age: total, 5 years old|106|
+|Children by age: total, 6 years old|98|
+|Children by age: total, 7 years old|113|
+|Children by age: total, 8 years old|127|
+|Children by age: total, 9 years old|101|
+|Children by age: total, 10 years old|128|
+|Children by age: total, 11 years old|104|
+|Children by age: total, 12 years old|99|
+|Children by age: total, 13 years old|125|
+|Children by age: total, 14 years old|122|
+|Children by age: total, 15 years old|119|
+|Children by age: total, 16 years old|120|
+|Children by age: total, 17 years old|126|
+|Children by age: total, 18 years old|87|
+|Children by age: total, 19 years old|91|
+|Housing type: in occupied housing units|7,262|
+|Housing type: correctional facility for adults|0|
+|Housing type: juvenile facilities|0|
+|Housing type: nursing facilities|0|
+|Housing type: other institutional|0|
+|Housing type: college student housing|0|
+|Housing type: military quarters|0|
+|Housing type: other noninstitutional|6|
+|Year housing was built: 1939 or earlier|48|
+|Year housing was built: 1940s|49|
+|Year housing was built: 1950s|86|
+|Year housing was built: 1960s|227|
+|Year housing was built: 1970s|513|
+|Year housing was built: 1980s|660|
+|Year housing was built: 1990s|1,125|
+|Year housing was built: 2000s|567|
+|Year housing was built: 2010 or later|27|
+|Housing occupancy: owned households with a mortgage|1,411|
+|Housing occupancy: owned households free & clear|767|
+|Housing occupancy: renter occupied households|590|
+|Housing occupancy: households vacant|548|
+|Vancancy reason: for rent|82|
+|Vancancy reason: rented & unoccupied|3|
+|Vancancy reason: for sale only|95|
+|Vancancy reason: sold & unoccupied|21|
+|Vancancy reason: for season recreational or occasional use|36|
+|Vancancy reason: for migrant workers|0|
+|Vancancy reason: vacant for other reasons|311|
+|Owner occupied home values: $1-$24,999|172|
+|Owner occupied home values: $25,000-$49,999|243|
+|Owner occupied home values: $50,000-$99,999|552|
+|Owner occupied home values: $100,000-$149,999|488|
+|Owner occupied home values: $150,000-$199,999|142|
+|Owner occupied home values: $200,000-$399,999|229|
+|Owner occupied home values: $400,000-$749,999|46|
+|Owner occupied home values: $750,000+|23|
+|Rental properties by number of rooms: studio apartment|4|
+|Rental properties by number of rooms: 1 bedroom|36|
+|Rental properties by number of rooms: 2 bedroom|163|
+|Rental properties by number of rooms: 3+ bedroom|381|
+|Monthly rent including utilities studio apt: < $200|4|
+|Monthly rent including utilities studio apt: $200-$299|0|
+|Monthly rent including utilities studio apt: $300-$499|0|
+|Monthly rent including utilities studio apt: $500-$749|0|
+|Monthly rent including utilities studio apt: $750-$999|0|
+|Monthly rent including utilities studio apt: $1,000+|0|
+|Monthly rent including utilities 1 b: < $200|0|
+|Monthly rent including utilities 1 b: $200-$299|0|
+|Monthly rent including utilities 1 b: $300-$499|36|
+|Monthly rent including utilities 1 b: $500-$749|0|
+|Monthly rent including utilities 1 b: $750-$999|0|
+|Monthly rent including utilities 1 b: $1,000+|0|
+|Monthly rent including utilities 2 b: < $200|0|
+|Monthly rent including utilities 2 b: $200-$299|0|
+|Monthly rent including utilities 2 b: $300-$499|6|
+|Monthly rent including utilities 2 b: $500-$749|99|
+|Monthly rent including utilities 2 b: $750-$999|23|
+|Monthly rent including utilities 2 b: $1,000+|8|
+|Monthly rent including utilities 3plus b: < $200|0|
+|Monthly rent including utilities 3plus b: $200-$299|0|
+|Monthly rent including utilities 3plus b: $300-$499|24|
+|Monthly rent including utilities 3plus b: $500-$749|102|
+|Monthly rent including utilities 3plus b: $750-$999|55|
+|Monthly rent including utilities 3plus b: $1,000+|101|
+|Employment status: worked full-time with earnings|1,487|
+|Employment status: worked part-time with earnings|1,158|
+|Employment status: no earnings|3,038|
+|Average household income over time: 2005|31,158.67|
+|Average household income over time: 2006|33,477.78|
+|Average household income over time: 2007|31,542.15|
+|Average household income over time: 2008|33,971.77|
+|Average household income over time: 2009|34,245.66|
+|Average household income over time: 2010|33,655.47|
+|Average household income over time: 2011|33,674.18|
+|Average household income over time: 2012|34,825.56|
+|Average household income over time: 2013|35,997.04|
+|Average household income over time: 2014|37,023.9|
+|Average household income over time: 2015|37,358.89|
+|Household income: < $25,000|1,001|
+|Household income: $25,000-$44,999|579|
+|Household income: $45,000-$59,999|324|
+|Household income: $60,000-$99,999|312|
+|Household income: $100,000-$149,999|110|
+|Household income: $150,000-$199,999|109|
+|Household income: $200,000+|44|
+|Annual individual earnings: < $10,000|673|
+|Annual individual earnings: $10,000-$19,999|512|
+|Annual individual earnings: $20,000-$29,999|346|
+|Annual individual earnings: $30,000-$39,999|294|
+|Annual individual earnings: $40,000-$49,999|275|
+|Annual individual earnings: $50,000-$64,999|218|
+|Annual individual earnings: $65,000-$74,999|75|
+|Annual individual earnings: $75,000-$99,999|117|
+|Annual individual earnings: $100,000+|135|
+|Sources of household income, percent of households receiving income: wages|82.22|
+|Sources of household income, percent of households receiving income: business|14.07|
+|Sources of household income, percent of households receiving income: partnership|4.07|
+|Sources of household income, percent of households receiving income: unemployment|3.33|
+|Sources of household income, average income per household by income source: wages|35,030.63|
+|Sources of household income, average income per household by income source: business|6,076.32|
+|Sources of household income, average income per household by income source: partnership|29,972.73|
+|Sources of household income, average income per household by income source: unemployment|3,522.22|
+|Household investment income, percent of households receiving investment income: interest|15.93|
+|Household investment income, percent of households receiving investment income: ordinary dividends|7.04|
+|Household investment income, percent of households receiving investment income: qualified dividends|5.93|
+|Household investment income, percent of households receiving investment income: capital gains|6.67|
+|Household investment income, average income per household by income source: interest|911.63|
+|Household investment income, average income per household by income source: ordinary dividends|1,442.11|
+|Household investment income, average income per household by income source: qualified dividends|1,025|
+|Household investment income, average income per household by income source: capital gains|3,311.11|
+|Household retirement income, percent of households receiving retirement incom: ira distributions|5.19|
+|Household retirement income, percent of households receiving retirement incom: pensions/annuities|18.89|
+|Household retirement income, percent of households receiving retirement incom: social security|10.74|
+|Household retirement income, average income per household by income source: ira distributions|10,828.57|
+|Household retirement income, average income per household by income source: pensions/annuities|20,984.31|
+|Household retirement income, average income per household by income source: social security|10,403.45|
+|Source of earnings: worked full-time with earnings|1,487|
+|Source of earnings: worked part-time with earnings|1,158|
+|Source of earnings: no earnings|3,038|
+|Means of transportation to work for workers 16 and over: car, truck, or van|2,043|
+|Means of transportation to work for workers 16 and over: public transportation|0|
+|Means of transportation to work for workers 16 and over: taxicab|0|
+|Means of transportation to work for workers 16 and over: motorcycle|7|
+|Means of transportation to work for workers 16 and over: bicycle, walked, or other means|59|
+|Means of transportation to work for workers 16 and over: worked at home|219|
+|Travel time to work in minutes: < 10|319|
+|Travel time to work in minutes: 10-19|473|
+|Travel time to work in minutes: 20-29|251|
+|Travel time to work in minutes: 30-39|201|
+|Travel time to work in minutes: 40-44|6|
+|Travel time to work in minutes: 45-59|504|
+|Travel time to work in minutes: 60-89|303|
+|Travel time to work in minutes: 90+|52|
+|Educational attainment for population 25 and over: less than high school diploma|710|
+|Educational attainment for population 25 and over: high school graduate|2,926|
+|Educational attainment for population 25 and over: associate's degree|348|
+|Educational attainment for population 25 and over: bachelor's degree|408|
+|Educational attainment for population 25 and over: master's degree|188|
+|Educational attainment for population 25 and over: professional school degree|9|
+|Educational attainment for population 25 and over: doctorate degree|10|
+|School enrollment age 3 to 17: enrolled in public school|1,510|
+|School enrollment age 3 to 17: enrolled in private school|77|
+|School enrollment age 3 to 17: not enrolled in school|92|

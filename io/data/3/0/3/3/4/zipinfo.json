@@ -1,0 +1,563 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Atlanta",
+    "post_office_city": "Atlanta, GA",
+    "common_city_list": [
+        "Atlanta"
+    ],
+    "county": "Fulton County",
+    "state": "GA",
+    "lat": 33.749,
+    "lng": -84.387,
+    "timezone": "Eastern",
+    "radius_in_miles": 0.17045454545454544,
+    "area_code_list": [
+        "404",
+        "678",
+        "770",
+        "470"
+    ],
+    "population": 1,
+    "population_density": 20.0,
+    "land_area_in_sqmi": 0.05,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -84.39,
+    "bounds_east": -84.38,
+    "bounds_north": 33.75,
+    "bounds_south": 33.75,
+    "zipcode": "30334",
+    "polygon": [
+        [
+            -84.388925,
+            33.747109
+        ],
+        [
+            -84.388059,
+            33.748218
+        ],
+        [
+            -84.389338,
+            33.74892
+        ],
+        [
+            -84.388458,
+            33.750039
+        ],
+        [
+            -84.388172,
+            33.750411
+        ],
+        [
+            -84.38794,
+            33.750712
+        ],
+        [
+            -84.387563,
+            33.75124
+        ],
+        [
+            -84.386389,
+            33.750471
+        ],
+        [
+            -84.385654,
+            33.749989
+        ],
+        [
+            -84.385214,
+            33.749686
+        ],
+        [
+            -84.38487,
+            33.749449
+        ],
+        [
+            -84.384564,
+            33.749282
+        ],
+        [
+            -84.384328,
+            33.74918
+        ],
+        [
+            -84.384277,
+            33.749158
+        ],
+        [
+            -84.384064,
+            33.749089
+        ],
+        [
+            -84.383896,
+            33.749035
+        ],
+        [
+            -84.383746,
+            33.749
+        ],
+        [
+            -84.383874,
+            33.748918
+        ],
+        [
+            -84.384102,
+            33.748802
+        ],
+        [
+            -84.384672,
+            33.748557
+        ],
+        [
+            -84.384733,
+            33.748531
+        ],
+        [
+            -84.385372,
+            33.748309
+        ],
+        [
+            -84.38673,
+            33.747659
+        ],
+        [
+            -84.387716,
+            33.746976
+        ],
+        [
+            -84.387708,
+            33.7469
+        ],
+        [
+            -84.387793,
+            33.746909
+        ],
+        [
+            -84.388148,
+            33.746913
+        ],
+        [
+            -84.388606,
+            33.746916
+        ],
+        [
+            -84.388787,
+            33.746917
+        ],
+        [
+            -84.389237,
+            33.746919
+        ],
+        [
+            -84.390624,
+            33.746926
+        ],
+        [
+            -84.390906,
+            33.746928
+        ],
+        [
+            -84.390208,
+            33.747815
+        ],
+        [
+            -84.38919,
+            33.747255
+        ],
+        [
+            -84.388925,
+            33.747109
+        ]
+    ],
+    "population_by_year": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 257
+                },
+                {
+                    "x": 2006,
+                    "y": 273
+                },
+                {
+                    "x": 2007,
+                    "y": 213
+                }
+            ]
+        }
+    ],
+    "population_by_age": [
+        {
+            "key": "Male",
+            "values": [
+                {
+                    "x": "Under 5",
+                    "y": 0
+                },
+                {
+                    "x": "5-9",
+                    "y": 0
+                },
+                {
+                    "x": "10-14",
+                    "y": 0
+                },
+                {
+                    "x": "15-19",
+                    "y": 0
+                },
+                {
+                    "x": "20-24",
+                    "y": 0
+                },
+                {
+                    "x": "25-29",
+                    "y": 0
+                },
+                {
+                    "x": "30-34",
+                    "y": 0
+                },
+                {
+                    "x": "35-39",
+                    "y": 0
+                },
+                {
+                    "x": "40-44",
+                    "y": 0
+                },
+                {
+                    "x": "45-49",
+                    "y": 0
+                },
+                {
+                    "x": "50-54",
+                    "y": 0
+                },
+                {
+                    "x": "55-59",
+                    "y": 0
+                },
+                {
+                    "x": "60-64",
+                    "y": 0
+                },
+                {
+                    "x": "65-69",
+                    "y": 1
+                },
+                {
+                    "x": "70-74",
+                    "y": 0
+                },
+                {
+                    "x": "75-79",
+                    "y": 0
+                },
+                {
+                    "x": "80-84",
+                    "y": 0
+                },
+                {
+                    "x": "85 Plus",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "key": "Female",
+            "values": [
+                {
+                    "x": "Under 5",
+                    "y": 0
+                },
+                {
+                    "x": "5-9",
+                    "y": 0
+                },
+                {
+                    "x": "10-14",
+                    "y": 0
+                },
+                {
+                    "x": "15-19",
+                    "y": 0
+                },
+                {
+                    "x": "20-24",
+                    "y": 0
+                },
+                {
+                    "x": "25-29",
+                    "y": 0
+                },
+                {
+                    "x": "30-34",
+                    "y": 0
+                },
+                {
+                    "x": "35-39",
+                    "y": 0
+                },
+                {
+                    "x": "40-44",
+                    "y": 0
+                },
+                {
+                    "x": "45-49",
+                    "y": 0
+                },
+                {
+                    "x": "50-54",
+                    "y": 0
+                },
+                {
+                    "x": "55-59",
+                    "y": 0
+                },
+                {
+                    "x": "60-64",
+                    "y": 0
+                },
+                {
+                    "x": "65-69",
+                    "y": 0
+                },
+                {
+                    "x": "70-74",
+                    "y": 0
+                },
+                {
+                    "x": "75-79",
+                    "y": 0
+                },
+                {
+                    "x": "80-84",
+                    "y": 0
+                },
+                {
+                    "x": "85 Plus",
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "key": "Total",
+            "values": [
+                {
+                    "x": "Under 5",
+                    "y": 0
+                },
+                {
+                    "x": "5-9",
+                    "y": 0
+                },
+                {
+                    "x": "10-14",
+                    "y": 0
+                },
+                {
+                    "x": "15-19",
+                    "y": 0
+                },
+                {
+                    "x": "20-24",
+                    "y": 0
+                },
+                {
+                    "x": "25-29",
+                    "y": 0
+                },
+                {
+                    "x": "30-34",
+                    "y": 0
+                },
+                {
+                    "x": "35-39",
+                    "y": 0
+                },
+                {
+                    "x": "40-44",
+                    "y": 0
+                },
+                {
+                    "x": "45-49",
+                    "y": 0
+                },
+                {
+                    "x": "50-54",
+                    "y": 0
+                },
+                {
+                    "x": "55-59",
+                    "y": 0
+                },
+                {
+                    "x": "60-64",
+                    "y": 0
+                },
+                {
+                    "x": "65-69",
+                    "y": 1
+                },
+                {
+                    "x": "70-74",
+                    "y": 0
+                },
+                {
+                    "x": "75-79",
+                    "y": 0
+                },
+                {
+                    "x": "80-84",
+                    "y": 0
+                },
+                {
+                    "x": "85 Plus",
+                    "y": 0
+                }
+            ],
+            "color": "#000000"
+        }
+    ],
+    "population_by_gender": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Male",
+                    "y": 1
+                },
+                {
+                    "x": "Female",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "population_by_race": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "White",
+                    "y": 0
+                },
+                {
+                    "x": "Black Or African American",
+                    "y": 1
+                },
+                {
+                    "x": "American Indian Or Alaskan Native",
+                    "y": 0
+                },
+                {
+                    "x": "Asian",
+                    "y": 0
+                },
+                {
+                    "x": "Native Hawaiian & Other Pacific Islander",
+                    "y": 0
+                },
+                {
+                    "x": "Other Race",
+                    "y": 0
+                },
+                {
+                    "x": "Two Or More Races",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "In Occupied Housing Units",
+                    "y": 0
+                },
+                {
+                    "x": "Correctional Facility For Adults",
+                    "y": 0
+                },
+                {
+                    "x": "Juvenile Facilities",
+                    "y": 0
+                },
+                {
+                    "x": "Nursing Facilities",
+                    "y": 0
+                },
+                {
+                    "x": "Other Institutional",
+                    "y": 0
+                },
+                {
+                    "x": "College Student Housing",
+                    "y": 0
+                },
+                {
+                    "x": "Military Quarters",
+                    "y": 0
+                },
+                {
+                    "x": "Other Noninstitutional",
+                    "y": 1
+                }
+            ]
+        }
+    ],
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 35832.12
+                },
+                {
+                    "x": 2006,
+                    "y": 6370.13
+                },
+                {
+                    "x": 2007,
+                    "y": 39071.21
+                }
+            ]
+        }
+    ],
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

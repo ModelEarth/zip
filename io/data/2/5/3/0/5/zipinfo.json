@@ -1,0 +1,262 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Charleston",
+    "post_office_city": "Charleston, WV",
+    "common_city_list": [
+        "Charleston"
+    ],
+    "county": "Kanawha County",
+    "state": "WV",
+    "lat": 38.338,
+    "lng": -81.613,
+    "timezone": "Eastern",
+    "radius_in_miles": 0.2840909090909091,
+    "area_code_list": [
+        "304",
+        "681"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -81.62,
+    "bounds_east": -81.61,
+    "bounds_north": 38.34,
+    "bounds_south": 38.34,
+    "zipcode": "25305",
+    "polygon": [
+        [
+            -81.616309,
+            38.336429
+        ],
+        [
+            -81.61646,
+            38.336478
+        ],
+        [
+            -81.616393,
+            38.336562
+        ],
+        [
+            -81.61564,
+            38.33738
+        ],
+        [
+            -81.614908,
+            38.338193
+        ],
+        [
+            -81.614472,
+            38.338685
+        ],
+        [
+            -81.614195,
+            38.338996
+        ],
+        [
+            -81.614102,
+            38.339144
+        ],
+        [
+            -81.614013,
+            38.339285
+        ],
+        [
+            -81.61385,
+            38.339643
+        ],
+        [
+            -81.61366,
+            38.340133
+        ],
+        [
+            -81.613588,
+            38.340284
+        ],
+        [
+            -81.613569,
+            38.340317
+        ],
+        [
+            -81.613483,
+            38.340467
+        ],
+        [
+            -81.613361,
+            38.340644
+        ],
+        [
+            -81.613308,
+            38.340712
+        ],
+        [
+            -81.613206,
+            38.340821
+        ],
+        [
+            -81.613074,
+            38.340725
+        ],
+        [
+            -81.612081,
+            38.340003
+        ],
+        [
+            -81.610933,
+            38.339195
+        ],
+        [
+            -81.610829,
+            38.339122
+        ],
+        [
+            -81.610438,
+            38.338865
+        ],
+        [
+            -81.610099,
+            38.338663
+        ],
+        [
+            -81.60974,
+            38.338469
+        ],
+        [
+            -81.609686,
+            38.338421
+        ],
+        [
+            -81.609649,
+            38.338368
+        ],
+        [
+            -81.609632,
+            38.33833
+        ],
+        [
+            -81.609654,
+            38.338231
+        ],
+        [
+            -81.609698,
+            38.338111
+        ],
+        [
+            -81.609786,
+            38.337943
+        ],
+        [
+            -81.609826,
+            38.337862
+        ],
+        [
+            -81.60996,
+            38.337592
+        ],
+        [
+            -81.610056,
+            38.337382
+        ],
+        [
+            -81.610109,
+            38.33726
+        ],
+        [
+            -81.610158,
+            38.337141
+        ],
+        [
+            -81.610173,
+            38.337105
+        ],
+        [
+            -81.610498,
+            38.336476
+        ],
+        [
+            -81.610813,
+            38.335816
+        ],
+        [
+            -81.611027,
+            38.335326
+        ],
+        [
+            -81.611046,
+            38.335255
+        ],
+        [
+            -81.611468,
+            38.335278
+        ],
+        [
+            -81.611744,
+            38.335303
+        ],
+        [
+            -81.612019,
+            38.335338
+        ],
+        [
+            -81.613612,
+            38.335647
+        ],
+        [
+            -81.613931,
+            38.335713
+        ],
+        [
+            -81.614296,
+            38.335804
+        ],
+        [
+            -81.614746,
+            38.33593
+        ],
+        [
+            -81.615102,
+            38.336041
+        ],
+        [
+            -81.616309,
+            38.336429
+        ]
+    ],
+    "population_by_year": null,
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": null,
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

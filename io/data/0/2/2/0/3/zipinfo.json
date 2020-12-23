@@ -1,0 +1,217 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Boston",
+    "post_office_city": "Boston, MA",
+    "common_city_list": [
+        "Boston"
+    ],
+    "county": "Suffolk County",
+    "state": "MA",
+    "lat": 42.361,
+    "lng": -71.06,
+    "timezone": "Eastern",
+    "radius_in_miles": 0.11363636363636363,
+    "area_code_list": [
+        "857"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -71.06,
+    "bounds_east": -71.06,
+    "bounds_north": 42.36,
+    "bounds_south": 42.36,
+    "zipcode": "02203",
+    "polygon": [
+        [
+            -71.057258,
+            42.358888
+        ],
+        [
+            -71.057805,
+            42.358924
+        ],
+        [
+            -71.058149,
+            42.359351
+        ],
+        [
+            -71.05848,
+            42.359372
+        ],
+        [
+            -71.058573,
+            42.359046
+        ],
+        [
+            -71.058653,
+            42.359061
+        ],
+        [
+            -71.058849,
+            42.359111
+        ],
+        [
+            -71.059283,
+            42.359221
+        ],
+        [
+            -71.059501,
+            42.359292
+        ],
+        [
+            -71.059629,
+            42.359359
+        ],
+        [
+            -71.059816,
+            42.359478
+        ],
+        [
+            -71.059852,
+            42.359688
+        ],
+        [
+            -71.059972,
+            42.359962
+        ],
+        [
+            -71.060124,
+            42.360196
+        ],
+        [
+            -71.060423,
+            42.360482
+        ],
+        [
+            -71.060717,
+            42.360675
+        ],
+        [
+            -71.0611,
+            42.360864
+        ],
+        [
+            -71.060951,
+            42.361082
+        ],
+        [
+            -71.060858,
+            42.361297
+        ],
+        [
+            -71.06034,
+            42.361553
+        ],
+        [
+            -71.060162,
+            42.361632
+        ],
+        [
+            -71.05975,
+            42.36183
+        ],
+        [
+            -71.059719,
+            42.361845
+        ],
+        [
+            -71.058937,
+            42.362239
+        ],
+        [
+            -71.058353,
+            42.362511
+        ],
+        [
+            -71.05817,
+            42.362272
+        ],
+        [
+            -71.057909,
+            42.361957
+        ],
+        [
+            -71.057757,
+            42.361755
+        ],
+        [
+            -71.057641,
+            42.361511
+        ],
+        [
+            -71.057551,
+            42.361298
+        ],
+        [
+            -71.057515,
+            42.361161
+        ],
+        [
+            -71.057424,
+            42.360946
+        ],
+        [
+            -71.057221,
+            42.36021
+        ],
+        [
+            -71.057155,
+            42.359922
+        ],
+        [
+            -71.05698,
+            42.359361
+        ],
+        [
+            -71.056825,
+            42.358875
+        ],
+        [
+            -71.057046,
+            42.358883
+        ],
+        [
+            -71.057258,
+            42.358888
+        ]
+    ],
+    "population_by_year": null,
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": null,
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

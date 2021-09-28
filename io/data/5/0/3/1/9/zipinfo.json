@@ -1,0 +1,221 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Des Moines",
+    "post_office_city": "Des Moines, IA",
+    "common_city_list": [
+        "Des Moines"
+    ],
+    "county": "Polk County",
+    "state": "IA",
+    "lat": 41.58,
+    "lng": -93.62,
+    "timezone": "Central",
+    "radius_in_miles": 2.0,
+    "area_code_list": [
+        "515"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -93.61,
+    "bounds_east": -93.6,
+    "bounds_north": 41.59,
+    "bounds_south": 41.59,
+    "zipcode": "50319",
+    "polygon": [
+        [
+            -93.605239,
+            41.589651
+        ],
+        [
+            -93.605633,
+            41.59073
+        ],
+        [
+            -93.608123,
+            41.590312
+        ],
+        [
+            -93.60983,
+            41.589962
+        ],
+        [
+            -93.610186,
+            41.590916
+        ],
+        [
+            -93.608061,
+            41.591347
+        ],
+        [
+            -93.608097,
+            41.592457
+        ],
+        [
+            -93.606395,
+            41.592805
+        ],
+        [
+            -93.60601,
+            41.591762
+        ],
+        [
+            -93.605896,
+            41.591786
+        ],
+        [
+            -93.605781,
+            41.591809
+        ],
+        [
+            -93.601994,
+            41.592576
+        ],
+        [
+            -93.600651,
+            41.592848
+        ],
+        [
+            -93.59991,
+            41.590728
+        ],
+        [
+            -93.601238,
+            41.59046
+        ],
+        [
+            -93.601142,
+            41.590191
+        ],
+        [
+            -93.601132,
+            41.590065
+        ],
+        [
+            -93.60114,
+            41.589939
+        ],
+        [
+            -93.601166,
+            41.589814
+        ],
+        [
+            -93.601202,
+            41.58971
+        ],
+        [
+            -93.601268,
+            41.589573
+        ],
+        [
+            -93.601344,
+            41.58946
+        ],
+        [
+            -93.601435,
+            41.589353
+        ],
+        [
+            -93.601541,
+            41.589255
+        ],
+        [
+            -93.601659,
+            41.589165
+        ],
+        [
+            -93.601798,
+            41.58908
+        ],
+        [
+            -93.603859,
+            41.588665
+        ],
+        [
+            -93.604016,
+            41.588682
+        ],
+        [
+            -93.604171,
+            41.58871
+        ],
+        [
+            -93.604321,
+            41.588751
+        ],
+        [
+            -93.604465,
+            41.588804
+        ],
+        [
+            -93.604601,
+            41.588867
+        ],
+        [
+            -93.604727,
+            41.588941
+        ],
+        [
+            -93.604842,
+            41.589024
+        ],
+        [
+            -93.604945,
+            41.589116
+        ],
+        [
+            -93.605034,
+            41.589216
+        ],
+        [
+            -93.60511,
+            41.589322
+        ],
+        [
+            -93.60517,
+            41.589433
+        ],
+        [
+            -93.605239,
+            41.589651
+        ]
+    ],
+    "population_by_year": null,
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": null,
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

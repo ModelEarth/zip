@@ -1,0 +1,223 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Pasadena",
+    "post_office_city": "Pasadena, TX",
+    "common_city_list": [
+        "Pasadena"
+    ],
+    "county": "Harris County",
+    "state": "TX",
+    "lat": 29.62,
+    "lng": -95.08,
+    "timezone": "Central",
+    "radius_in_miles": 3.0,
+    "area_code_list": [
+        "281"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -95.12,
+    "bounds_east": -95.0,
+    "bounds_north": 29.65,
+    "bounds_south": 29.59,
+    "zipcode": "77507",
+    "polygon": [
+        [
+            [
+                -95.009102,
+                29.595061
+            ],
+            [
+                -95.011037,
+                29.595036
+            ],
+            [
+                -95.024875,
+                29.594857
+            ],
+            [
+                -95.024147,
+                29.59672
+            ],
+            [
+                -95.023811,
+                29.597581
+            ],
+            [
+                -95.022263,
+                29.601521
+            ],
+            [
+                -95.021836,
+                29.602629
+            ],
+            [
+                -95.021417,
+                29.603682
+            ],
+            [
+                -95.021316,
+                29.603984
+            ],
+            [
+                -95.016453,
+                29.604062
+            ],
+            [
+                -95.015972,
+                29.604082
+            ],
+            [
+                -95.015697,
+                29.604122
+            ],
+            [
+                -95.014651,
+                29.604147
+            ],
+            [
+                -95.013335,
+                29.604179
+            ],
+            [
+                -95.0068,
+                29.604382
+            ],
+            [
+                -94.997507,
+                29.604509
+            ],
+            [
+                -94.998216,
+                29.603824
+            ],
+            [
+                -94.998672,
+                29.60271
+            ],
+            [
+                -94.998672,
+                29.601445
+            ],
+            [
+                -94.996735,
+                29.601329
+            ],
+            [
+                -94.996686,
+                29.599222
+            ],
+            [
+                -94.996627,
+                29.598035
+            ],
+            [
+                -94.996661,
+                29.597288
+            ],
+            [
+                -94.996847,
+                29.59646
+            ],
+            [
+                -94.997024,
+                29.595925
+            ],
+            [
+                -94.997087,
+                29.595794
+            ],
+            [
+                -95.007423,
+                29.595801
+            ],
+            [
+                -95.007414,
+                29.595064
+            ],
+            [
+                -95.008999,
+                29.595062
+            ],
+            [
+                -95.009102,
+                29.595061
+            ]
+        ]
+    ],
+    "population_by_year": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 217
+                },
+                {
+                    "x": 2006,
+                    "y": 243
+                },
+                {
+                    "x": 2007,
+                    "y": 211
+                }
+            ]
+        }
+    ],
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": 2005,
+                    "y": 131917.65
+                },
+                {
+                    "x": 2006,
+                    "y": 145931.37
+                },
+                {
+                    "x": 2007,
+                    "y": 137529.62
+                }
+            ]
+        }
+    ],
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

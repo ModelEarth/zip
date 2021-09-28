@@ -1,0 +1,155 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Bayside",
+    "post_office_city": "Bayside, NY",
+    "common_city_list": [
+        "Bayside",
+        "Flushing",
+        "Fort Totten"
+    ],
+    "county": "Queens County",
+    "state": "NY",
+    "lat": 40.78,
+    "lng": -73.77,
+    "timezone": "Eastern",
+    "radius_in_miles": 2.0,
+    "area_code_list": [
+        "347"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -73.78,
+    "bounds_east": -73.77,
+    "bounds_north": 40.8,
+    "bounds_south": 40.79,
+    "zipcode": "11359",
+    "polygon": [
+        [
+            -73.774194,
+            40.786707
+        ],
+        [
+            -73.776834,
+            40.788133
+        ],
+        [
+            -73.778417,
+            40.788988
+        ],
+        [
+            -73.781045,
+            40.789542
+        ],
+        [
+            -73.781733,
+            40.79053
+        ],
+        [
+            -73.781825,
+            40.790631
+        ],
+        [
+            -73.781148,
+            40.791881
+        ],
+        [
+            -73.781106,
+            40.793186
+        ],
+        [
+            -73.781068,
+            40.794372
+        ],
+        [
+            -73.782206,
+            40.795018
+        ],
+        [
+            -73.782004,
+            40.795912
+        ],
+        [
+            -73.779773,
+            40.796626
+        ],
+        [
+            -73.778067,
+            40.79684
+        ],
+        [
+            -73.77551,
+            40.795643
+        ],
+        [
+            -73.774268,
+            40.793933
+        ],
+        [
+            -73.773864,
+            40.792818
+        ],
+        [
+            -73.772411,
+            40.791548
+        ],
+        [
+            -73.772055,
+            40.789928
+        ],
+        [
+            -73.770862,
+            40.788498
+        ],
+        [
+            -73.771052,
+            40.78765
+        ],
+        [
+            -73.77174,
+            40.787663
+        ],
+        [
+            -73.774194,
+            40.786707
+        ]
+    ],
+    "population_by_year": null,
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": null,
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

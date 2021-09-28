@@ -18,7 +18,7 @@ def main():
                 for prefix3 in range(10):
                     prefix = str(prefix0) + str(prefix1) + str(prefix2) + str(prefix3)
                     #print("Analyzing prefix: " + str(prefix))
-                    zipcodes = search.by_prefix(prefix)#all zipcodes starting with prefix
+                    zipcodes = search.by_prefix(prefix, returns=11)#all zipcodes starting with prefix (default is to return 5, increasing to 1 more than expected)
                     for z in zipcodes:
                         zipcode_split = [char for char in z.zipcode]
                         filepath = "data/"

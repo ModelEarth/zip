@@ -1,0 +1,249 @@
+{
+    "zipcode_type": "Standard",
+    "major_city": "Torrance",
+    "post_office_city": "Torrance, CA",
+    "common_city_list": [
+        "Torrance"
+    ],
+    "county": "Los Angeles County",
+    "state": "CA",
+    "lat": 33.885,
+    "lng": -118.331,
+    "timezone": "Pacific",
+    "radius_in_miles": 0.2840909090909091,
+    "area_code_list": [
+        "310"
+    ],
+    "population": 0,
+    "population_density": null,
+    "land_area_in_sqmi": 0.0,
+    "water_area_in_sqmi": 0.0,
+    "housing_units": 0,
+    "occupied_housing_units": 0,
+    "median_home_value": null,
+    "median_household_income": null,
+    "bounds_west": -118.33,
+    "bounds_east": -118.33,
+    "bounds_north": 33.89,
+    "bounds_south": 33.88,
+    "zipcode": "90506",
+    "polygon": [
+        [
+            -118.32877,
+            33.882034
+        ],
+        [
+            -118.330665,
+            33.881447
+        ],
+        [
+            -118.330841,
+            33.88145
+        ],
+        [
+            -118.330967,
+            33.881453
+        ],
+        [
+            -118.331083,
+            33.881421
+        ],
+        [
+            -118.331153,
+            33.881399
+        ],
+        [
+            -118.331254,
+            33.881368
+        ],
+        [
+            -118.33145,
+            33.881599
+        ],
+        [
+            -118.331478,
+            33.881625
+        ],
+        [
+            -118.332207,
+            33.882415
+        ],
+        [
+            -118.332263,
+            33.882469
+        ],
+        [
+            -118.333516,
+            33.883824
+        ],
+        [
+            -118.333572,
+            33.883878
+        ],
+        [
+            -118.333946,
+            33.884285
+        ],
+        [
+            -118.334132,
+            33.884481
+        ],
+        [
+            -118.334156,
+            33.884511
+        ],
+        [
+            -118.334498,
+            33.884877
+        ],
+        [
+            -118.334729,
+            33.885219
+        ],
+        [
+            -118.334785,
+            33.885315
+        ],
+        [
+            -118.334832,
+            33.885415
+        ],
+        [
+            -118.334903,
+            33.885621
+        ],
+        [
+            -118.334906,
+            33.885633
+        ],
+        [
+            -118.334789,
+            33.885635
+        ],
+        [
+            -118.334794,
+            33.885647
+        ],
+        [
+            -118.334867,
+            33.885993
+        ],
+        [
+            -118.334864,
+            33.887423
+        ],
+        [
+            -118.334561,
+            33.88743
+        ],
+        [
+            -118.333403,
+            33.887412
+        ],
+        [
+            -118.332366,
+            33.887413
+        ],
+        [
+            -118.332244,
+            33.887414
+        ],
+        [
+            -118.330558,
+            33.887422
+        ],
+        [
+            -118.330353,
+            33.887421
+        ],
+        [
+            -118.329212,
+            33.887413
+        ],
+        [
+            -118.327914,
+            33.887399
+        ],
+        [
+            -118.327445,
+            33.887397
+        ],
+        [
+            -118.326943,
+            33.887413
+        ],
+        [
+            -118.326498,
+            33.887407
+        ],
+        [
+            -118.326499,
+            33.887353
+        ],
+        [
+            -118.326505,
+            33.885602
+        ],
+        [
+            -118.326505,
+            33.885052
+        ],
+        [
+            -118.326542,
+            33.88399
+        ],
+        [
+            -118.326509,
+            33.883435
+        ],
+        [
+            -118.326492,
+            33.882916
+        ],
+        [
+            -118.326488,
+            33.882821
+        ],
+        [
+            -118.3285,
+            33.882087
+        ],
+        [
+            -118.32877,
+            33.882034
+        ]
+    ],
+    "population_by_year": null,
+    "population_by_age": null,
+    "population_by_gender": null,
+    "population_by_race": null,
+    "head_of_household_by_age": null,
+    "families_vs_singles": null,
+    "households_with_kids": null,
+    "children_by_age": null,
+    "housing_type": null,
+    "year_housing_was_built": null,
+    "housing_occupancy": null,
+    "vancancy_reason": null,
+    "owner_occupied_home_values": null,
+    "rental_properties_by_number_of_rooms": null,
+    "monthly_rent_including_utilities_studio_apt": null,
+    "monthly_rent_including_utilities_1_b": null,
+    "monthly_rent_including_utilities_2_b": null,
+    "monthly_rent_including_utilities_3plus_b": null,
+    "employment_status": null,
+    "average_household_income_over_time": null,
+    "household_income": null,
+    "annual_individual_earnings": null,
+    "sources_of_household_income____percent_of_households_receiving_income": null,
+    "sources_of_household_income____average_income_per_household_by_income_source": null,
+    "household_investment_income____percent_of_households_receiving_investment_income": null,
+    "household_investment_income____average_income_per_household_by_income_source": null,
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
+    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "source_of_earnings": null,
+    "means_of_transportation_to_work_for_workers_16_and_over": null,
+    "travel_time_to_work_in_minutes": null,
+    "educational_attainment_for_population_25_and_over": null,
+    "school_enrollment_age_3_to_17": null
+}

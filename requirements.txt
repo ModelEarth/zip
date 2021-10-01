@@ -1,4 +1,4 @@
 attrs
-sqlalchemy
+SQLAlchemy
 pathlib_mate
 requests

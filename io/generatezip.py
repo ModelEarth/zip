@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Generates nested folders for each zip code
+Generates nested folders for each zip code using uszipcode (https://pypi.org/project/uszipcode/)
 """
 
 from uszipcode import SearchEngine
@@ -11,6 +11,7 @@ import json
 def main():
     search = SearchEngine(simple_zipcode=False)
     
+    #to increase run times (the search engine is slow to return results), provide the first 4 digits in a zip as a prefix to the search engine
     for prefix0 in range(10):
         for prefix1 in range(10):
             print("Analyzing prefix: " + str(prefix0) + str(prefix1))
@@ -19,6 +20,7 @@ def main():
                     prefix = str(prefix0) + str(prefix1) + str(prefix2) + str(prefix3)
                     #print("Analyzing prefix: " + str(prefix))
                     zipcodes = search.by_prefix(prefix, returns=11)#all zipcodes starting with prefix (default is to return 5, increasing to 1 more than expected)
+                    #for each returned zip code, clean results and write out file
                     for z in zipcodes:
                         zipcode_split = [char for char in z.zipcode]
                         filepath = "data/"

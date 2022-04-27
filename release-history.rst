@@ -4,15 +4,39 @@ Release and Version History
 ==============================================================================
 
 
-0.2.7 (TODO)
+1.0.2 (TODO)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Features and Improvements**
+
+- Make Census 2020 data generally available for all zipcode.
 
 **Minor Improvements**
 
 **Bugfixes**
 
 **Miscellaneous**
+
+
+1.0.1 (2022-01-05)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Features and Improvements**
+
+- Drop Python2.7 support, now it is Python3.6+ only.
+- Add Census 2020 data to the database for demographic statistics over time data points.
+
+**Minor Improvements**
+
+- Fully adopt type hint.
+- Update docs and theme.
+
+**Bugfixes**
+
+- Fixed some zipcode attribute name typo.
+
+**Miscellaneous**
+
+- Update PyPI classifiers to reflect supported Python versions (3.6 through 3.9)
+- Move CI to GitHub action.
 
 
 0.2.6 (2021-06-07)
@@ -47,13 +71,6 @@ Release and Version History
 **Features and Improvements**
 
 - Now you can use ``SearchEngine(..., db_file_dir="/tmp")`` to specify where you want to put your database. By default it is ``${HOME}/.uszipcode``.
-
-**Minor Improvements**
-
-**Bugfixes**
-
-**Miscellaneous**
-
 
 0.2.3 (2019-10-07)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

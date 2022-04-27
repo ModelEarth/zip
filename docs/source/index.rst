@@ -1,20 +1,12 @@
-.. contents::
-
 Release v\ |release| (:ref:`What's new? <release_history>`).
 
 .. include:: ../../README.rst
 
-Quick Start
+Table of Content
 ------------------------------------------------------------------------------
 
-.. toctree::
-   :maxdepth: 1
-
-    5 Minutes Tutorial <01-Tutorial/index.rst>
-    Migrate to 0.2.x <02-Migrate-to-0.2.x/index.rst>
-
-
 .. autotoctree::
+    :maxdepth: 1
 
 .. include:: ../../AUTHORS.rst
 

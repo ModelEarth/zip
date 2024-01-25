@@ -1,4 +1,4 @@
-# Zip Output
+# Our Generation Steps
 
 Initiate a virtual environment folder called env (optional, may differ on PC)  
 On some machines, run "python" rather than "python3"  

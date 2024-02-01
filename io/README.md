@@ -17,14 +17,25 @@ Load the zip data into an object
 	pip install uszipcode
 
 To generate a .json file for each zip code, run in the current folder.
-Output is stored in nested folders in the format: zip/io/data/3/0/3/1/8  
-Command to run the code (after changing the working directory to this folder):
+Output is stored in nested folders in the format: zip/io/data/3/0/3/1/8
 
 	python3 generatezip.py
 
 Contribute to our "[zip/io](https://github.com/modelearth/zip/tree/master/io)" folder at: [github.com/modelearth/zip](https://github.com/modelearth/zip)  
 Our fork extends the work of [uszipcode.readthedocs.io](https://uszipcode.readthedocs.io/)  
 
+
+**Problem**
+Changed SearchEngine(simple_zipcode=False) to SearchEngine() to resolve error.
+(See hidden comment below)
+
+Now fewer detail fields are generated. Population by year is gone in .md file.
+Polygon is gone in .json file.
+
+Avoid deploying data update until fixed.
+
+<!-- 
+Fixed error below by changing SearchEngine(simple_zipcode=False) to SearchEngine()
 
 Katherine W. ran successfully in 2021, but L.H. ran into the following on his Mac in Feb 2022:  
 
@@ -38,3 +49,4 @@ Traceback (most recent call last):
     search = SearchEngine(simple_zipcode=False)
 TypeError: __init__() got an unexpected keyword argument 'simple_zipcode'
 (env) (base) helix@localhost io % python generatezip.py
+-->

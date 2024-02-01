@@ -9,7 +9,7 @@ import json
 # from tabulate import tabulate
 
 def main():
-    search = SearchEngine(simple_zipcode=False)
+    search = SearchEngine()
     
     #to increase run times (the search engine is slow to return results), provide the first 4 digits in a zip as a prefix to the search engine
     for prefix0 in range(10):

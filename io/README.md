@@ -3,10 +3,11 @@
 # Our Generation Steps
 
 Data Source: [data.census.gov](https://data.census.gov) crawled by [uszipcode](https://uszipcode.readthedocs.io/).
-TO DO: Find a source of international postal code data.
 
-Initiate a virtual environment folder called env (optional, may differ on PC)  
-On some machines, run "python" rather than "python3"  
+TO DO: Add [midwire international postal codes](https://github.com/midwire/free_zipcode_data)
+pulled from [geonames country data sources](https://www.geonames.org/datasources/).
+
+Initiate a virtual environment folder called env (optional, may differ on PC). On some machines, run "python" rather than "python3"  
 
 	python3 -m venv env
 	source env/bin/activate

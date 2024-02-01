@@ -34,6 +34,8 @@ Polygon is gone in .json file.
 
 Avoid deploying data update until fixed.
 
+Date for Grand Rapids zip 49501 is still not generated.
+
 <!-- 
 Fixed error below by changing SearchEngine(simple_zipcode=False) to SearchEngine()
 

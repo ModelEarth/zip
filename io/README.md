@@ -1,5 +1,7 @@
 # Our Generation Steps
 
+Data Source: [data.census.gov](https://data.census.gov) crawled by [uszipcode](https://uszipcode.readthedocs.io/).
+
 Initiate a virtual environment folder called env (optional, may differ on PC)  
 On some machines, run "python" rather than "python3"  
 

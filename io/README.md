@@ -4,9 +4,8 @@
 
 Data Source: [data.census.gov](https://data.census.gov) crawled by [uszipcode](https://uszipcode.readthedocs.io/).
 
-TO DO: Add [midwire international postal codes](https://github.com/midwire/free_zipcode_data)
-pulled from [geonames country data sources](https://www.geonames.org/datasources/).
-Geopy, PyGeocoder are international.
+TO DO: Use Geopy or PyGeocoder libraries for international [geonames postal code data](https://www.geonames.org/datasources/). [midwire](https://github.com/midwire/free_zipcode_data) also pulls from geonames, but it's not a Python library.
+ 
 Possible file name format: zip/US/GA/US-GA-zip-2023.csv
 
 Initiate a virtual environment folder called env (optional, may differ on PC). On some machines, run "python" rather than "python3"  

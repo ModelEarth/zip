@@ -8,18 +8,19 @@ File name format: zip/US/NY/US-NY-zip-2023.csv
 
 ## Geopy
 
-Gary is using the Geopy international postal code Python library.
+Gary is investigating the Geopy international postal code Python library.
 
 [geopy.readthedocs.io](https://geopy.readthedocs.io)
 
 ## PyGeocoder
 
 Might use PyGeocoder also - Google API, might include Yahoo data
+Gary is also investigating PyGeocoder
 
-## Geonames
+## Geonames International Postal Data
 
-[Geonames postal code data](https://www.geonames.org/datasources/)  
-[midwire](https://github.com/midwire/free_zipcode_data) also pulls from geonames, but it's not a Python library.
+[Geonames postal code data sources](https://www.geonames.org/datasources/)  
+[Midwire](https://github.com/midwire/free_zipcode_data) pulls data from geonames (but it's not a Python library).
  
 
 ## USZipcode python library

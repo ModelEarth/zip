@@ -1,12 +1,32 @@
 [Community Data](/community-data/)
 
-# Our Generation Steps
+# Our Zip Pipeline
+
+Also see our [industry naics zip pipeline](/community-data/process/naics/).
+
+File name format: zip/US/NY/US-NY-zip-2023.csv
+
+## Geopy
+
+Gary is using the Geopy international postal code Python library.
+
+[geopy.readthedocs.io](https://geopy.readthedocs.io)
+
+## PyGeocoder
+
+Might use PyGeocoder also - Google API, might include Yahoo data
+
+## Geonames
+
+[Geonames postal code data](https://www.geonames.org/datasources/)  
+[midwire](https://github.com/midwire/free_zipcode_data) also pulls from geonames, but it's not a Python library.
+ 
+
+## USZipcode python library
+
+We used this for the data displayed to the right.
 
 Data Source: [data.census.gov](https://data.census.gov) crawled by [uszipcode](https://uszipcode.readthedocs.io/).
-
-TO DO: Use Geopy or PyGeocoder libraries for international [geonames postal code data](https://www.geonames.org/datasources/). [midwire](https://github.com/midwire/free_zipcode_data) also pulls from geonames, but it's not a Python library.
- 
-Possible file name format: zip/US/GA/US-GA-zip-2023.csv
 
 Initiate a virtual environment folder called env (optional, may differ on PC). On some machines, run "python" rather than "python3"  
 

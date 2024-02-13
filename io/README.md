@@ -6,16 +6,6 @@ Also see our [industry naics zip pipeline](/community-data/process/naics/).
 
 File name format: zip/US/NY/US-NY-zip-2023.csv
 
-## Geopy
-
-Gary is investigating the Geopy international postal code Python library.
-
-[geopy.readthedocs.io](https://geopy.readthedocs.io)
-
-## PyGeocoder
-
-Might use PyGeocoder also - Google API, might include Yahoo data
-Gary is also investigating PyGeocoder
 
 ## Geonames International Postal Data
 
@@ -74,3 +64,11 @@ Traceback (most recent call last):
 TypeError: __init__() got an unexpected keyword argument 'simple_zipcode'
 (env) (base) helix@localhost io % python generatezip.py
 -->
+
+## Address Lookup
+
+We're not using the following currently. Primarily useful for address validation lookups and Machine Learning about the built environment.
+
+[OpenAddresses](https://opencollective.com/openaddresses) - All the world's addresses and building footprints.
+[Geopy](https://geopy.readthedocs.io) - international postal code Python library.
+[PyGeocoder](https://www.google.com/search?q=PyGeocoder) - Uses Google's geolocation API for address lookup.

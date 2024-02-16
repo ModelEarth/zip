@@ -49,9 +49,7 @@ You can download the [zip SQLite file](https://github.com/MacHu-GWU/uszipcode-pr
 Without a parameter in SearchEngine() fewer detail fields are generated. Population by year is gone in .md file.
 Polygon is gone in .json file.
 
-Avoid deploying data update until fixed.
-
-Date for Grand Rapids zip 49501 is still not generated.
+Data for Grand Rapids zip 49501 is still not generated.
 
 
 

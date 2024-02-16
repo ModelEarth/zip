@@ -39,6 +39,9 @@ Our fork extends the work of [uszipcode.readthedocs.io](https://uszipcode.readth
 
 **Processing Note**
 
+Update Feb 16, 2024 - Better data, but Puerto Rico (example zip 00606) population became none. The zip/io/data folder is now 4.27 GB. It was previously 4.41 GB.
+The smaller size is thanks rounding more digits, and using numbers (0 to 7) rather than strings to convey Head of Households and Population by Age.
+
 The 450+ MB data file is downloaded automatically when in cluding the parameter SearchEngine(simple_or_comprehensive=SearchEngine.SimpleOrComprehensiveArgEnum.comprehensive). Older examples used SearchEngine(simple_zipcode=False) which produced the AttributeError: 'SearchEngine' object has no attribute 'ses'.
 
 You can download the [zip SQLite file](https://github.com/MacHu-GWU/uszipcode-project/releases/download/1.0.1.db/comprehensive_db.sqlite) independently. 

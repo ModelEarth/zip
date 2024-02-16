@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|56563|
+|Zipcode type|STANDARD|
 |Major city|Moorhead|
 |Post office city|None|
 |Common city list|Moorhead|
 |County|Clay County|
 |State|MN|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|46.86|
+|Longitude|-96.75|
+|Timezone|America/Chicago|
 |Radius in miles|None|
 |Area code list|218|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|56563|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

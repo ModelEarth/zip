@@ -1,5 +1,6 @@
 {
-    "zipcode_type": "Standard",
+    "zipcode": "84138",
+    "zipcode_type": "STANDARD",
     "major_city": "Salt Lake City",
     "post_office_city": null,
     "common_city_list": [
@@ -8,14 +9,11 @@
     ],
     "county": "Salt Lake County",
     "state": "UT",
-    "lat": null,
-    "lng": null,
-    "timezone": null,
+    "lat": 40.75,
+    "lng": -111.88,
+    "timezone": "America/Denver",
     "radius_in_miles": null,
-    "area_code_list": [
-        "385",
-        "801"
-    ],
+    "area_code_list": "385,801",
     "population": null,
     "population_density": null,
     "land_area_in_sqmi": null,
@@ -28,7 +26,6 @@
     "bounds_east": null,
     "bounds_north": null,
     "bounds_south": null,
-    "zipcode": "84138",
     "polygon": null,
     "population_by_year": null,
     "population_by_age": null,
@@ -41,7 +38,7 @@
     "housing_type": null,
     "year_housing_was_built": null,
     "housing_occupancy": null,
-    "vancancy_reason": null,
+    "vacancy_reason": null,
     "owner_occupied_home_values": null,
     "rental_properties_by_number_of_rooms": null,
     "monthly_rent_including_utilities_studio_apt": null,

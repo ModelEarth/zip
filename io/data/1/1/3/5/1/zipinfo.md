@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|11351|
+|Zipcode type|STANDARD|
 |Major city|Flushing|
 |Post office city|Flushing, NY|
 |Common city list|Flushing|
 |County|Queens County|
 |State|NY|
-|Latitude|40.704|
-|Longitude|-73.832|
-|Timezone|Eastern|
+|Latitude|40.78|
+|Longitude|-73.83|
+|Timezone|America/New_York|
 |Radius in miles|0.11363636363636363|
-|Area code list|347, 718, 917, 929|
-|Population|0|
+|Area code list|347,718,917,929|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-73.83|
 |Bounds east|-73.82|
 |Bounds north|40.78|
 |Bounds south|40.78|
-|Zipcode|11351|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

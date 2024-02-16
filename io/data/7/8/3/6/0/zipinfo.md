@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|78360|
+|Zipcode type|STANDARD|
 |Major city|Guerra|
 |Post office city|None|
 |Common city list|Guerra|
 |County|Jim Hogg County|
 |State|TX|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|26.88|
+|Longitude|-98.88|
+|Timezone|America/Chicago|
 |Radius in miles|None|
 |Area code list|956|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|78360|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

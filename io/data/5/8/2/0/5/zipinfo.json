@@ -1,6 +1,7 @@
 {
-    "zipcode_type": "Standard",
-    "major_city": "Grand Forks Afb",
+    "zipcode": "58205",
+    "zipcode_type": "STANDARD",
+    "major_city": "Grand Forks AFB",
     "post_office_city": "Grand Forks Afb, ND",
     "common_city_list": [
         "Grand Forks Afb",
@@ -9,26 +10,23 @@
     ],
     "county": "Grand Forks County",
     "state": "ND",
-    "lat": 47.96,
-    "lng": -97.4,
-    "timezone": "Central",
+    "lat": 47.95,
+    "lng": -97.38,
+    "timezone": "America/Chicago",
     "radius_in_miles": 3.0,
-    "area_code_list": [
-        "701"
-    ],
-    "population": 260,
-    "population_density": 1613.0,
-    "land_area_in_sqmi": 0.16,
-    "water_area_in_sqmi": 0.0,
-    "housing_units": 0,
-    "occupied_housing_units": 0,
+    "area_code_list": "701",
+    "population": null,
+    "population_density": null,
+    "land_area_in_sqmi": null,
+    "water_area_in_sqmi": null,
+    "housing_units": null,
+    "occupied_housing_units": null,
     "median_home_value": null,
     "median_household_income": null,
     "bounds_west": -97.38,
     "bounds_east": -97.38,
     "bounds_north": 47.96,
     "bounds_south": 47.95,
-    "zipcode": "58205",
     "polygon": [
         [
             -97.38026,
@@ -278,6 +276,10 @@
                 {
                     "x": 2007,
                     "y": 13
+                },
+                {
+                    "x": 2016,
+                    "y": 110
                 }
             ]
         }
@@ -287,75 +289,75 @@
             "key": "Male",
             "values": [
                 {
-                    "x": "Under 5",
+                    "x": 0,
                     "y": 0
                 },
                 {
-                    "x": "5-9",
+                    "x": 1,
                     "y": 0
                 },
                 {
-                    "x": "10-14",
+                    "x": 2,
                     "y": 0
                 },
                 {
-                    "x": "15-19",
+                    "x": 3,
                     "y": 30
                 },
                 {
-                    "x": "20-24",
+                    "x": 4,
                     "y": 135
                 },
                 {
-                    "x": "25-29",
+                    "x": 5,
                     "y": 19
                 },
                 {
-                    "x": "30-34",
+                    "x": 6,
                     "y": 2
                 },
                 {
-                    "x": "35-39",
+                    "x": 7,
                     "y": 0
                 },
                 {
-                    "x": "40-44",
+                    "x": 8,
                     "y": 0
                 },
                 {
-                    "x": "45-49",
+                    "x": 9,
                     "y": 0
                 },
                 {
-                    "x": "50-54",
+                    "x": 10,
                     "y": 0
                 },
                 {
-                    "x": "55-59",
+                    "x": 11,
                     "y": 0
                 },
                 {
-                    "x": "60-64",
+                    "x": 12,
                     "y": 0
                 },
                 {
-                    "x": "65-69",
+                    "x": 13,
                     "y": 0
                 },
                 {
-                    "x": "70-74",
+                    "x": 14,
                     "y": 0
                 },
                 {
-                    "x": "75-79",
+                    "x": 15,
                     "y": 0
                 },
                 {
-                    "x": "80-84",
+                    "x": 16,
                     "y": 0
                 },
                 {
-                    "x": "85 Plus",
+                    "x": 17,
                     "y": 0
                 }
             ]
@@ -364,156 +366,156 @@
             "key": "Female",
             "values": [
                 {
-                    "x": "Under 5",
+                    "x": 0,
                     "y": 0
                 },
                 {
-                    "x": "5-9",
+                    "x": 1,
                     "y": 0
                 },
                 {
-                    "x": "10-14",
+                    "x": 2,
                     "y": 0
                 },
                 {
-                    "x": "15-19",
+                    "x": 3,
                     "y": 19
                 },
                 {
-                    "x": "20-24",
+                    "x": 4,
                     "y": 51
                 },
                 {
-                    "x": "25-29",
+                    "x": 5,
                     "y": 4
                 },
                 {
-                    "x": "30-34",
+                    "x": 6,
                     "y": 0
                 },
                 {
-                    "x": "35-39",
+                    "x": 7,
                     "y": 0
                 },
                 {
-                    "x": "40-44",
+                    "x": 8,
                     "y": 0
                 },
                 {
-                    "x": "45-49",
+                    "x": 9,
                     "y": 0
                 },
                 {
-                    "x": "50-54",
+                    "x": 10,
                     "y": 0
                 },
                 {
-                    "x": "55-59",
+                    "x": 11,
                     "y": 0
                 },
                 {
-                    "x": "60-64",
+                    "x": 12,
                     "y": 0
                 },
                 {
-                    "x": "65-69",
+                    "x": 13,
                     "y": 0
                 },
                 {
-                    "x": "70-74",
+                    "x": 14,
                     "y": 0
                 },
                 {
-                    "x": "75-79",
+                    "x": 15,
                     "y": 0
                 },
                 {
-                    "x": "80-84",
+                    "x": 16,
                     "y": 0
                 },
                 {
-                    "x": "85 Plus",
+                    "x": 17,
                     "y": 0
                 }
             ]
         },
         {
             "key": "Total",
+            "color": "#000000",
             "values": [
                 {
-                    "x": "Under 5",
+                    "x": 0,
                     "y": 0
                 },
                 {
-                    "x": "5-9",
+                    "x": 1,
                     "y": 0
                 },
                 {
-                    "x": "10-14",
+                    "x": 2,
                     "y": 0
                 },
                 {
-                    "x": "15-19",
+                    "x": 3,
                     "y": 49
                 },
                 {
-                    "x": "20-24",
+                    "x": 4,
                     "y": 186
                 },
                 {
-                    "x": "25-29",
+                    "x": 5,
                     "y": 23
                 },
                 {
-                    "x": "30-34",
+                    "x": 6,
                     "y": 2
                 },
                 {
-                    "x": "35-39",
+                    "x": 7,
                     "y": 0
                 },
                 {
-                    "x": "40-44",
+                    "x": 8,
                     "y": 0
                 },
                 {
-                    "x": "45-49",
+                    "x": 9,
                     "y": 0
                 },
                 {
-                    "x": "50-54",
+                    "x": 10,
                     "y": 0
                 },
                 {
-                    "x": "55-59",
+                    "x": 11,
                     "y": 0
                 },
                 {
-                    "x": "60-64",
+                    "x": 12,
                     "y": 0
                 },
                 {
-                    "x": "65-69",
+                    "x": 13,
                     "y": 0
                 },
                 {
-                    "x": "70-74",
+                    "x": 14,
                     "y": 0
                 },
                 {
-                    "x": "75-79",
+                    "x": 15,
                     "y": 0
                 },
                 {
-                    "x": "80-84",
+                    "x": 16,
                     "y": 0
                 },
                 {
-                    "x": "85 Plus",
+                    "x": 17,
                     "y": 0
                 }
-            ],
-            "color": "#000000"
+            ]
         }
     ],
     "population_by_gender": [
@@ -742,6 +744,7 @@
         },
         {
             "key": "Total",
+            "color": "#000000",
             "values": [
                 {
                     "x": 0,
@@ -823,8 +826,7 @@
                     "x": 19,
                     "y": 71
                 }
-            ],
-            "color": "#000000"
+            ]
         }
     ],
     "housing_type": [
@@ -868,7 +870,7 @@
     ],
     "year_housing_was_built": null,
     "housing_occupancy": null,
-    "vancancy_reason": null,
+    "vacancy_reason": null,
     "owner_occupied_home_values": null,
     "rental_properties_by_number_of_rooms": null,
     "monthly_rent_including_utilities_studio_apt": null,
@@ -909,6 +911,10 @@
                 {
                     "x": 2007,
                     "y": 13345
+                },
+                {
+                    "x": 2016,
+                    "y": 18927.27
                 }
             ]
         }

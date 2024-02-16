@@ -2,88 +2,89 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|10170|
+|Zipcode type|STANDARD|
 |Major city|New York|
 |Post office city|New York, NY|
 |Common city list|New York|
 |County|New York County|
 |State|NY|
-|Latitude|40.791|
-|Longitude|-73.966|
-|Timezone|Eastern|
+|Latitude|40.75|
+|Longitude|-73.98|
+|Timezone|America/New_York|
 |Radius in miles|0.11363636363636363|
 |Area code list|212|
-|Population|2|
-|Population density|208.0|
-|Land area in sqmi|0.01|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Population|None|
+|Population density|None|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-73.98|
 |Bounds east|-73.97|
 |Bounds north|40.75|
 |Bounds south|40.75|
-|Zipcode|10170|
 |Population by year: 2005|334|
 |Population by year: 2006|322|
 |Population by year: 2007|421|
 |Population by year: 2008|519|
-|Population by age: male, under 5 years old|0|
-|Population by age: male, 5-9 years old|0|
-|Population by age: male, 10-14 years old|0|
-|Population by age: male, 15-19 years old|0|
-|Population by age: male, 20-24 years old|0|
-|Population by age: male, 25-29 years old|0|
-|Population by age: male, 30-34 years old|0|
-|Population by age: male, 35-39 years old|0|
-|Population by age: male, 40-44 years old|0|
-|Population by age: male, 45-49 years old|1|
-|Population by age: male, 50-54 years old|0|
-|Population by age: male, 55-59 years old|0|
-|Population by age: male, 60-64 years old|0|
-|Population by age: male, 65-69 years old|0|
-|Population by age: male, 70-74 years old|0|
-|Population by age: male, 75-79 years old|0|
-|Population by age: male, 80-84 years old|0|
-|Population by age: male, 85 plus years old|0|
-|Population by age: female, under 5 years old|0|
-|Population by age: female, 5-9 years old|0|
-|Population by age: female, 10-14 years old|0|
-|Population by age: female, 15-19 years old|0|
-|Population by age: female, 20-24 years old|0|
-|Population by age: female, 25-29 years old|0|
-|Population by age: female, 30-34 years old|0|
-|Population by age: female, 35-39 years old|0|
-|Population by age: female, 40-44 years old|0|
-|Population by age: female, 45-49 years old|0|
-|Population by age: female, 50-54 years old|0|
-|Population by age: female, 55-59 years old|0|
-|Population by age: female, 60-64 years old|0|
-|Population by age: female, 65-69 years old|1|
-|Population by age: female, 70-74 years old|0|
-|Population by age: female, 75-79 years old|0|
-|Population by age: female, 80-84 years old|0|
-|Population by age: female, 85 plus years old|0|
-|Population by age: total, under 5 years old|0|
-|Population by age: total, 5-9 years old|0|
-|Population by age: total, 10-14 years old|0|
-|Population by age: total, 15-19 years old|0|
-|Population by age: total, 20-24 years old|0|
-|Population by age: total, 25-29 years old|0|
-|Population by age: total, 30-34 years old|0|
-|Population by age: total, 35-39 years old|0|
-|Population by age: total, 40-44 years old|0|
-|Population by age: total, 45-49 years old|1|
-|Population by age: total, 50-54 years old|0|
-|Population by age: total, 55-59 years old|0|
-|Population by age: total, 60-64 years old|0|
-|Population by age: total, 65-69 years old|1|
-|Population by age: total, 70-74 years old|0|
-|Population by age: total, 75-79 years old|0|
-|Population by age: total, 80-84 years old|0|
-|Population by age: total, 85 plus years old|0|
+|Population by year: 2016|470|
+|Population by age: male, 0 years old|0|
+|Population by age: male, 1 years old|0|
+|Population by age: male, 2 years old|0|
+|Population by age: male, 3 years old|0|
+|Population by age: male, 4 years old|0|
+|Population by age: male, 5 years old|0|
+|Population by age: male, 6 years old|0|
+|Population by age: male, 7 years old|0|
+|Population by age: male, 8 years old|0|
+|Population by age: male, 9 years old|1|
+|Population by age: male, 10 years old|0|
+|Population by age: male, 11 years old|0|
+|Population by age: male, 12 years old|0|
+|Population by age: male, 13 years old|0|
+|Population by age: male, 14 years old|0|
+|Population by age: male, 15 years old|0|
+|Population by age: male, 16 years old|0|
+|Population by age: male, 17 years old|0|
+|Population by age: female, 0 years old|0|
+|Population by age: female, 1 years old|0|
+|Population by age: female, 2 years old|0|
+|Population by age: female, 3 years old|0|
+|Population by age: female, 4 years old|0|
+|Population by age: female, 5 years old|0|
+|Population by age: female, 6 years old|0|
+|Population by age: female, 7 years old|0|
+|Population by age: female, 8 years old|0|
+|Population by age: female, 9 years old|0|
+|Population by age: female, 10 years old|0|
+|Population by age: female, 11 years old|0|
+|Population by age: female, 12 years old|0|
+|Population by age: female, 13 years old|1|
+|Population by age: female, 14 years old|0|
+|Population by age: female, 15 years old|0|
+|Population by age: female, 16 years old|0|
+|Population by age: female, 17 years old|0|
+|Population by age: total, 0 years old|0|
+|Population by age: total, 1 years old|0|
+|Population by age: total, 2 years old|0|
+|Population by age: total, 3 years old|0|
+|Population by age: total, 4 years old|0|
+|Population by age: total, 5 years old|0|
+|Population by age: total, 6 years old|0|
+|Population by age: total, 7 years old|0|
+|Population by age: total, 8 years old|0|
+|Population by age: total, 9 years old|1|
+|Population by age: total, 10 years old|0|
+|Population by age: total, 11 years old|0|
+|Population by age: total, 12 years old|0|
+|Population by age: total, 13 years old|1|
+|Population by age: total, 14 years old|0|
+|Population by age: total, 15 years old|0|
+|Population by age: total, 16 years old|0|
+|Population by age: total, 17 years old|0|
 |Population by gender: male|1|
 |Population by gender: female|1|
 |Population by race: white|0|
@@ -107,7 +108,7 @@
 |Housing type: other noninstitutional|2|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|
@@ -119,6 +120,7 @@
 |Average household income over time: 2006|115,468.75|
 |Average household income over time: 2007|162,334.66|
 |Average household income over time: 2008|122,802.1|
+|Average household income over time: 2016|514,425.93|
 |Household income|None|
 |Annual individual earnings|None|
 |Sources of household income, percent of households receiving income|None|

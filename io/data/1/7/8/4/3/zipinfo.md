@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|17843|
+|Zipcode type|STANDARD|
 |Major city|Beaver Springs|
 |Post office city|None|
 |Common city list|Beaver Springs, Beaver Sprgs, Middle Creek|
 |County|Snyder County|
 |State|PA|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|40.74|
+|Longitude|-77.22|
+|Timezone|America/New_York|
 |Radius in miles|None|
 |Area code list|570|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|17843|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

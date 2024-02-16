@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|98154|
+|Zipcode type|STANDARD|
 |Major city|Seattle|
 |Post office city|Seattle, WA|
 |Common city list|Seattle|
 |County|King County|
 |State|WA|
-|Latitude|47.6|
+|Latitude|47.61|
 |Longitude|-122.33|
-|Timezone|Pacific|
+|Timezone|America/Los_Angeles|
 |Radius in miles|1.0|
-|Area code list|425, 206, 253, 360|
-|Population|0|
+|Area code list|425,206,253,360|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-122.33|
 |Bounds east|-122.33|
 |Bounds north|47.61|
 |Bounds south|47.61|
-|Zipcode|98154|
 |Population by year: 2005|33|
 |Population by year: 2006|29|
 |Population by year: 2007|28|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|28545|
+|Zipcode type|STANDARD|
 |Major city|Mccutcheon Field|
 |Post office city|None|
 |Common city list|Mccutcheon Field, Jacksonville, Mccutchn Fld|
 |County|Onslow County|
 |State|NC|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|34.67|
+|Longitude|-77.52|
+|Timezone|America/New_York|
 |Radius in miles|None|
 |Area code list|910|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|28545|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

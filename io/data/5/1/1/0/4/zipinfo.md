@@ -2,7 +2,8 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|51104|
+|Zipcode type|STANDARD|
 |Major city|Sioux City|
 |Post office city|Sioux City, IA|
 |Common city list|Sioux City|
@@ -10,7 +11,7 @@
 |State|IA|
 |Latitude|42.54|
 |Longitude|-96.4|
-|Timezone|Central|
+|Timezone|America/Chicago|
 |Radius in miles|3.0|
 |Area code list|712|
 |Population|22,104|
@@ -25,7 +26,6 @@
 |Bounds east|-96.37|
 |Bounds north|42.56|
 |Bounds south|42.51|
-|Zipcode|51104|
 |Population by year: 2005|20,085|
 |Population by year: 2006|19,365|
 |Population by year: 2007|20,415|
@@ -37,60 +37,63 @@
 |Population by year: 2013|19,830|
 |Population by year: 2014|20,030|
 |Population by year: 2015|20,220|
-|Population by age: male, under 5 years old|849|
-|Population by age: male, 5-9 years old|832|
-|Population by age: male, 10-14 years old|775|
-|Population by age: male, 15-19 years old|869|
-|Population by age: male, 20-24 years old|858|
-|Population by age: male, 25-29 years old|691|
-|Population by age: male, 30-34 years old|697|
-|Population by age: male, 35-39 years old|657|
-|Population by age: male, 40-44 years old|664|
-|Population by age: male, 45-49 years old|646|
-|Population by age: male, 50-54 years old|700|
-|Population by age: male, 55-59 years old|685|
-|Population by age: male, 60-64 years old|547|
-|Population by age: male, 65-69 years old|380|
-|Population by age: male, 70-74 years old|277|
-|Population by age: male, 75-79 years old|197|
-|Population by age: male, 80-84 years old|205|
-|Population by age: male, 85 plus years old|153|
-|Population by age: female, under 5 years old|792|
-|Population by age: female, 5-9 years old|813|
-|Population by age: female, 10-14 years old|756|
-|Population by age: female, 15-19 years old|871|
-|Population by age: female, 20-24 years old|827|
-|Population by age: female, 25-29 years old|726|
-|Population by age: female, 30-34 years old|703|
-|Population by age: female, 35-39 years old|693|
-|Population by age: female, 40-44 years old|647|
-|Population by age: female, 45-49 years old|730|
-|Population by age: female, 50-54 years old|728|
-|Population by age: female, 55-59 years old|724|
-|Population by age: female, 60-64 years old|645|
-|Population by age: female, 65-69 years old|395|
-|Population by age: female, 70-74 years old|358|
-|Population by age: female, 75-79 years old|321|
-|Population by age: female, 80-84 years old|346|
-|Population by age: female, 85 plus years old|347|
-|Population by age: total, under 5 years old|1,641|
-|Population by age: total, 5-9 years old|1,645|
-|Population by age: total, 10-14 years old|1,531|
-|Population by age: total, 15-19 years old|1,740|
-|Population by age: total, 20-24 years old|1,685|
-|Population by age: total, 25-29 years old|1,417|
-|Population by age: total, 30-34 years old|1,400|
-|Population by age: total, 35-39 years old|1,350|
-|Population by age: total, 40-44 years old|1,311|
-|Population by age: total, 45-49 years old|1,376|
-|Population by age: total, 50-54 years old|1,428|
-|Population by age: total, 55-59 years old|1,409|
-|Population by age: total, 60-64 years old|1,192|
-|Population by age: total, 65-69 years old|775|
-|Population by age: total, 70-74 years old|635|
-|Population by age: total, 75-79 years old|518|
-|Population by age: total, 80-84 years old|551|
-|Population by age: total, 85 plus years old|500|
+|Population by year: 2016|19,730|
+|Population by year: 2017|19,890|
+|Population by year: 2018|19,920|
+|Population by age: male, 0 years old|849|
+|Population by age: male, 1 years old|832|
+|Population by age: male, 2 years old|775|
+|Population by age: male, 3 years old|869|
+|Population by age: male, 4 years old|858|
+|Population by age: male, 5 years old|691|
+|Population by age: male, 6 years old|697|
+|Population by age: male, 7 years old|657|
+|Population by age: male, 8 years old|664|
+|Population by age: male, 9 years old|646|
+|Population by age: male, 10 years old|700|
+|Population by age: male, 11 years old|685|
+|Population by age: male, 12 years old|547|
+|Population by age: male, 13 years old|380|
+|Population by age: male, 14 years old|277|
+|Population by age: male, 15 years old|197|
+|Population by age: male, 16 years old|205|
+|Population by age: male, 17 years old|153|
+|Population by age: female, 0 years old|792|
+|Population by age: female, 1 years old|813|
+|Population by age: female, 2 years old|756|
+|Population by age: female, 3 years old|871|
+|Population by age: female, 4 years old|827|
+|Population by age: female, 5 years old|726|
+|Population by age: female, 6 years old|703|
+|Population by age: female, 7 years old|693|
+|Population by age: female, 8 years old|647|
+|Population by age: female, 9 years old|730|
+|Population by age: female, 10 years old|728|
+|Population by age: female, 11 years old|724|
+|Population by age: female, 12 years old|645|
+|Population by age: female, 13 years old|395|
+|Population by age: female, 14 years old|358|
+|Population by age: female, 15 years old|321|
+|Population by age: female, 16 years old|346|
+|Population by age: female, 17 years old|347|
+|Population by age: total, 0 years old|1,641|
+|Population by age: total, 1 years old|1,645|
+|Population by age: total, 2 years old|1,531|
+|Population by age: total, 3 years old|1,740|
+|Population by age: total, 4 years old|1,685|
+|Population by age: total, 5 years old|1,417|
+|Population by age: total, 6 years old|1,400|
+|Population by age: total, 7 years old|1,350|
+|Population by age: total, 8 years old|1,311|
+|Population by age: total, 9 years old|1,376|
+|Population by age: total, 10 years old|1,428|
+|Population by age: total, 11 years old|1,409|
+|Population by age: total, 12 years old|1,192|
+|Population by age: total, 13 years old|775|
+|Population by age: total, 14 years old|635|
+|Population by age: total, 15 years old|518|
+|Population by age: total, 16 years old|551|
+|Population by age: total, 17 years old|500|
 |Population by gender: male|10,682|
 |Population by gender: female|11,422|
 |Population by race: white|18,176|
@@ -100,30 +103,30 @@
 |Population by race: native hawaiian & other pacific islander|34|
 |Population by race: other race|1,308|
 |Population by race: two or more races|773|
-|Head of household by age: owner, 15-24 years old|91|
-|Head of household by age: owner, 25-34 years old|737|
-|Head of household by age: owner, 35-44 years old|984|
-|Head of household by age: owner, 45-54 years old|1,148|
-|Head of household by age: owner, 55-64 years old|1,212|
-|Head of household by age: owner, 65-74 years old|718|
-|Head of household by age: owner, 75-84 years old|521|
-|Head of household by age: owner, 85 plus years old|202|
-|Head of household by age: renter, 15-24 years old|426|
-|Head of household by age: renter, 25-34 years old|648|
-|Head of household by age: renter, 35-44 years old|453|
-|Head of household by age: renter, 45-54 years old|450|
-|Head of household by age: renter, 55-64 years old|326|
-|Head of household by age: renter, 65-74 years old|186|
-|Head of household by age: renter, 75-84 years old|232|
-|Head of household by age: renter, 85 plus years old|194|
-|Head of household by age: total, 15-24 years old|517|
-|Head of household by age: total, 25-34 years old|1,385|
-|Head of household by age: total, 35-44 years old|1,437|
-|Head of household by age: total, 45-54 years old|1,598|
-|Head of household by age: total, 55-64 years old|1,538|
-|Head of household by age: total, 65-74 years old|904|
-|Head of household by age: total, 75-84 years old|753|
-|Head of household by age: total, 85 plus years old|396|
+|Head of household by age: owner, 0 years old|91|
+|Head of household by age: owner, 1 years old|737|
+|Head of household by age: owner, 2 years old|984|
+|Head of household by age: owner, 3 years old|1,148|
+|Head of household by age: owner, 4 years old|1,212|
+|Head of household by age: owner, 5 years old|718|
+|Head of household by age: owner, 6 years old|521|
+|Head of household by age: owner, 7 years old|202|
+|Head of household by age: renter, 0 years old|426|
+|Head of household by age: renter, 1 years old|648|
+|Head of household by age: renter, 2 years old|453|
+|Head of household by age: renter, 3 years old|450|
+|Head of household by age: renter, 4 years old|326|
+|Head of household by age: renter, 5 years old|186|
+|Head of household by age: renter, 6 years old|232|
+|Head of household by age: renter, 7 years old|194|
+|Head of household by age: total, 0 years old|517|
+|Head of household by age: total, 1 years old|1,385|
+|Head of household by age: total, 2 years old|1,437|
+|Head of household by age: total, 3 years old|1,598|
+|Head of household by age: total, 4 years old|1,538|
+|Head of household by age: total, 5 years old|904|
+|Head of household by age: total, 6 years old|753|
+|Head of household by age: total, 7 years old|396|
 |Families vs singles: husband wife family households|3,988|
 |Families vs singles: single guardian|1,493|
 |Families vs singles: singles|2,532|
@@ -211,13 +214,13 @@
 |Housing occupancy: owned households free & clear|1,723|
 |Housing occupancy: renter occupied households|2,915|
 |Housing occupancy: households vacant|447|
-|Vancancy reason: for rent|220|
-|Vancancy reason: rented & unoccupied|5|
-|Vancancy reason: for sale only|82|
-|Vancancy reason: sold & unoccupied|20|
-|Vancancy reason: for season recreational or occasional use|19|
-|Vancancy reason: for migrant workers|0|
-|Vancancy reason: vacant for other reasons|101|
+|Vacancy reason: for rent|220|
+|Vacancy reason: rented & unoccupied|5|
+|Vacancy reason: for sale only|82|
+|Vacancy reason: sold & unoccupied|20|
+|Vacancy reason: for season recreational or occasional use|19|
+|Vacancy reason: for migrant workers|0|
+|Vacancy reason: vacant for other reasons|101|
 |Owner occupied home values: $1-$24,999|136|
 |Owner occupied home values: $25,000-$49,999|349|
 |Owner occupied home values: $50,000-$99,999|1,806|
@@ -231,29 +234,29 @@
 |Rental properties by number of rooms: 2 bedroom|1,190|
 |Rental properties by number of rooms: 3+ bedroom|535|
 |Monthly rent including utilities studio apt: < $200|0|
-|Monthly rent including utilities studio apt: $200-$299|7|
-|Monthly rent including utilities studio apt: $300-$499|0|
-|Monthly rent including utilities studio apt: $500-$749|6|
-|Monthly rent including utilities studio apt: $750-$999|41|
-|Monthly rent including utilities studio apt: $1,000+|24|
+|Monthly rent including utilities studio apt: $200-$299|129|
+|Monthly rent including utilities studio apt: $300-$499|176|
+|Monthly rent including utilities studio apt: $500-$749|467|
+|Monthly rent including utilities studio apt: $750-$999|50|
+|Monthly rent including utilities studio apt: $1,000+|106|
 |Monthly rent including utilities 1 b: < $200|0|
-|Monthly rent including utilities 1 b: $200-$299|129|
-|Monthly rent including utilities 1 b: $300-$499|176|
-|Monthly rent including utilities 1 b: $500-$749|467|
-|Monthly rent including utilities 1 b: $750-$999|50|
-|Monthly rent including utilities 1 b: $1,000+|106|
-|Monthly rent including utilities 2 b: < $200|0|
-|Monthly rent including utilities 2 b: $200-$299|38|
-|Monthly rent including utilities 2 b: $300-$499|9|
-|Monthly rent including utilities 2 b: $500-$749|528|
-|Monthly rent including utilities 2 b: $750-$999|520|
-|Monthly rent including utilities 2 b: $1,000+|58|
-|Monthly rent including utilities 3plus b: < $200|5|
-|Monthly rent including utilities 3plus b: $200-$299|0|
-|Monthly rent including utilities 3plus b: $300-$499|17|
-|Monthly rent including utilities 3plus b: $500-$749|73|
-|Monthly rent including utilities 3plus b: $750-$999|190|
-|Monthly rent including utilities 3plus b: $1,000+|177|
+|Monthly rent including utilities 1 b: $200-$299|38|
+|Monthly rent including utilities 1 b: $300-$499|9|
+|Monthly rent including utilities 1 b: $500-$749|528|
+|Monthly rent including utilities 1 b: $750-$999|520|
+|Monthly rent including utilities 1 b: $1,000+|58|
+|Monthly rent including utilities 2 b: < $200|5|
+|Monthly rent including utilities 2 b: $200-$299|0|
+|Monthly rent including utilities 2 b: $300-$499|17|
+|Monthly rent including utilities 2 b: $500-$749|73|
+|Monthly rent including utilities 2 b: $750-$999|190|
+|Monthly rent including utilities 2 b: $1,000+|177|
+|Monthly rent including utilities 3plus b: < $200|0|
+|Monthly rent including utilities 3plus b: $200-$299|7|
+|Monthly rent including utilities 3plus b: $300-$499|0|
+|Monthly rent including utilities 3plus b: $500-$749|6|
+|Monthly rent including utilities 3plus b: $750-$999|41|
+|Monthly rent including utilities 3plus b: $1,000+|24|
 |Employment status: worked full-time with earnings|8,087|
 |Employment status: worked part-time with earnings|4,756|
 |Employment status: no earnings|4,386|
@@ -268,6 +271,9 @@
 |Average household income over time: 2013|54,485.66|
 |Average household income over time: 2014|56,394.53|
 |Average household income over time: 2015|56,430.72|
+|Average household income over time: 2016|56,908.63|
+|Average household income over time: 2017|59,022.73|
+|Average household income over time: 2018|61,115.67|
 |Household income: < $25,000|1,748|
 |Household income: $25,000-$44,999|1,878|
 |Household income: $45,000-$59,999|965|
@@ -284,28 +290,26 @@
 |Annual individual earnings: $65,000-$74,999|500|
 |Annual individual earnings: $75,000-$99,999|446|
 |Annual individual earnings: $100,000+|758|
-|Sources of household income, percent of households receiving income: wages|87.92|
-|Sources of household income, percent of households receiving income: business|12.37|
-|Sources of household income, percent of households receiving income: partnership|6.18|
-|Sources of household income, percent of households receiving income: unemployment|4.73|
-|Sources of household income, average income per household by income source: wages|46,675.05|
-|Sources of household income, average income per household by income source: business|11,131.25|
-|Sources of household income, average income per household by income source: partnership|70,273.44|
-|Sources of household income, average income per household by income source: unemployment|4,081.63|
-|Household investment income, percent of households receiving investment income: interest|25.22|
-|Household investment income, percent of households receiving investment income: ordinary dividends|17.39|
-|Household investment income, percent of households receiving investment income: qualified dividends|16.43|
-|Household investment income, percent of households receiving investment income: capital gains|15.17|
-|Household investment income, average income per household by income source: interest|1,508.43|
-|Household investment income, average income per household by income source: ordinary dividends|5,698.89|
-|Household investment income, average income per household by income source: qualified dividends|4,065.88|
-|Household investment income, average income per household by income source: capital gains|7,442.68|
-|Household retirement income, percent of households receiving retirement incom: ira distributions|10.53|
-|Household retirement income, percent of households receiving retirement incom: pensions/annuities|17.97|
-|Household retirement income, percent of households receiving retirement incom: social security|13.82|
-|Household retirement income, average income per household by income source: ira distributions|14,870.64|
-|Household retirement income, average income per household by income source: pensions/annuities|18,745.7|
-|Household retirement income, average income per household by income source: social security|14,149.65|
+|Sources of household income, percent of households receiving income: wages|87.62|
+|Sources of household income, percent of households receiving income: business|11.8|
+|Sources of household income, percent of households receiving income: partnership|5.42|
+|Sources of household income, percent of households receiving income: unemployment|3.87|
+|Sources of household income, average income per household by income source: wages|49,513.13|
+|Sources of household income, average income per household by income source: business|11,263.11|
+|Sources of household income, average income per household by income source: partnership|83,401.79|
+|Sources of household income, average income per household by income source: unemployment|3,857.5|
+|Household investment income, percent of households receiving investment income: interest|26.6|
+|Household investment income, percent of households receiving investment income: ordinary dividends|16.15|
+|Household investment income, percent of households receiving investment income: qualified dividends|15.28|
+|Household investment income, percent of households receiving investment income: capital gains|14.41|
+|Household investment income, average income per household by income source: interest|2,114.18|
+|Household investment income, average income per household by income source: ordinary dividends|7,468.86|
+|Household investment income, average income per household by income source: qualified dividends|5,654.43|
+|Household investment income, average income per household by income source: capital gains|12,371.81|
+|Household retirement income, percent of households receiving retirement incom: ira/pension/annuity distributions|21.08|
+|Household retirement income, percent of households receiving retirement incom: social security|14.31|
+|Household retirement income, average income per household by income source: ira/pension/annuity distributions|25,310.55|
+|Household retirement income, average income per household by income source: social security|15,831.76|
 |Source of earnings: worked full-time with earnings|8,087|
 |Source of earnings: worked part-time with earnings|4,756|
 |Source of earnings: no earnings|4,386|

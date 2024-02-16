@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|04075|
+|Zipcode type|STANDARD|
 |Major city|Sebago Lake|
 |Post office city|None|
 |Common city list|Sebago Lake, Standish|
 |County|Cumberland County|
 |State|ME|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|43.85|
+|Longitude|-70.63|
+|Timezone|America/New_York|
 |Radius in miles|None|
 |Area code list|207|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|04075|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

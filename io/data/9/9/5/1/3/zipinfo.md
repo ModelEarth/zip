@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|99513|
+|Zipcode type|STANDARD|
 |Major city|Anchorage|
 |Post office city|Anchorage, AK|
 |Common city list|Anchorage|
 |County|Anchorage Municipality|
 |State|AK|
-|Latitude|61.218|
-|Longitude|-149.858|
+|Latitude|61.21|
+|Longitude|-149.89|
 |Timezone|America/Anchorage|
 |Radius in miles|0.17045454545454544|
 |Area code list|907|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-149.89|
 |Bounds east|-149.88|
 |Bounds north|61.22|
 |Bounds south|61.21|
-|Zipcode|99513|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

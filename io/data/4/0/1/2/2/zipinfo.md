@@ -2,17 +2,18 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|40122|
+|Zipcode type|STANDARD|
 |Major city|Fort Knox|
 |Post office city|None|
 |Common city list|Fort Knox|
 |County|Hardin County|
 |State|KY|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|37.89|
+|Longitude|-85.96|
+|Timezone|America/New_York|
 |Radius in miles|None|
-|Area code list|None|
+|Area code list||
 |Population|None|
 |Population density|None|
 |Land area in sqmi|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|40122|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

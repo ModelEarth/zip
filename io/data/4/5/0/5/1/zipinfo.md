@@ -2,87 +2,87 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|45051|
+|Zipcode type|STANDARD|
 |Major city|Mount Saint Joseph|
 |Post office city|Mount Saint Joseph, OH|
 |Common city list|Mount Saint Joseph, Mt St Joseph|
 |County|Hamilton County|
 |State|OH|
-|Latitude|39.096|
-|Longitude|-84.645|
-|Timezone|Eastern|
+|Latitude|39.1|
+|Longitude|-84.65|
+|Timezone|America/New_York|
 |Radius in miles|0.17045454545454544|
 |Area code list|513|
-|Population|177|
-|Population density|2,048.0|
-|Land area in sqmi|0.09|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Population|None|
+|Population density|None|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-84.65|
 |Bounds east|-84.64|
 |Bounds north|39.1|
 |Bounds south|39.1|
-|Zipcode|45051|
 |Population by year: 2005|75|
 |Population by year: 2006|86|
 |Population by year: 2007|412|
-|Population by age: male, under 5 years old|0|
-|Population by age: male, 5-9 years old|0|
-|Population by age: male, 10-14 years old|0|
-|Population by age: male, 15-19 years old|0|
-|Population by age: male, 20-24 years old|0|
-|Population by age: male, 25-29 years old|0|
-|Population by age: male, 30-34 years old|0|
-|Population by age: male, 35-39 years old|0|
-|Population by age: male, 40-44 years old|0|
-|Population by age: male, 45-49 years old|0|
-|Population by age: male, 50-54 years old|0|
-|Population by age: male, 55-59 years old|0|
-|Population by age: male, 60-64 years old|0|
-|Population by age: male, 65-69 years old|0|
-|Population by age: male, 70-74 years old|0|
-|Population by age: male, 75-79 years old|0|
-|Population by age: male, 80-84 years old|0|
-|Population by age: male, 85 plus years old|0|
-|Population by age: female, under 5 years old|0|
-|Population by age: female, 5-9 years old|0|
-|Population by age: female, 10-14 years old|0|
-|Population by age: female, 15-19 years old|0|
-|Population by age: female, 20-24 years old|0|
-|Population by age: female, 25-29 years old|0|
-|Population by age: female, 30-34 years old|0|
-|Population by age: female, 35-39 years old|0|
-|Population by age: female, 40-44 years old|0|
-|Population by age: female, 45-49 years old|0|
-|Population by age: female, 50-54 years old|0|
-|Population by age: female, 55-59 years old|0|
-|Population by age: female, 60-64 years old|3|
-|Population by age: female, 65-69 years old|1|
-|Population by age: female, 70-74 years old|13|
-|Population by age: female, 75-79 years old|27|
-|Population by age: female, 80-84 years old|47|
-|Population by age: female, 85 plus years old|86|
-|Population by age: total, under 5 years old|0|
-|Population by age: total, 5-9 years old|0|
-|Population by age: total, 10-14 years old|0|
-|Population by age: total, 15-19 years old|0|
-|Population by age: total, 20-24 years old|0|
-|Population by age: total, 25-29 years old|0|
-|Population by age: total, 30-34 years old|0|
-|Population by age: total, 35-39 years old|0|
-|Population by age: total, 40-44 years old|0|
-|Population by age: total, 45-49 years old|0|
-|Population by age: total, 50-54 years old|0|
-|Population by age: total, 55-59 years old|0|
-|Population by age: total, 60-64 years old|3|
-|Population by age: total, 65-69 years old|1|
-|Population by age: total, 70-74 years old|13|
-|Population by age: total, 75-79 years old|27|
-|Population by age: total, 80-84 years old|47|
-|Population by age: total, 85 plus years old|86|
+|Population by age: male, 0 years old|0|
+|Population by age: male, 1 years old|0|
+|Population by age: male, 2 years old|0|
+|Population by age: male, 3 years old|0|
+|Population by age: male, 4 years old|0|
+|Population by age: male, 5 years old|0|
+|Population by age: male, 6 years old|0|
+|Population by age: male, 7 years old|0|
+|Population by age: male, 8 years old|0|
+|Population by age: male, 9 years old|0|
+|Population by age: male, 10 years old|0|
+|Population by age: male, 11 years old|0|
+|Population by age: male, 12 years old|0|
+|Population by age: male, 13 years old|0|
+|Population by age: male, 14 years old|0|
+|Population by age: male, 15 years old|0|
+|Population by age: male, 16 years old|0|
+|Population by age: male, 17 years old|0|
+|Population by age: female, 0 years old|0|
+|Population by age: female, 1 years old|0|
+|Population by age: female, 2 years old|0|
+|Population by age: female, 3 years old|0|
+|Population by age: female, 4 years old|0|
+|Population by age: female, 5 years old|0|
+|Population by age: female, 6 years old|0|
+|Population by age: female, 7 years old|0|
+|Population by age: female, 8 years old|0|
+|Population by age: female, 9 years old|0|
+|Population by age: female, 10 years old|0|
+|Population by age: female, 11 years old|0|
+|Population by age: female, 12 years old|3|
+|Population by age: female, 13 years old|1|
+|Population by age: female, 14 years old|13|
+|Population by age: female, 15 years old|27|
+|Population by age: female, 16 years old|47|
+|Population by age: female, 17 years old|86|
+|Population by age: total, 0 years old|0|
+|Population by age: total, 1 years old|0|
+|Population by age: total, 2 years old|0|
+|Population by age: total, 3 years old|0|
+|Population by age: total, 4 years old|0|
+|Population by age: total, 5 years old|0|
+|Population by age: total, 6 years old|0|
+|Population by age: total, 7 years old|0|
+|Population by age: total, 8 years old|0|
+|Population by age: total, 9 years old|0|
+|Population by age: total, 10 years old|0|
+|Population by age: total, 11 years old|0|
+|Population by age: total, 12 years old|3|
+|Population by age: total, 13 years old|1|
+|Population by age: total, 14 years old|13|
+|Population by age: total, 15 years old|27|
+|Population by age: total, 16 years old|47|
+|Population by age: total, 17 years old|86|
 |Population by gender: male|0|
 |Population by gender: female|177|
 |Population by race: white|171|
@@ -114,7 +114,7 @@
 |Year housing was built: 2000s|0|
 |Year housing was built: 2010 or later|0|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms: studio apartment|5|
 |Rental properties by number of rooms: 1 bedroom|0|

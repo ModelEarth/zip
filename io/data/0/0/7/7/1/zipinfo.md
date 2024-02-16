@@ -2,85 +2,85 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|00771|
+|Zipcode type|STANDARD|
 |Major city|Las Piedras|
 |Post office city|Las Piedras, PR|
 |Common city list|Las Piedras|
 |County|Las Piedras Municipio|
 |State|PR|
-|Latitude|18.2|
-|Longitude|-65.87|
+|Latitude|18.18|
+|Longitude|-65.86|
 |Timezone|America/Puerto_Rico|
 |Radius in miles|6.0|
 |Area code list|787|
-|Population|38,394|
-|Population density|1,135.0|
-|Land area in sqmi|33.82|
-|Water area in sqmi|0.01|
-|Housing units|16,142|
-|Occupied housing units|13,961|
+|Population|None|
+|Population density|None|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-65.93|
 |Bounds east|-65.82|
 |Bounds north|18.28|
 |Bounds south|18.12|
-|Zipcode|00771|
 |Population by year|None|
-|Population by age: male, under 5 years old|1,307|
-|Population by age: male, 5-9 years old|1,416|
-|Population by age: male, 10-14 years old|1,433|
-|Population by age: male, 15-19 years old|1,407|
-|Population by age: male, 20-24 years old|1,240|
-|Population by age: male, 25-29 years old|1,258|
-|Population by age: male, 30-34 years old|1,430|
-|Population by age: male, 35-39 years old|1,359|
-|Population by age: male, 40-44 years old|1,206|
-|Population by age: male, 45-49 years old|1,067|
-|Population by age: male, 50-54 years old|1,139|
-|Population by age: male, 55-59 years old|1,063|
-|Population by age: male, 60-64 years old|1,087|
-|Population by age: male, 65-69 years old|798|
-|Population by age: male, 70-74 years old|566|
-|Population by age: male, 75-79 years old|391|
-|Population by age: male, 80-84 years old|231|
-|Population by age: male, 85 plus years old|206|
-|Population by age: female, under 5 years old|1,181|
-|Population by age: female, 5-9 years old|1,273|
-|Population by age: female, 10-14 years old|1,365|
-|Population by age: female, 15-19 years old|1,360|
-|Population by age: female, 20-24 years old|1,316|
-|Population by age: female, 25-29 years old|1,446|
-|Population by age: female, 30-34 years old|1,607|
-|Population by age: female, 35-39 years old|1,406|
-|Population by age: female, 40-44 years old|1,354|
-|Population by age: female, 45-49 years old|1,254|
-|Population by age: female, 50-54 years old|1,317|
-|Population by age: female, 55-59 years old|1,288|
-|Population by age: female, 60-64 years old|1,152|
-|Population by age: female, 65-69 years old|866|
-|Population by age: female, 70-74 years old|605|
-|Population by age: female, 75-79 years old|454|
-|Population by age: female, 80-84 years old|260|
-|Population by age: female, 85 plus years old|286|
-|Population by age: total, under 5 years old|2,488|
-|Population by age: total, 5-9 years old|2,689|
-|Population by age: total, 10-14 years old|2,798|
-|Population by age: total, 15-19 years old|2,767|
-|Population by age: total, 20-24 years old|2,556|
-|Population by age: total, 25-29 years old|2,704|
-|Population by age: total, 30-34 years old|3,037|
-|Population by age: total, 35-39 years old|2,765|
-|Population by age: total, 40-44 years old|2,560|
-|Population by age: total, 45-49 years old|2,321|
-|Population by age: total, 50-54 years old|2,456|
-|Population by age: total, 55-59 years old|2,351|
-|Population by age: total, 60-64 years old|2,239|
-|Population by age: total, 65-69 years old|1,664|
-|Population by age: total, 70-74 years old|1,171|
-|Population by age: total, 75-79 years old|845|
-|Population by age: total, 80-84 years old|491|
-|Population by age: total, 85 plus years old|492|
+|Population by age: male, 0 years old|1,307|
+|Population by age: male, 1 years old|1,416|
+|Population by age: male, 2 years old|1,433|
+|Population by age: male, 3 years old|1,407|
+|Population by age: male, 4 years old|1,240|
+|Population by age: male, 5 years old|1,258|
+|Population by age: male, 6 years old|1,430|
+|Population by age: male, 7 years old|1,359|
+|Population by age: male, 8 years old|1,206|
+|Population by age: male, 9 years old|1,067|
+|Population by age: male, 10 years old|1,139|
+|Population by age: male, 11 years old|1,063|
+|Population by age: male, 12 years old|1,087|
+|Population by age: male, 13 years old|798|
+|Population by age: male, 14 years old|566|
+|Population by age: male, 15 years old|391|
+|Population by age: male, 16 years old|231|
+|Population by age: male, 17 years old|206|
+|Population by age: female, 0 years old|1,181|
+|Population by age: female, 1 years old|1,273|
+|Population by age: female, 2 years old|1,365|
+|Population by age: female, 3 years old|1,360|
+|Population by age: female, 4 years old|1,316|
+|Population by age: female, 5 years old|1,446|
+|Population by age: female, 6 years old|1,607|
+|Population by age: female, 7 years old|1,406|
+|Population by age: female, 8 years old|1,354|
+|Population by age: female, 9 years old|1,254|
+|Population by age: female, 10 years old|1,317|
+|Population by age: female, 11 years old|1,288|
+|Population by age: female, 12 years old|1,152|
+|Population by age: female, 13 years old|866|
+|Population by age: female, 14 years old|605|
+|Population by age: female, 15 years old|454|
+|Population by age: female, 16 years old|260|
+|Population by age: female, 17 years old|286|
+|Population by age: total, 0 years old|2,488|
+|Population by age: total, 1 years old|2,689|
+|Population by age: total, 2 years old|2,798|
+|Population by age: total, 3 years old|2,767|
+|Population by age: total, 4 years old|2,556|
+|Population by age: total, 5 years old|2,704|
+|Population by age: total, 6 years old|3,037|
+|Population by age: total, 7 years old|2,765|
+|Population by age: total, 8 years old|2,560|
+|Population by age: total, 9 years old|2,321|
+|Population by age: total, 10 years old|2,456|
+|Population by age: total, 11 years old|2,351|
+|Population by age: total, 12 years old|2,239|
+|Population by age: total, 13 years old|1,664|
+|Population by age: total, 14 years old|1,171|
+|Population by age: total, 15 years old|845|
+|Population by age: total, 16 years old|491|
+|Population by age: total, 17 years old|492|
 |Population by gender: male|18,604|
 |Population by gender: female|19,790|
 |Population by race: white|27,035|
@@ -90,30 +90,30 @@
 |Population by race: native hawaiian & other pacific islander|5|
 |Population by race: other race|3,985|
 |Population by race: two or more races|2,596|
-|Head of household by age: owner, 15-24 years old|136|
-|Head of household by age: owner, 25-34 years old|1,432|
-|Head of household by age: owner, 35-44 years old|2,091|
-|Head of household by age: owner, 45-54 years old|2,144|
-|Head of household by age: owner, 55-64 years old|2,347|
-|Head of household by age: owner, 65-74 years old|1,555|
-|Head of household by age: owner, 75-84 years old|777|
-|Head of household by age: owner, 85 plus years old|251|
-|Head of household by age: renter, 15-24 years old|309|
-|Head of household by age: renter, 25-34 years old|894|
-|Head of household by age: renter, 35-44 years old|703|
-|Head of household by age: renter, 45-54 years old|520|
-|Head of household by age: renter, 55-64 years old|409|
-|Head of household by age: renter, 65-74 years old|236|
-|Head of household by age: renter, 75-84 years old|124|
-|Head of household by age: renter, 85 plus years old|33|
-|Head of household by age: total, 15-24 years old|445|
-|Head of household by age: total, 25-34 years old|2,326|
-|Head of household by age: total, 35-44 years old|2,794|
-|Head of household by age: total, 45-54 years old|2,664|
-|Head of household by age: total, 55-64 years old|2,756|
-|Head of household by age: total, 65-74 years old|1,791|
-|Head of household by age: total, 75-84 years old|901|
-|Head of household by age: total, 85 plus years old|284|
+|Head of household by age: owner, 0 years old|136|
+|Head of household by age: owner, 1 years old|1,432|
+|Head of household by age: owner, 2 years old|2,091|
+|Head of household by age: owner, 3 years old|2,144|
+|Head of household by age: owner, 4 years old|2,347|
+|Head of household by age: owner, 5 years old|1,555|
+|Head of household by age: owner, 6 years old|777|
+|Head of household by age: owner, 7 years old|251|
+|Head of household by age: renter, 0 years old|309|
+|Head of household by age: renter, 1 years old|894|
+|Head of household by age: renter, 2 years old|703|
+|Head of household by age: renter, 3 years old|520|
+|Head of household by age: renter, 4 years old|409|
+|Head of household by age: renter, 5 years old|236|
+|Head of household by age: renter, 6 years old|124|
+|Head of household by age: renter, 7 years old|33|
+|Head of household by age: total, 0 years old|445|
+|Head of household by age: total, 1 years old|2,326|
+|Head of household by age: total, 2 years old|2,794|
+|Head of household by age: total, 3 years old|2,664|
+|Head of household by age: total, 4 years old|2,756|
+|Head of household by age: total, 5 years old|1,791|
+|Head of household by age: total, 6 years old|901|
+|Head of household by age: total, 7 years old|284|
 |Families vs singles: husband wife family households|6,992|
 |Families vs singles: single guardian|3,741|
 |Families vs singles: singles|2,819|
@@ -193,13 +193,13 @@
 |Housing occupancy: owned households free & clear|6,048|
 |Housing occupancy: renter occupied households|3,228|
 |Housing occupancy: households vacant|2,181|
-|Vancancy reason: for rent|454|
-|Vancancy reason: rented & unoccupied|19|
-|Vancancy reason: for sale only|396|
-|Vancancy reason: sold & unoccupied|85|
-|Vancancy reason: for season recreational or occasional use|263|
-|Vancancy reason: for migrant workers|2|
-|Vancancy reason: vacant for other reasons|962|
+|Vacancy reason: for rent|454|
+|Vacancy reason: rented & unoccupied|19|
+|Vacancy reason: for sale only|396|
+|Vacancy reason: sold & unoccupied|85|
+|Vacancy reason: for season recreational or occasional use|263|
+|Vacancy reason: for migrant workers|2|
+|Vacancy reason: vacant for other reasons|962|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

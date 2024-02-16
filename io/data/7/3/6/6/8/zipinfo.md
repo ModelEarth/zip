@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|73668|
+|Zipcode type|STANDARD|
 |Major city|Texola|
 |Post office city|None|
 |Common city list|Texola|
 |County|Beckham County|
 |State|OK|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|35.21|
+|Longitude|-99.98|
+|Timezone|America/Chicago|
 |Radius in miles|None|
 |Area code list|580|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|73668|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

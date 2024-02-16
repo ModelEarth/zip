@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|16432|
+|Zipcode type|STANDARD|
 |Major city|Riceville|
 |Post office city|None|
 |Common city list|Riceville|
 |County|Crawford County|
 |State|PA|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|41.78|
+|Longitude|-79.8|
+|Timezone|America/New_York|
 |Radius in miles|None|
 |Area code list|814|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|16432|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

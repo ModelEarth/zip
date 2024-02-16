@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|97299|
+|Zipcode type|STANDARD|
 |Major city|Portland|
 |Post office city|None|
 |Common city list|Portland|
 |County|Multnomah County|
 |State|OR|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|45.54|
+|Longitude|-122.61|
+|Timezone|America/Los_Angeles|
 |Radius in miles|None|
 |Area code list|971|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|97299|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

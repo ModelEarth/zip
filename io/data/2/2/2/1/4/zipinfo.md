@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|22214|
+|Zipcode type|STANDARD|
 |Major city|Arlington|
 |Post office city|Arlington, VA|
 |Common city list|Arlington|
 |County|Arlington County|
 |State|VA|
-|Latitude|38.874|
-|Longitude|-77.08|
-|Timezone|Eastern|
+|Latitude|38.87|
+|Longitude|-77.07|
+|Timezone|America/New_York|
 |Radius in miles|0.11363636363636363|
-|Area code list|571, 703|
-|Population|0|
+|Area code list|571,703|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-77.08|
 |Bounds east|-77.07|
 |Bounds north|38.87|
 |Bounds south|38.87|
-|Zipcode|22214|
 |Population by year: 2005|133|
 |Population by year: 2006|129|
 |Population by year: 2007|114|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

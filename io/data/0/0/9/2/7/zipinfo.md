@@ -2,17 +2,18 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|00927|
+|Zipcode type|STANDARD|
 |Major city|San Juan|
 |Post office city|None|
 |Common city list|San Juan, Rio Piedras|
 |County|San Juan Municipio|
 |State|PR|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|18.4|
+|Longitude|-66.06|
+|Timezone|America/Puerto_Rico|
 |Radius in miles|None|
-|Area code list|787, 939|
+|Area code list|787,939|
 |Population|None|
 |Population density|None|
 |Land area in sqmi|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|00927|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

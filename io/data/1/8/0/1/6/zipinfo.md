@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|18016|
+|Zipcode type|STANDARD|
 |Major city|Bethlehem|
 |Post office city|Bethlehem, PA|
 |Common city list|Bethlehem|
 |County|Lehigh County|
 |State|PA|
-|Latitude|40.621|
-|Longitude|-75.365|
-|Timezone|Eastern|
+|Latitude|40.63|
+|Longitude|-75.39|
+|Timezone|America/New_York|
 |Radius in miles|0.11363636363636363|
-|Area code list|484, 610|
-|Population|0|
+|Area code list|484,610|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-75.4|
 |Bounds east|-75.39|
 |Bounds north|40.63|
 |Bounds south|40.63|
-|Zipcode|18016|
 |Population by year: 2005|561|
 |Population by year: 2006|512|
 |Population by year: 2007|629|
@@ -40,7 +40,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

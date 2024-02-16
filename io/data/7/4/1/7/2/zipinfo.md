@@ -2,17 +2,18 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|74172|
+|Zipcode type|STANDARD|
 |Major city|Tulsa|
 |Post office city|None|
 |Common city list|Tulsa|
 |County|Tulsa County|
 |State|OK|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|36.12|
+|Longitude|-95.91|
+|Timezone|America/Chicago|
 |Radius in miles|None|
-|Area code list|539, 918|
+|Area code list|539,918|
 |Population|None|
 |Population density|None|
 |Land area in sqmi|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|74172|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

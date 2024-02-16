@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|75270|
+|Zipcode type|STANDARD|
 |Major city|Dallas|
 |Post office city|Dallas, TX|
 |Common city list|Dallas|
 |County|Dallas County|
 |State|TX|
-|Latitude|32.7813|
-|Longitude|-96.8017|
-|Timezone|Central|
+|Latitude|32.78|
+|Longitude|-96.8|
+|Timezone|America/Chicago|
 |Radius in miles|0.056818181818181816|
-|Area code list|214, 469, 972|
-|Population|0|
+|Area code list|214,469,972|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-96.8|
 |Bounds east|-96.8|
 |Bounds north|32.78|
 |Bounds south|32.78|
-|Zipcode|75270|
 |Population by year: 2005|42|
 |Population by year: 2006|45|
 |Population by year: 2007|23|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|45408|
+|Zipcode type|STANDARD|
 |Major city|Dayton|
 |Post office city|None|
 |Common city list|Dayton|
 |County|Montgomery County|
 |State|OH|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|39.74|
+|Longitude|-84.22|
+|Timezone|America/New_York|
 |Radius in miles|None|
 |Area code list|937|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|45408|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

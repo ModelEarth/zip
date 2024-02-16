@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|70836|
+|Zipcode type|STANDARD|
 |Major city|Baton Rouge|
 |Post office city|Baton Rouge, LA|
 |Common city list|Baton Rouge|
 |County|East Baton Rouge Parish|
 |State|LA|
-|Latitude|30.391|
-|Longitude|-91.086|
-|Timezone|Central|
+|Latitude|30.39|
+|Longitude|-91.09|
+|Timezone|America/Chicago|
 |Radius in miles|0.5113636363636364|
 |Area code list|225|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-91.09|
 |Bounds east|-91.09|
 |Bounds north|30.39|
 |Bounds south|30.39|
-|Zipcode|70836|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

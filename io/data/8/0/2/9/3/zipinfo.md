@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|80293|
+|Zipcode type|STANDARD|
 |Major city|Denver|
 |Post office city|Denver, CO|
 |Common city list|Denver|
 |County|Denver County|
 |State|CO|
-|Latitude|39.74|
-|Longitude|-105.02|
-|Timezone|Mountain|
+|Latitude|39.75|
+|Longitude|-104.99|
+|Timezone|America/Denver|
 |Radius in miles|2.0|
 |Area code list|303|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-104.99|
 |Bounds east|-104.99|
 |Bounds north|39.75|
 |Bounds south|39.75|
-|Zipcode|80293|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

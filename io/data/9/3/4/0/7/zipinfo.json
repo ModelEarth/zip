@@ -1,5 +1,6 @@
 {
-    "zipcode_type": "Standard",
+    "zipcode": "93407",
+    "zipcode_type": "STANDARD",
     "major_city": "San Luis Obispo",
     "post_office_city": null,
     "common_city_list": [
@@ -10,13 +11,11 @@
     ],
     "county": "San Luis Obispo County",
     "state": "CA",
-    "lat": null,
-    "lng": null,
-    "timezone": null,
+    "lat": 35.29,
+    "lng": -120.66,
+    "timezone": "America/Los_Angeles",
     "radius_in_miles": null,
-    "area_code_list": [
-        "805"
-    ],
+    "area_code_list": "805",
     "population": null,
     "population_density": null,
     "land_area_in_sqmi": null,
@@ -29,7 +28,6 @@
     "bounds_east": null,
     "bounds_north": null,
     "bounds_south": null,
-    "zipcode": "93407",
     "polygon": null,
     "population_by_year": null,
     "population_by_age": null,
@@ -42,7 +40,7 @@
     "housing_type": null,
     "year_housing_was_built": null,
     "housing_occupancy": null,
-    "vancancy_reason": null,
+    "vacancy_reason": null,
     "owner_occupied_home_values": null,
     "rental_properties_by_number_of_rooms": null,
     "monthly_rent_including_utilities_studio_apt": null,

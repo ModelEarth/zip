@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|85222|
+|Zipcode type|STANDARD|
 |Major city|Casa Grande|
 |Post office city|None|
 |Common city list|Casa Grande, Eleven Mile, Eleven Mile Corner|
 |County|Pinal County|
 |State|AZ|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|32.87|
+|Longitude|-111.73|
+|Timezone|America/Phoenix|
 |Radius in miles|None|
 |Area code list|520|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|85222|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

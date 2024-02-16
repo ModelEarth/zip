@@ -2,17 +2,18 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|20189|
+|Zipcode type|STANDARD|
 |Major city|Dulles|
 |Post office city|None|
 |Common city list|Dulles|
 |County|Loudoun County|
 |State|VA|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|38.96|
+|Longitude|-77.45|
+|Timezone|America/New_York|
 |Radius in miles|None|
-|Area code list|571, 703|
+|Area code list|571,703|
 |Population|None|
 |Population density|None|
 |Land area in sqmi|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|20189|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

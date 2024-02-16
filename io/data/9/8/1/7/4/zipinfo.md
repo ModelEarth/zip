@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|98174|
+|Zipcode type|STANDARD|
 |Major city|Seattle|
 |Post office city|Seattle, WA|
 |Common city list|Seattle|
 |County|King County|
 |State|WA|
 |Latitude|47.6|
-|Longitude|-122.33|
-|Timezone|Pacific|
+|Longitude|-122.34|
+|Timezone|America/Los_Angeles|
 |Radius in miles|1.0|
-|Area code list|206, 425|
-|Population|0|
+|Area code list|206,425|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-122.34|
 |Bounds east|-122.33|
 |Bounds north|47.61|
 |Bounds south|47.6|
-|Zipcode|98174|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

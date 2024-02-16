@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|00757|
+|Zipcode type|STANDARD|
 |Major city|Santa Isabel|
 |Post office city|None|
 |Common city list|Santa Isabel|
 |County|Santa Isabel Municipio|
 |State|PR|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|17.97|
+|Longitude|-66.4|
+|Timezone|America/Puerto_Rico|
 |Radius in miles|None|
 |Area code list|787|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|00757|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

@@ -1,5 +1,6 @@
 {
-    "zipcode_type": "Standard",
+    "zipcode": "84144",
+    "zipcode_type": "STANDARD",
     "major_city": "Salt Lake City",
     "post_office_city": "Salt Lake City, UT",
     "common_city_list": [
@@ -9,26 +10,23 @@
     ],
     "county": "Salt Lake County",
     "state": "UT",
-    "lat": 40.76,
-    "lng": -111.88,
-    "timezone": "Mountain",
+    "lat": 40.77,
+    "lng": -111.89,
+    "timezone": "America/Denver",
     "radius_in_miles": 1.0,
-    "area_code_list": [
-        "801"
-    ],
-    "population": 0,
+    "area_code_list": "801",
+    "population": null,
     "population_density": null,
-    "land_area_in_sqmi": 0.0,
-    "water_area_in_sqmi": 0.0,
-    "housing_units": 0,
-    "occupied_housing_units": 0,
+    "land_area_in_sqmi": null,
+    "water_area_in_sqmi": null,
+    "housing_units": null,
+    "occupied_housing_units": null,
     "median_home_value": null,
-    "median_household_income": 82609,
+    "median_household_income": null,
     "bounds_west": -111.89,
     "bounds_east": -111.89,
     "bounds_north": 40.77,
     "bounds_south": 40.77,
-    "zipcode": "84144",
     "polygon": [
         [
             -111.891097,
@@ -160,7 +158,7 @@
         }
     ],
     "housing_occupancy": null,
-    "vancancy_reason": null,
+    "vacancy_reason": null,
     "owner_occupied_home_values": [
         {
             "key": "Data",
@@ -249,7 +247,7 @@
                 },
                 {
                     "x": "$1,000+",
-                    "y": 0
+                    "y": 44
                 }
             ]
         }
@@ -280,7 +278,7 @@
                 },
                 {
                     "x": "$1,000+",
-                    "y": 44
+                    "y": 0
                 }
             ]
         }

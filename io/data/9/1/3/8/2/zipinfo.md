@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|91382|
+|Zipcode type|STANDARD|
 |Major city|Santa Clarita|
 |Post office city|None|
 |Common city list|Santa Clarita|
 |County|Los Angeles County|
 |State|CA|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|34.41|
+|Longitude|-118.51|
+|Timezone|America/Los_Angeles|
 |Radius in miles|None|
 |Area code list|661|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|91382|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

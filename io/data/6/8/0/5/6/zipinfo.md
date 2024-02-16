@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|68056|
+|Zipcode type|STANDARD|
 |Major city|St Columbans|
 |Post office city|None|
 |Common city list|St Columbans|
 |County|Sarpy County|
 |State|NE|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|41.09|
+|Longitude|-96.05|
+|Timezone|America/Chicago|
 |Radius in miles|None|
 |Area code list|402|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|68056|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

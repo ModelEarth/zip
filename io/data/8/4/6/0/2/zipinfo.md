@@ -2,17 +2,18 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|84602|
+|Zipcode type|STANDARD|
 |Major city|Provo|
 |Post office city|None|
 |Common city list|Provo|
 |County|Utah County|
 |State|UT|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|40.22|
+|Longitude|-111.69|
+|Timezone|America/Denver|
 |Radius in miles|None|
-|Area code list|801, 385|
+|Area code list|801,385|
 |Population|None|
 |Population density|None|
 |Land area in sqmi|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|84602|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

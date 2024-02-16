@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|73488|
+|Zipcode type|STANDARD|
 |Major city|Tussy|
 |Post office city|None|
 |Common city list|Tussy|
 |County|Carter County|
 |State|OK|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|34.5|
+|Longitude|-97.54|
+|Timezone|America/Chicago|
 |Radius in miles|None|
 |Area code list|580|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|73488|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

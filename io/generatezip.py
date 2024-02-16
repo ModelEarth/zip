@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Generates nested folders for each zip code using uszipcode (https://pypi.org/project/uszipcode/)
+Katherine W. setup in 2021.
 """
 
 from uszipcode import SearchEngine
@@ -9,7 +10,7 @@ import json
 # from tabulate import tabulate
 
 def main():
-    search = SearchEngine()
+    search = SearchEngine(simple_or_comprehensive=SearchEngine.SimpleOrComprehensiveArgEnum.comprehensive)
     
     #to increase run times (the search engine is slow to return results), provide the first 4 digits in a zip as a prefix to the search engine
     for prefix0 in range(10):

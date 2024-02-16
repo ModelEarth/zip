@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|22035|
+|Zipcode type|STANDARD|
 |Major city|Fairfax|
 |Post office city|Fairfax, VA|
 |Common city list|Fairfax|
 |County|Fairfax County|
 |State|VA|
-|Latitude|38.856|
-|Longitude|-77.362|
-|Timezone|Eastern|
+|Latitude|38.85|
+|Longitude|-77.36|
+|Timezone|America/New_York|
 |Radius in miles|0.22727272727272727|
 |Area code list|571|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-77.36|
 |Bounds east|-77.35|
 |Bounds north|38.86|
 |Bounds south|38.85|
-|Zipcode|22035|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

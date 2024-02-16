@@ -2,17 +2,18 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|07999|
+|Zipcode type|STANDARD|
 |Major city|Whippany|
 |Post office city|None|
 |Common city list|Whippany|
 |County|Morris County|
 |State|NJ|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|40.82|
+|Longitude|-74.41|
+|Timezone|America/New_York|
 |Radius in miles|None|
-|Area code list|862, 973|
+|Area code list|862,973|
 |Population|None|
 |Population density|None|
 |Land area in sqmi|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|07999|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|89199|
+|Zipcode type|STANDARD|
 |Major city|Las Vegas|
 |Post office city|None|
 |Common city list|Las Vegas|
 |County|Clark County|
 |State|NV|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|36.15|
+|Longitude|-115.1|
+|Timezone|America/Los_Angeles|
 |Radius in miles|None|
 |Area code list|702|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|89199|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

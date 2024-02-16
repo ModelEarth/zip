@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|42287|
+|Zipcode type|STANDARD|
 |Major city|Welchs Creek|
 |Post office city|None|
 |Common city list|Welchs Creek|
 |County|Butler County|
 |State|KY|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|37.31|
+|Longitude|-86.52|
+|Timezone|America/Chicago|
 |Radius in miles|None|
 |Area code list|270|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|42287|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

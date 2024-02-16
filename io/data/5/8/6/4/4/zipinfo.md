@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|58644|
+|Zipcode type|STANDARD|
 |Major city|Marshall|
 |Post office city|None|
 |Common city list|Marshall|
 |County|Dunn County|
 |State|ND|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|47.13|
+|Longitude|-102.33|
+|Timezone|America/Denver|
 |Radius in miles|None|
 |Area code list|701|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|58644|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

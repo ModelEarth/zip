@@ -2,87 +2,87 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|96123|
+|Zipcode type|STANDARD|
 |Major city|Ravendale|
 |Post office city|Ravendale, CA|
 |Common city list|Ravendale|
 |County|Lassen County|
 |State|CA|
-|Latitude|41.0|
-|Longitude|-120.2|
-|Timezone|Pacific|
+|Latitude|40.73|
+|Longitude|-120.4|
+|Timezone|America/Los_Angeles|
 |Radius in miles|21.0|
 |Area code list|530|
-|Population|48|
-|Population density|0.0|
-|Land area in sqmi|204.45|
-|Water area in sqmi|2.54|
-|Housing units|40|
-|Occupied housing units|20|
+|Population|None|
+|Population density|None|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-120.49|
 |Bounds east|-120.1|
 |Bounds north|41.01|
 |Bounds south|40.66|
-|Zipcode|96123|
 |Population by year: 2005|51|
 |Population by year: 2006|35|
 |Population by year: 2007|56|
-|Population by age: male, under 5 years old|1|
-|Population by age: male, 5-9 years old|2|
-|Population by age: male, 10-14 years old|2|
-|Population by age: male, 15-19 years old|1|
-|Population by age: male, 20-24 years old|1|
-|Population by age: male, 25-29 years old|1|
-|Population by age: male, 30-34 years old|3|
-|Population by age: male, 35-39 years old|0|
-|Population by age: male, 40-44 years old|3|
-|Population by age: male, 45-49 years old|0|
-|Population by age: male, 50-54 years old|2|
-|Population by age: male, 55-59 years old|1|
-|Population by age: male, 60-64 years old|3|
-|Population by age: male, 65-69 years old|0|
-|Population by age: male, 70-74 years old|1|
-|Population by age: male, 75-79 years old|3|
-|Population by age: male, 80-84 years old|1|
-|Population by age: male, 85 plus years old|0|
-|Population by age: female, under 5 years old|1|
-|Population by age: female, 5-9 years old|1|
-|Population by age: female, 10-14 years old|1|
-|Population by age: female, 15-19 years old|0|
-|Population by age: female, 20-24 years old|2|
-|Population by age: female, 25-29 years old|1|
-|Population by age: female, 30-34 years old|2|
-|Population by age: female, 35-39 years old|1|
-|Population by age: female, 40-44 years old|1|
-|Population by age: female, 45-49 years old|2|
-|Population by age: female, 50-54 years old|5|
-|Population by age: female, 55-59 years old|1|
-|Population by age: female, 60-64 years old|1|
-|Population by age: female, 65-69 years old|2|
-|Population by age: female, 70-74 years old|0|
-|Population by age: female, 75-79 years old|1|
-|Population by age: female, 80-84 years old|1|
-|Population by age: female, 85 plus years old|0|
-|Population by age: total, under 5 years old|2|
-|Population by age: total, 5-9 years old|3|
-|Population by age: total, 10-14 years old|3|
-|Population by age: total, 15-19 years old|1|
-|Population by age: total, 20-24 years old|3|
-|Population by age: total, 25-29 years old|2|
-|Population by age: total, 30-34 years old|5|
-|Population by age: total, 35-39 years old|1|
-|Population by age: total, 40-44 years old|4|
-|Population by age: total, 45-49 years old|2|
-|Population by age: total, 50-54 years old|7|
-|Population by age: total, 55-59 years old|2|
-|Population by age: total, 60-64 years old|4|
-|Population by age: total, 65-69 years old|2|
-|Population by age: total, 70-74 years old|1|
-|Population by age: total, 75-79 years old|4|
-|Population by age: total, 80-84 years old|2|
-|Population by age: total, 85 plus years old|0|
+|Population by age: male, 0 years old|1|
+|Population by age: male, 1 years old|2|
+|Population by age: male, 2 years old|2|
+|Population by age: male, 3 years old|1|
+|Population by age: male, 4 years old|1|
+|Population by age: male, 5 years old|1|
+|Population by age: male, 6 years old|3|
+|Population by age: male, 7 years old|0|
+|Population by age: male, 8 years old|3|
+|Population by age: male, 9 years old|0|
+|Population by age: male, 10 years old|2|
+|Population by age: male, 11 years old|1|
+|Population by age: male, 12 years old|3|
+|Population by age: male, 13 years old|0|
+|Population by age: male, 14 years old|1|
+|Population by age: male, 15 years old|3|
+|Population by age: male, 16 years old|1|
+|Population by age: male, 17 years old|0|
+|Population by age: female, 0 years old|1|
+|Population by age: female, 1 years old|1|
+|Population by age: female, 2 years old|1|
+|Population by age: female, 3 years old|0|
+|Population by age: female, 4 years old|2|
+|Population by age: female, 5 years old|1|
+|Population by age: female, 6 years old|2|
+|Population by age: female, 7 years old|1|
+|Population by age: female, 8 years old|1|
+|Population by age: female, 9 years old|2|
+|Population by age: female, 10 years old|5|
+|Population by age: female, 11 years old|1|
+|Population by age: female, 12 years old|1|
+|Population by age: female, 13 years old|2|
+|Population by age: female, 14 years old|0|
+|Population by age: female, 15 years old|1|
+|Population by age: female, 16 years old|1|
+|Population by age: female, 17 years old|0|
+|Population by age: total, 0 years old|2|
+|Population by age: total, 1 years old|3|
+|Population by age: total, 2 years old|3|
+|Population by age: total, 3 years old|1|
+|Population by age: total, 4 years old|3|
+|Population by age: total, 5 years old|2|
+|Population by age: total, 6 years old|5|
+|Population by age: total, 7 years old|1|
+|Population by age: total, 8 years old|4|
+|Population by age: total, 9 years old|2|
+|Population by age: total, 10 years old|7|
+|Population by age: total, 11 years old|2|
+|Population by age: total, 12 years old|4|
+|Population by age: total, 13 years old|2|
+|Population by age: total, 14 years old|1|
+|Population by age: total, 15 years old|4|
+|Population by age: total, 16 years old|2|
+|Population by age: total, 17 years old|0|
 |Population by gender: male|25|
 |Population by gender: female|23|
 |Population by race: white|40|
@@ -92,30 +92,30 @@
 |Population by race: native hawaiian & other pacific islander|0|
 |Population by race: other race|5|
 |Population by race: two or more races|1|
-|Head of household by age: owner, 15-24 years old|0|
-|Head of household by age: owner, 25-34 years old|0|
-|Head of household by age: owner, 35-44 years old|1|
-|Head of household by age: owner, 45-54 years old|1|
-|Head of household by age: owner, 55-64 years old|2|
-|Head of household by age: owner, 65-74 years old|2|
-|Head of household by age: owner, 75-84 years old|4|
-|Head of household by age: owner, 85 plus years old|0|
-|Head of household by age: renter, 15-24 years old|1|
-|Head of household by age: renter, 25-34 years old|2|
-|Head of household by age: renter, 35-44 years old|2|
-|Head of household by age: renter, 45-54 years old|2|
-|Head of household by age: renter, 55-64 years old|2|
-|Head of household by age: renter, 65-74 years old|0|
-|Head of household by age: renter, 75-84 years old|1|
-|Head of household by age: renter, 85 plus years old|0|
-|Head of household by age: total, 15-24 years old|1|
-|Head of household by age: total, 25-34 years old|2|
-|Head of household by age: total, 35-44 years old|3|
-|Head of household by age: total, 45-54 years old|3|
-|Head of household by age: total, 55-64 years old|4|
-|Head of household by age: total, 65-74 years old|2|
-|Head of household by age: total, 75-84 years old|5|
-|Head of household by age: total, 85 plus years old|0|
+|Head of household by age: owner, 0 years old|0|
+|Head of household by age: owner, 1 years old|0|
+|Head of household by age: owner, 2 years old|1|
+|Head of household by age: owner, 3 years old|1|
+|Head of household by age: owner, 4 years old|2|
+|Head of household by age: owner, 5 years old|2|
+|Head of household by age: owner, 6 years old|4|
+|Head of household by age: owner, 7 years old|0|
+|Head of household by age: renter, 0 years old|1|
+|Head of household by age: renter, 1 years old|2|
+|Head of household by age: renter, 2 years old|2|
+|Head of household by age: renter, 3 years old|2|
+|Head of household by age: renter, 4 years old|2|
+|Head of household by age: renter, 5 years old|0|
+|Head of household by age: renter, 6 years old|1|
+|Head of household by age: renter, 7 years old|0|
+|Head of household by age: total, 0 years old|1|
+|Head of household by age: total, 1 years old|2|
+|Head of household by age: total, 2 years old|3|
+|Head of household by age: total, 3 years old|3|
+|Head of household by age: total, 4 years old|4|
+|Head of household by age: total, 5 years old|2|
+|Head of household by age: total, 6 years old|5|
+|Head of household by age: total, 7 years old|0|
 |Families vs singles: husband wife family households|8|
 |Families vs singles: single guardian|2|
 |Families vs singles: singles|5|
@@ -203,13 +203,13 @@
 |Housing occupancy: owned households free & clear|8|
 |Housing occupancy: renter occupied households|10|
 |Housing occupancy: households vacant|20|
-|Vancancy reason: for rent|2|
-|Vancancy reason: rented & unoccupied|0|
-|Vancancy reason: for sale only|1|
-|Vancancy reason: sold & unoccupied|0|
-|Vancancy reason: for season recreational or occasional use|10|
-|Vancancy reason: for migrant workers|0|
-|Vancancy reason: vacant for other reasons|7|
+|Vacancy reason: for rent|2|
+|Vacancy reason: rented & unoccupied|0|
+|Vacancy reason: for sale only|1|
+|Vacancy reason: sold & unoccupied|0|
+|Vacancy reason: for season recreational or occasional use|10|
+|Vacancy reason: for migrant workers|0|
+|Vacancy reason: vacant for other reasons|7|
 |Owner occupied home values|None|
 |Rental properties by number of rooms: studio apartment|0|
 |Rental properties by number of rooms: 1 bedroom|0|
@@ -232,13 +232,13 @@
 |Monthly rent including utilities 2 b: $300-$499|0|
 |Monthly rent including utilities 2 b: $500-$749|0|
 |Monthly rent including utilities 2 b: $750-$999|0|
-|Monthly rent including utilities 2 b: $1,000+|0|
+|Monthly rent including utilities 2 b: $1,000+|3|
 |Monthly rent including utilities 3plus b: < $200|0|
 |Monthly rent including utilities 3plus b: $200-$299|0|
 |Monthly rent including utilities 3plus b: $300-$499|0|
 |Monthly rent including utilities 3plus b: $500-$749|0|
 |Monthly rent including utilities 3plus b: $750-$999|0|
-|Monthly rent including utilities 3plus b: $1,000+|3|
+|Monthly rent including utilities 3plus b: $1,000+|0|
 |Employment status: worked full-time with earnings|0|
 |Employment status: worked part-time with earnings|5|
 |Employment status: no earnings|0|

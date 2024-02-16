@@ -2,7 +2,8 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|55111|
+|Zipcode type|STANDARD|
 |Major city|Saint Paul|
 |Post office city|Saint Paul, MN|
 |Common city list|Saint Paul, Fort Snelling|
@@ -10,22 +11,21 @@
 |State|MN|
 |Latitude|44.88|
 |Longitude|-93.2|
-|Timezone|Central|
+|Timezone|America/Chicago|
 |Radius in miles|2.0|
-|Area code list|612, 651, 952|
-|Population|0|
+|Area code list|612,651,952|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-93.22|
 |Bounds east|-93.18|
 |Bounds north|44.9|
 |Bounds south|44.86|
-|Zipcode|55111|
 |Population by year: 2005|208|
 |Population by year: 2006|189|
 |Population by year: 2007|200|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|43618|
+|Zipcode type|STANDARD|
 |Major city|Oregon|
 |Post office city|None|
 |Common city list|Oregon|
 |County|Lucas County|
 |State|OH|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|41.67|
+|Longitude|-83.39|
+|Timezone|America/New_York|
 |Radius in miles|None|
 |Area code list|419|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|43618|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

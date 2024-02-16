@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|42375|
+|Zipcode type|STANDARD|
 |Major city|Stanley|
 |Post office city|None|
 |Common city list|Stanley|
 |County|Daviess County|
 |State|KY|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|37.82|
+|Longitude|-87.24|
+|Timezone|America/Chicago|
 |Radius in miles|None|
 |Area code list|270|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|42375|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

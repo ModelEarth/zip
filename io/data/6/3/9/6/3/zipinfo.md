@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|63963|
+|Zipcode type|STANDARD|
 |Major city|Shook|
 |Post office city|None|
 |Common city list|Shook|
 |County|Wayne County|
 |State|MO|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|37.07|
+|Longitude|-90.32|
+|Timezone|America/Chicago|
 |Radius in miles|None|
 |Area code list|573|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|63963|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

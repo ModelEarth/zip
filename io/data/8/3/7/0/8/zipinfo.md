@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|83708|
+|Zipcode type|STANDARD|
 |Major city|Boise|
 |Post office city|None|
 |Common city list|Boise|
 |County|Ada County|
 |State|ID|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|43.61|
+|Longitude|-116.21|
+|Timezone|America/Boise|
 |Radius in miles|None|
 |Area code list|208|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|83708|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

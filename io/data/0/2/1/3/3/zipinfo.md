@@ -2,17 +2,18 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|02133|
+|Zipcode type|STANDARD|
 |Major city|Boston|
 |Post office city|None|
 |Common city list|Boston|
 |County|Suffolk County|
 |State|MA|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|42.35|
+|Longitude|-71.06|
+|Timezone|America/New_York|
 |Radius in miles|None|
-|Area code list|339, 508, 781, 857, 978, 617|
+|Area code list|339,508,781,857,978,617|
 |Population|None|
 |Population density|None|
 |Land area in sqmi|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|02133|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|64102|
+|Zipcode type|STANDARD|
 |Major city|Kansas City|
 |Post office city|Kansas City, MO|
 |Common city list|Kansas City|
 |County|Jackson County|
 |State|MO|
-|Latitude|39.093|
-|Longitude|-94.602|
-|Timezone|Central|
+|Latitude|39.09|
+|Longitude|-94.6|
+|Timezone|America/Chicago|
 |Radius in miles|0.6818181818181818|
 |Area code list|816|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-94.61|
 |Bounds east|-94.6|
 |Bounds north|39.1|
 |Bounds south|39.08|
-|Zipcode|64102|
 |Population by year: 2007|17|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

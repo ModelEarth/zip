@@ -2,17 +2,18 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|07806|
+|Zipcode type|STANDARD|
 |Major city|Picatinny Arsenal|
 |Post office city|None|
 |Common city list|Picatinny Arsenal, Dover, Picatinny Ars|
 |County|Morris County|
 |State|NJ|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|40.93|
+|Longitude|-74.54|
+|Timezone|America/New_York|
 |Radius in miles|None|
-|Area code list|973, 862|
+|Area code list|973,862|
 |Population|None|
 |Population density|None|
 |Land area in sqmi|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|07806|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|95314|
+|Zipcode type|STANDARD|
 |Major city|Pinecrest|
 |Post office city|Pinecrest, CA|
 |Common city list|Pinecrest, Dardanelle|
 |County|Tuolumne County|
 |State|CA|
-|Latitude|38.3|
-|Longitude|-119.9|
-|Timezone|Pacific|
+|Latitude|38.34|
+|Longitude|-119.83|
+|Timezone|America/Los_Angeles|
 |Radius in miles|19.0|
 |Area code list|209|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-119.93|
 |Bounds east|-119.74|
 |Bounds north|38.36|
 |Bounds south|38.29|
-|Zipcode|95314|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -45,7 +45,7 @@
 |Year housing was built: 2000s|0|
 |Year housing was built: 2010 or later|0|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

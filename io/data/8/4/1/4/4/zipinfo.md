@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|84144|
+|Zipcode type|STANDARD|
 |Major city|Salt Lake City|
 |Post office city|Salt Lake City, UT|
 |Common city list|Salt Lake City, Salt Lake Cty, Slc|
 |County|Salt Lake County|
 |State|UT|
-|Latitude|40.76|
-|Longitude|-111.88|
-|Timezone|Mountain|
+|Latitude|40.77|
+|Longitude|-111.89|
+|Timezone|America/Denver|
 |Radius in miles|1.0|
 |Area code list|801|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
-|Median household income|82,609|
+|Median household income|None|
 |Bounds west|-111.89|
 |Bounds east|-111.89|
 |Bounds north|40.77|
 |Bounds south|40.77|
-|Zipcode|84144|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -45,7 +45,7 @@
 |Year housing was built: 2000s|132|
 |Year housing was built: 2010 or later|58|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values: $1-$24,999|0|
 |Owner occupied home values: $25,000-$49,999|0|
 |Owner occupied home values: $50,000-$99,999|0|
@@ -63,13 +63,13 @@
 |Monthly rent including utilities studio apt: $300-$499|0|
 |Monthly rent including utilities studio apt: $500-$749|0|
 |Monthly rent including utilities studio apt: $750-$999|0|
-|Monthly rent including utilities studio apt: $1,000+|0|
+|Monthly rent including utilities studio apt: $1,000+|44|
 |Monthly rent including utilities 1 b: < $200|0|
 |Monthly rent including utilities 1 b: $200-$299|0|
 |Monthly rent including utilities 1 b: $300-$499|0|
 |Monthly rent including utilities 1 b: $500-$749|0|
 |Monthly rent including utilities 1 b: $750-$999|0|
-|Monthly rent including utilities 1 b: $1,000+|44|
+|Monthly rent including utilities 1 b: $1,000+|0|
 |Monthly rent including utilities 2 b: < $200|0|
 |Monthly rent including utilities 2 b: $200-$299|0|
 |Monthly rent including utilities 2 b: $300-$499|0|

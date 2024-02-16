@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|91608|
+|Zipcode type|STANDARD|
 |Major city|Universal City|
 |Post office city|Universal City, CA|
 |Common city list|Universal City, N Hollywood, North Hollywood, Universal ...|
 |County|Los Angeles County|
 |State|CA|
-|Latitude|34.138|
-|Longitude|-118.354|
-|Timezone|Pacific|
+|Latitude|34.14|
+|Longitude|-118.35|
+|Timezone|America/Los_Angeles|
 |Radius in miles|0.5681818181818182|
 |Area code list|213|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-118.36|
 |Bounds east|-118.34|
 |Bounds north|34.14|
 |Bounds south|34.13|
-|Zipcode|91608|
 |Population by year: 2005|27|
 |Population by year: 2006|25|
 |Population by year: 2007|20|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

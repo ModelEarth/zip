@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|25305|
+|Zipcode type|STANDARD|
 |Major city|Charleston|
 |Post office city|Charleston, WV|
 |Common city list|Charleston|
 |County|Kanawha County|
 |State|WV|
-|Latitude|38.338|
-|Longitude|-81.613|
-|Timezone|Eastern|
+|Latitude|38.34|
+|Longitude|-81.61|
+|Timezone|America/New_York|
 |Radius in miles|0.2840909090909091|
-|Area code list|304, 681|
-|Population|0|
+|Area code list|304,681|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-81.62|
 |Bounds east|-81.61|
 |Bounds north|38.34|
 |Bounds south|38.34|
-|Zipcode|25305|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

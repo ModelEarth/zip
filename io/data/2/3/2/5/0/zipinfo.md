@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|23250|
+|Zipcode type|STANDARD|
 |Major city|Richmond|
 |Post office city|Richmond, VA|
 |Common city list|Richmond, Henrico, Rich Int Ap, Richmond Int Airpo...|
 |County|Henrico County|
 |State|VA|
-|Latitude|37.51|
-|Longitude|-77.33|
-|Timezone|Eastern|
+|Latitude|37.5|
+|Longitude|-77.32|
+|Timezone|America/New_York|
 |Radius in miles|1.0|
 |Area code list|804|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-77.34|
 |Bounds east|-77.3|
 |Bounds north|37.52|
 |Bounds south|37.49|
-|Zipcode|23250|
 |Population by year: 2005|66|
 |Population by year: 2006|53|
 |Population by year: 2007|37|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|16910|
+|Zipcode type|STANDARD|
 |Major city|Alba|
 |Post office city|None|
 |Common city list|Alba, Snydertown|
 |County|Bradford County|
 |State|PA|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|41.7|
+|Longitude|-76.82|
+|Timezone|America/New_York|
 |Radius in miles|None|
 |Area code list|570|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|16910|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

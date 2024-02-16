@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|82615|
+|Zipcode type|STANDARD|
 |Major city|Shirley Basin|
 |Post office city|None|
 |Common city list|Shirley Basin, Casper|
 |County|Carbon County|
 |State|WY|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|42.35|
+|Longitude|-106.21|
+|Timezone|America/Denver|
 |Radius in miles|None|
 |Area code list|307|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|82615|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

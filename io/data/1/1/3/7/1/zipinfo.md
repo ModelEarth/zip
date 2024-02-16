@@ -2,7 +2,8 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|11371|
+|Zipcode type|STANDARD|
 |Major city|Flushing|
 |Post office city|Flushing, NY|
 |Common city list|Flushing, East Elmhurst, La Guardia Airport, La Gu...|
@@ -10,22 +11,21 @@
 |State|NY|
 |Latitude|40.77|
 |Longitude|-73.87|
-|Timezone|Eastern|
+|Timezone|America/New_York|
 |Radius in miles|1.0|
 |Area code list|212|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-73.89|
 |Bounds east|-73.86|
 |Bounds north|40.78|
 |Bounds south|40.76|
-|Zipcode|11371|
 |Population by year: 2005|97|
 |Population by year: 2006|89|
 |Population by year: 2007|116|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

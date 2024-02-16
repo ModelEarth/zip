@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|84717|
+|Zipcode type|STANDARD|
 |Major city|Bryce Canyon|
 |Post office city|None|
 |Common city list|Bryce Canyon|
 |County|Garfield County|
 |State|UT|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|37.62|
+|Longitude|-112.17|
+|Timezone|America/Denver|
 |Radius in miles|None|
 |Area code list|435|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|84717|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

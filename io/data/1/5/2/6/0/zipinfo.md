@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|15260|
+|Zipcode type|STANDARD|
 |Major city|Pittsburgh|
 |Post office city|Pittsburgh, PA|
 |Common city list|Pittsburgh|
 |County|Allegheny County|
 |State|PA|
-|Latitude|40.446|
-|Longitude|-79.956|
-|Timezone|Eastern|
+|Latitude|40.44|
+|Longitude|-79.95|
+|Timezone|America/New_York|
 |Radius in miles|0.5113636363636364|
-|Area code list|412, 724|
-|Population|0|
+|Area code list|412,724|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-79.96|
 |Bounds east|-79.95|
 |Bounds north|40.45|
 |Bounds south|40.44|
-|Zipcode|15260|
 |Population by year: 2005|29|
 |Population by year: 2006|35|
 |Population by year: 2007|32|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

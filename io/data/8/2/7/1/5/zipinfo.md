@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|82715|
+|Zipcode type|STANDARD|
 |Major city|Four Corners|
 |Post office city|Four Corners, WY|
 |Common city list|Four Corners, Newcastle|
 |County|Weston County|
 |State|WY|
-|Latitude|44.14|
-|Longitude|-104.21|
-|Timezone|Mountain|
+|Latitude|44.12|
+|Longitude|-104.13|
+|Timezone|America/Denver|
 |Radius in miles|4.0|
 |Area code list|307|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-104.14|
 |Bounds east|-104.13|
 |Bounds north|44.12|
 |Bounds south|44.12|
-|Zipcode|82715|
 |Population by year: 2005|28|
 |Population by year: 2006|17|
 |Population by year: 2007|35|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

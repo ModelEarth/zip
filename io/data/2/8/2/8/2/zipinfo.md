@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|28282|
+|Zipcode type|STANDARD|
 |Major city|Charlotte|
 |Post office city|Charlotte, NC|
 |Common city list|Charlotte|
 |County|Mecklenburg County|
 |State|NC|
-|Latitude|35.23|
-|Longitude|-80.84|
-|Timezone|Eastern|
+|Latitude|35.22|
+|Longitude|-80.85|
+|Timezone|America/New_York|
 |Radius in miles|1.0|
-|Area code list|980, 704|
-|Population|0|
+|Area code list|980,704|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-80.85|
 |Bounds east|-80.84|
 |Bounds north|35.23|
 |Bounds south|35.22|
-|Zipcode|28282|
 |Population by year: 2005|54|
 |Population by year: 2006|43|
 |Population by year: 2007|17|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

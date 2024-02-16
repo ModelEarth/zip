@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|93410|
+|Zipcode type|STANDARD|
 |Major city|San Luis Obispo|
 |Post office city|San Luis Obispo, CA|
 |Common city list|San Luis Obispo, Sn Luis Obisp|
 |County|San Luis Obispo County|
 |State|CA|
 |Latitude|35.3|
-|Longitude|-120.6|
-|Timezone|Pacific|
+|Longitude|-120.66|
+|Timezone|America/Los_Angeles|
 |Radius in miles|8.0|
 |Area code list|805|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-120.66|
 |Bounds east|-120.66|
 |Bounds north|35.3|
 |Bounds south|35.3|
-|Zipcode|93410|
 |Population by year: 2005|61|
 |Population by year: 2006|12|
 |Population by year: 2007|21|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

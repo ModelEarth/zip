@@ -2,87 +2,87 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|66621|
+|Zipcode type|STANDARD|
 |Major city|Topeka|
 |Post office city|Topeka, KS|
 |Common city list|Topeka|
 |County|Shawnee County|
 |State|KS|
-|Latitude|39.033|
-|Longitude|-95.702|
-|Timezone|Central|
+|Latitude|39.03|
+|Longitude|-95.7|
+|Timezone|America/Chicago|
 |Radius in miles|0.3977272727272727|
 |Area code list|785|
-|Population|643|
-|Population density|2,575.0|
-|Land area in sqmi|0.25|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Population|None|
+|Population density|None|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-95.71|
 |Bounds east|-95.7|
 |Bounds north|39.04|
 |Bounds south|39.03|
-|Zipcode|66621|
 |Population by year: 2005|45|
 |Population by year: 2006|24|
 |Population by year: 2007|30|
-|Population by age: male, under 5 years old|0|
-|Population by age: male, 5-9 years old|0|
-|Population by age: male, 10-14 years old|0|
-|Population by age: male, 15-19 years old|109|
-|Population by age: male, 20-24 years old|102|
-|Population by age: male, 25-29 years old|7|
-|Population by age: male, 30-34 years old|3|
-|Population by age: male, 35-39 years old|0|
-|Population by age: male, 40-44 years old|0|
-|Population by age: male, 45-49 years old|0|
-|Population by age: male, 50-54 years old|0|
-|Population by age: male, 55-59 years old|0|
-|Population by age: male, 60-64 years old|0|
-|Population by age: male, 65-69 years old|0|
-|Population by age: male, 70-74 years old|0|
-|Population by age: male, 75-79 years old|0|
-|Population by age: male, 80-84 years old|0|
-|Population by age: male, 85 plus years old|0|
-|Population by age: female, under 5 years old|0|
-|Population by age: female, 5-9 years old|0|
-|Population by age: female, 10-14 years old|0|
-|Population by age: female, 15-19 years old|218|
-|Population by age: female, 20-24 years old|195|
-|Population by age: female, 25-29 years old|4|
-|Population by age: female, 30-34 years old|1|
-|Population by age: female, 35-39 years old|0|
-|Population by age: female, 40-44 years old|0|
-|Population by age: female, 45-49 years old|2|
-|Population by age: female, 50-54 years old|1|
-|Population by age: female, 55-59 years old|0|
-|Population by age: female, 60-64 years old|1|
-|Population by age: female, 65-69 years old|0|
-|Population by age: female, 70-74 years old|0|
-|Population by age: female, 75-79 years old|0|
-|Population by age: female, 80-84 years old|0|
-|Population by age: female, 85 plus years old|0|
-|Population by age: total, under 5 years old|0|
-|Population by age: total, 5-9 years old|0|
-|Population by age: total, 10-14 years old|0|
-|Population by age: total, 15-19 years old|327|
-|Population by age: total, 20-24 years old|297|
-|Population by age: total, 25-29 years old|11|
-|Population by age: total, 30-34 years old|4|
-|Population by age: total, 35-39 years old|0|
-|Population by age: total, 40-44 years old|0|
-|Population by age: total, 45-49 years old|2|
-|Population by age: total, 50-54 years old|1|
-|Population by age: total, 55-59 years old|0|
-|Population by age: total, 60-64 years old|1|
-|Population by age: total, 65-69 years old|0|
-|Population by age: total, 70-74 years old|0|
-|Population by age: total, 75-79 years old|0|
-|Population by age: total, 80-84 years old|0|
-|Population by age: total, 85 plus years old|0|
+|Population by age: male, 0 years old|0|
+|Population by age: male, 1 years old|0|
+|Population by age: male, 2 years old|0|
+|Population by age: male, 3 years old|109|
+|Population by age: male, 4 years old|102|
+|Population by age: male, 5 years old|7|
+|Population by age: male, 6 years old|3|
+|Population by age: male, 7 years old|0|
+|Population by age: male, 8 years old|0|
+|Population by age: male, 9 years old|0|
+|Population by age: male, 10 years old|0|
+|Population by age: male, 11 years old|0|
+|Population by age: male, 12 years old|0|
+|Population by age: male, 13 years old|0|
+|Population by age: male, 14 years old|0|
+|Population by age: male, 15 years old|0|
+|Population by age: male, 16 years old|0|
+|Population by age: male, 17 years old|0|
+|Population by age: female, 0 years old|0|
+|Population by age: female, 1 years old|0|
+|Population by age: female, 2 years old|0|
+|Population by age: female, 3 years old|218|
+|Population by age: female, 4 years old|195|
+|Population by age: female, 5 years old|4|
+|Population by age: female, 6 years old|1|
+|Population by age: female, 7 years old|0|
+|Population by age: female, 8 years old|0|
+|Population by age: female, 9 years old|2|
+|Population by age: female, 10 years old|1|
+|Population by age: female, 11 years old|0|
+|Population by age: female, 12 years old|1|
+|Population by age: female, 13 years old|0|
+|Population by age: female, 14 years old|0|
+|Population by age: female, 15 years old|0|
+|Population by age: female, 16 years old|0|
+|Population by age: female, 17 years old|0|
+|Population by age: total, 0 years old|0|
+|Population by age: total, 1 years old|0|
+|Population by age: total, 2 years old|0|
+|Population by age: total, 3 years old|327|
+|Population by age: total, 4 years old|297|
+|Population by age: total, 5 years old|11|
+|Population by age: total, 6 years old|4|
+|Population by age: total, 7 years old|0|
+|Population by age: total, 8 years old|0|
+|Population by age: total, 9 years old|2|
+|Population by age: total, 10 years old|1|
+|Population by age: total, 11 years old|0|
+|Population by age: total, 12 years old|1|
+|Population by age: total, 13 years old|0|
+|Population by age: total, 14 years old|0|
+|Population by age: total, 15 years old|0|
+|Population by age: total, 16 years old|0|
+|Population by age: total, 17 years old|0|
 |Population by gender: male|221|
 |Population by gender: female|422|
 |Population by race: white|519|
@@ -173,7 +173,7 @@
 |Year housing was built: 2000s|20|
 |Year housing was built: 2010 or later|0|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms: studio apartment|0|
 |Rental properties by number of rooms: 1 bedroom|0|
@@ -194,13 +194,13 @@
 |Monthly rent including utilities 2 b: < $200|0|
 |Monthly rent including utilities 2 b: $200-$299|0|
 |Monthly rent including utilities 2 b: $300-$499|0|
-|Monthly rent including utilities 2 b: $500-$749|0|
+|Monthly rent including utilities 2 b: $500-$749|20|
 |Monthly rent including utilities 2 b: $750-$999|0|
 |Monthly rent including utilities 2 b: $1,000+|0|
 |Monthly rent including utilities 3plus b: < $200|0|
 |Monthly rent including utilities 3plus b: $200-$299|0|
 |Monthly rent including utilities 3plus b: $300-$499|0|
-|Monthly rent including utilities 3plus b: $500-$749|20|
+|Monthly rent including utilities 3plus b: $500-$749|0|
 |Monthly rent including utilities 3plus b: $750-$999|0|
 |Monthly rent including utilities 3plus b: $1,000+|0|
 |Employment status: worked full-time with earnings|16|

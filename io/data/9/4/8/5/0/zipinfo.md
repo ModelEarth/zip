@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|94850|
+|Zipcode type|STANDARD|
 |Major city|Richmond|
 |Post office city|Richmond, CA|
 |Common city list|Richmond|
 |County|Contra Costa County|
 |State|CA|
-|Latitude|37.903|
-|Longitude|-122.321|
-|Timezone|Pacific|
+|Latitude|37.9|
+|Longitude|-122.32|
+|Timezone|America/Los_Angeles|
 |Radius in miles|0.2840909090909091|
 |Area code list|510|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-122.32|
 |Bounds east|-122.31|
 |Bounds north|37.91|
 |Bounds south|37.9|
-|Zipcode|94850|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|11359|
+|Zipcode type|STANDARD|
 |Major city|Bayside|
 |Post office city|Bayside, NY|
 |Common city list|Bayside, Flushing, Fort Totten|
 |County|Queens County|
 |State|NY|
-|Latitude|40.78|
-|Longitude|-73.77|
-|Timezone|Eastern|
+|Latitude|40.79|
+|Longitude|-73.78|
+|Timezone|America/New_York|
 |Radius in miles|2.0|
 |Area code list|347|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-73.78|
 |Bounds east|-73.77|
 |Bounds north|40.8|
 |Bounds south|40.79|
-|Zipcode|11359|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

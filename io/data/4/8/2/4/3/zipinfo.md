@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|48243|
+|Zipcode type|STANDARD|
 |Major city|Detroit|
 |Post office city|Detroit, MI|
 |Common city list|Detroit|
 |County|Wayne County|
 |State|MI|
-|Latitude|42.329|
+|Latitude|42.33|
 |Longitude|-83.04|
-|Timezone|Eastern|
+|Timezone|America/Detroit|
 |Radius in miles|0.17045454545454544|
-|Area code list|313, 248, 586|
-|Population|0|
+|Area code list|313,248,586|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-83.04|
 |Bounds east|-83.04|
 |Bounds north|42.33|
 |Bounds south|42.33|
-|Zipcode|48243|
 |Population by year: 2005|198|
 |Population by year: 2006|160|
 |Population by year: 2007|179|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

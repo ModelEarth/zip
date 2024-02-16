@@ -1,5 +1,6 @@
 {
-    "zipcode_type": "Standard",
+    "zipcode": "23160",
+    "zipcode_type": "STANDARD",
     "major_city": "State Farm",
     "post_office_city": "State Farm, VA",
     "common_city_list": [
@@ -7,26 +8,23 @@
     ],
     "county": "Powhatan County",
     "state": "VA",
-    "lat": 37.639,
-    "lng": -77.832,
-    "timezone": "Eastern",
+    "lat": 37.63,
+    "lng": -77.85,
+    "timezone": "America/New_York",
     "radius_in_miles": 0.45454545454545453,
-    "area_code_list": [
-        "804"
-    ],
-    "population": 2708,
-    "population_density": 720.0,
-    "land_area_in_sqmi": 3.76,
-    "water_area_in_sqmi": 0.05,
-    "housing_units": 1,
-    "occupied_housing_units": 0,
+    "area_code_list": "804",
+    "population": null,
+    "population_density": null,
+    "land_area_in_sqmi": null,
+    "water_area_in_sqmi": null,
+    "housing_units": null,
+    "occupied_housing_units": null,
     "median_home_value": null,
     "median_household_income": null,
     "bounds_west": -77.88,
     "bounds_east": -77.82,
     "bounds_north": 37.65,
     "bounds_south": 37.61,
-    "zipcode": "23160",
     "polygon": [
         [
             [
@@ -655,75 +653,75 @@
             "key": "Male",
             "values": [
                 {
-                    "x": "Under 5",
+                    "x": 0,
                     "y": 0
                 },
                 {
-                    "x": "5-9",
+                    "x": 1,
                     "y": 0
                 },
                 {
-                    "x": "10-14",
+                    "x": 2,
                     "y": 0
                 },
                 {
-                    "x": "15-19",
+                    "x": 3,
                     "y": 31
                 },
                 {
-                    "x": "20-24",
+                    "x": 4,
                     "y": 253
                 },
                 {
-                    "x": "25-29",
+                    "x": 5,
                     "y": 426
                 },
                 {
-                    "x": "30-34",
+                    "x": 6,
                     "y": 398
                 },
                 {
-                    "x": "35-39",
+                    "x": 7,
                     "y": 374
                 },
                 {
-                    "x": "40-44",
+                    "x": 8,
                     "y": 388
                 },
                 {
-                    "x": "45-49",
+                    "x": 9,
                     "y": 337
                 },
                 {
-                    "x": "50-54",
+                    "x": 10,
                     "y": 246
                 },
                 {
-                    "x": "55-59",
+                    "x": 11,
                     "y": 134
                 },
                 {
-                    "x": "60-64",
+                    "x": 12,
                     "y": 63
                 },
                 {
-                    "x": "65-69",
+                    "x": 13,
                     "y": 35
                 },
                 {
-                    "x": "70-74",
+                    "x": 14,
                     "y": 13
                 },
                 {
-                    "x": "75-79",
+                    "x": 15,
                     "y": 5
                 },
                 {
-                    "x": "80-84",
+                    "x": 16,
                     "y": 1
                 },
                 {
-                    "x": "85 Plus",
+                    "x": 17,
                     "y": 0
                 }
             ]
@@ -732,156 +730,156 @@
             "key": "Female",
             "values": [
                 {
-                    "x": "Under 5",
+                    "x": 0,
                     "y": 0
                 },
                 {
-                    "x": "5-9",
+                    "x": 1,
                     "y": 0
                 },
                 {
-                    "x": "10-14",
+                    "x": 2,
                     "y": 0
                 },
                 {
-                    "x": "15-19",
+                    "x": 3,
                     "y": 0
                 },
                 {
-                    "x": "20-24",
+                    "x": 4,
                     "y": 0
                 },
                 {
-                    "x": "25-29",
+                    "x": 5,
                     "y": 1
                 },
                 {
-                    "x": "30-34",
+                    "x": 6,
                     "y": 1
                 },
                 {
-                    "x": "35-39",
+                    "x": 7,
                     "y": 0
                 },
                 {
-                    "x": "40-44",
+                    "x": 8,
                     "y": 2
                 },
                 {
-                    "x": "45-49",
+                    "x": 9,
                     "y": 0
                 },
                 {
-                    "x": "50-54",
+                    "x": 10,
                     "y": 0
                 },
                 {
-                    "x": "55-59",
+                    "x": 11,
                     "y": 0
                 },
                 {
-                    "x": "60-64",
+                    "x": 12,
                     "y": 0
                 },
                 {
-                    "x": "65-69",
+                    "x": 13,
                     "y": 0
                 },
                 {
-                    "x": "70-74",
+                    "x": 14,
                     "y": 0
                 },
                 {
-                    "x": "75-79",
+                    "x": 15,
                     "y": 0
                 },
                 {
-                    "x": "80-84",
+                    "x": 16,
                     "y": 0
                 },
                 {
-                    "x": "85 Plus",
+                    "x": 17,
                     "y": 0
                 }
             ]
         },
         {
             "key": "Total",
+            "color": "#000000",
             "values": [
                 {
-                    "x": "Under 5",
+                    "x": 0,
                     "y": 0
                 },
                 {
-                    "x": "5-9",
+                    "x": 1,
                     "y": 0
                 },
                 {
-                    "x": "10-14",
+                    "x": 2,
                     "y": 0
                 },
                 {
-                    "x": "15-19",
+                    "x": 3,
                     "y": 31
                 },
                 {
-                    "x": "20-24",
+                    "x": 4,
                     "y": 253
                 },
                 {
-                    "x": "25-29",
+                    "x": 5,
                     "y": 427
                 },
                 {
-                    "x": "30-34",
+                    "x": 6,
                     "y": 399
                 },
                 {
-                    "x": "35-39",
+                    "x": 7,
                     "y": 374
                 },
                 {
-                    "x": "40-44",
+                    "x": 8,
                     "y": 390
                 },
                 {
-                    "x": "45-49",
+                    "x": 9,
                     "y": 337
                 },
                 {
-                    "x": "50-54",
+                    "x": 10,
                     "y": 246
                 },
                 {
-                    "x": "55-59",
+                    "x": 11,
                     "y": 134
                 },
                 {
-                    "x": "60-64",
+                    "x": 12,
                     "y": 63
                 },
                 {
-                    "x": "65-69",
+                    "x": 13,
                     "y": 35
                 },
                 {
-                    "x": "70-74",
+                    "x": 14,
                     "y": 13
                 },
                 {
-                    "x": "75-79",
+                    "x": 15,
                     "y": 5
                 },
                 {
-                    "x": "80-84",
+                    "x": 16,
                     "y": 1
                 },
                 {
-                    "x": "85 Plus",
+                    "x": 17,
                     "y": 0
                 }
-            ],
-            "color": "#000000"
+            ]
         }
     ],
     "population_by_gender": [
@@ -1110,6 +1108,7 @@
         },
         {
             "key": "Total",
+            "color": "#000000",
             "values": [
                 {
                     "x": 0,
@@ -1191,8 +1190,7 @@
                     "x": 19,
                     "y": 41
                 }
-            ],
-            "color": "#000000"
+            ]
         }
     ],
     "housing_type": [
@@ -1236,7 +1234,7 @@
     ],
     "year_housing_was_built": null,
     "housing_occupancy": null,
-    "vancancy_reason": [
+    "vacancy_reason": [
         {
             "key": "Data",
             "values": [

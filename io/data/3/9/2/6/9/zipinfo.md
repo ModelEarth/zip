@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|39269|
+|Zipcode type|STANDARD|
 |Major city|Jackson|
 |Post office city|Jackson, MS|
 |Common city list|Jackson|
 |County|Hinds County|
 |State|MS|
-|Latitude|32.29|
-|Longitude|-90.18|
-|Timezone|Central|
+|Latitude|32.3|
+|Longitude|-90.19|
+|Timezone|America/Chicago|
 |Radius in miles|1.0|
-|Area code list|601, 769|
-|Population|0|
+|Area code list|601,769|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-90.19|
 |Bounds east|-90.19|
 |Bounds north|32.3|
 |Bounds south|32.3|
-|Zipcode|39269|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

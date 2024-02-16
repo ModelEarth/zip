@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|77507|
+|Zipcode type|STANDARD|
 |Major city|Pasadena|
 |Post office city|Pasadena, TX|
 |Common city list|Pasadena|
 |County|Harris County|
 |State|TX|
 |Latitude|29.62|
-|Longitude|-95.08|
-|Timezone|Central|
+|Longitude|-95.06|
+|Timezone|America/Chicago|
 |Radius in miles|3.0|
 |Area code list|281|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-95.12|
 |Bounds east|-95.0|
 |Bounds north|29.65|
 |Bounds south|29.59|
-|Zipcode|77507|
 |Population by year: 2005|217|
 |Population by year: 2006|243|
 |Population by year: 2007|211|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

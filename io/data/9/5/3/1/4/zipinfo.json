@@ -1,5 +1,6 @@
 {
-    "zipcode_type": "Standard",
+    "zipcode": "95314",
+    "zipcode_type": "STANDARD",
     "major_city": "Pinecrest",
     "post_office_city": "Pinecrest, CA",
     "common_city_list": [
@@ -8,26 +9,23 @@
     ],
     "county": "Tuolumne County",
     "state": "CA",
-    "lat": 38.3,
-    "lng": -119.9,
-    "timezone": "Pacific",
+    "lat": 38.34,
+    "lng": -119.83,
+    "timezone": "America/Los_Angeles",
     "radius_in_miles": 19.0,
-    "area_code_list": [
-        "209"
-    ],
-    "population": 0,
+    "area_code_list": "209",
+    "population": null,
     "population_density": null,
-    "land_area_in_sqmi": 0.0,
-    "water_area_in_sqmi": 0.0,
-    "housing_units": 0,
-    "occupied_housing_units": 0,
+    "land_area_in_sqmi": null,
+    "water_area_in_sqmi": null,
+    "housing_units": null,
+    "occupied_housing_units": null,
     "median_home_value": null,
     "median_household_income": null,
     "bounds_west": -119.93,
     "bounds_east": -119.74,
     "bounds_north": 38.36,
     "bounds_south": 38.29,
-    "zipcode": "95314",
     "polygon": [
         [
             -119.820772,
@@ -8943,7 +8941,7 @@
         }
     ],
     "housing_occupancy": null,
-    "vancancy_reason": null,
+    "vacancy_reason": null,
     "owner_occupied_home_values": null,
     "rental_properties_by_number_of_rooms": null,
     "monthly_rent_including_utilities_studio_apt": null,

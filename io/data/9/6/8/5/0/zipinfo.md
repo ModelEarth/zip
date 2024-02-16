@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|96850|
+|Zipcode type|STANDARD|
 |Major city|Honolulu|
 |Post office city|Honolulu, HI|
 |Common city list|Honolulu|
 |County|Honolulu County|
 |State|HI|
-|Latitude|21.305|
-|Longitude|-157.858|
+|Latitude|21.3|
+|Longitude|-157.86|
 |Timezone|Pacific/Honolulu|
 |Radius in miles|0.11363636363636363|
 |Area code list|808|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-157.86|
 |Bounds east|-157.86|
 |Bounds north|21.31|
 |Bounds south|21.3|
-|Zipcode|96850|
 |Population by year: 2005|25|
 |Population by year: 2006|30|
 |Population by year: 2007|49|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

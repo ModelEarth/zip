@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|20045|
+|Zipcode type|STANDARD|
 |Major city|Washington|
 |Post office city|Washington, DC|
 |Common city list|Washington|
 |County|District of Columbia|
 |State|DC|
-|Latitude|38.904|
-|Longitude|-77.032|
-|Timezone|Eastern|
+|Latitude|38.9|
+|Longitude|-77.03|
+|Timezone|America/New_York|
 |Radius in miles|0.625|
 |Area code list|202|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-77.03|
 |Bounds east|-77.03|
 |Bounds north|38.9|
 |Bounds south|38.9|
-|Zipcode|20045|
 |Population by year: 2005|32|
 |Population by year: 2006|0|
 |Population by year: 2007|39|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

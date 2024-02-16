@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|50319|
+|Zipcode type|STANDARD|
 |Major city|Des Moines|
 |Post office city|Des Moines, IA|
 |Common city list|Des Moines|
 |County|Polk County|
 |State|IA|
-|Latitude|41.58|
-|Longitude|-93.62|
-|Timezone|Central|
+|Latitude|41.59|
+|Longitude|-93.6|
+|Timezone|America/Chicago|
 |Radius in miles|2.0|
 |Area code list|515|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-93.61|
 |Bounds east|-93.6|
 |Bounds north|41.59|
 |Bounds south|41.59|
-|Zipcode|50319|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

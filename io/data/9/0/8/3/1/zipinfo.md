@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|90831|
+|Zipcode type|STANDARD|
 |Major city|Long Beach|
 |Post office city|Long Beach, CA|
 |Common city list|Long Beach|
 |County|Los Angeles County|
 |State|CA|
-|Latitude|33.767|
-|Longitude|-118.192|
-|Timezone|Pacific|
+|Latitude|33.77|
+|Longitude|-118.2|
+|Timezone|America/Los_Angeles|
 |Radius in miles|0.11363636363636363|
 |Area code list|424|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-118.2|
 |Bounds east|-118.2|
 |Bounds north|33.77|
 |Bounds south|33.77|
-|Zipcode|90831|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

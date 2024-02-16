@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|98132|
+|Zipcode type|STANDARD|
 |Major city|Seattle|
 |Post office city|None|
 |Common city list|Seattle|
 |County|King County|
 |State|WA|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|47.46|
+|Longitude|-122.29|
+|Timezone|America/Los_Angeles|
 |Radius in miles|None|
 |Area code list|206|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|98132|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

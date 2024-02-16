@@ -2,7 +2,8 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|47907|
+|Zipcode type|STANDARD|
 |Major city|West Lafayette|
 |Post office city|West Lafayette, IN|
 |Common city list|West Lafayette, La Fayette, Lafayette, W Lafayette|
@@ -13,19 +14,18 @@
 |Timezone|America/Indiana/Indianapolis|
 |Radius in miles|0.7386363636363636|
 |Area code list|765|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-86.92|
 |Bounds east|-86.91|
 |Bounds north|40.43|
 |Bounds south|40.42|
-|Zipcode|47907|
 |Population by year: 2005|105|
 |Population by year: 2006|77|
 |Population by year: 2007|92|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

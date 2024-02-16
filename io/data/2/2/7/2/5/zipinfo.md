@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|22725|
+|Zipcode type|STANDARD|
 |Major city|Leon|
 |Post office city|None|
 |Common city list|Leon|
 |County|Madison County|
 |State|VA|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|38.45|
+|Longitude|-78.15|
+|Timezone|America/New_York|
 |Radius in miles|None|
 |Area code list|540|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|22725|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|42131|
+|Zipcode type|STANDARD|
 |Major city|Etoile|
 |Post office city|None|
 |Common city list|Etoile|
 |County|Barren County|
 |State|KY|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|36.81|
+|Longitude|-85.91|
+|Timezone|America/Chicago|
 |Radius in miles|None|
 |Area code list|270|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|42131|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

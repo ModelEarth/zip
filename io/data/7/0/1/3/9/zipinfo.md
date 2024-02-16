@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|70139|
+|Zipcode type|STANDARD|
 |Major city|New Orleans|
 |Post office city|New Orleans, LA|
 |Common city list|New Orleans|
 |County|Orleans Parish|
 |State|LA|
-|Latitude|29.9502|
-|Longitude|-90.0711|
-|Timezone|Central|
+|Latitude|29.95|
+|Longitude|-90.07|
+|Timezone|America/Chicago|
 |Radius in miles|0.056818181818181816|
 |Area code list|504|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-90.07|
 |Bounds east|-90.07|
 |Bounds north|29.95|
 |Bounds south|29.95|
-|Zipcode|70139|
 |Population by year: 2005|54|
 |Population by year: 2006|92|
 |Population by age|None|
@@ -38,7 +38,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

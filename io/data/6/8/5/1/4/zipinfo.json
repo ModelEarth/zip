@@ -1,5 +1,6 @@
 {
-    "zipcode_type": "Standard",
+    "zipcode": "68514",
+    "zipcode_type": "STANDARD",
     "major_city": "Lincoln",
     "post_office_city": "Lincoln, NE",
     "common_city_list": [
@@ -9,11 +10,9 @@
     "state": "NE",
     "lat": 40.92,
     "lng": -96.65,
-    "timezone": "Central",
+    "timezone": "America/Chicago",
     "radius_in_miles": 3.0,
-    "area_code_list": [
-        "402"
-    ],
+    "area_code_list": "402",
     "population": 127,
     "population_density": 25.0,
     "land_area_in_sqmi": 5.16,
@@ -26,7 +25,6 @@
     "bounds_east": -96.63,
     "bounds_north": 40.96,
     "bounds_south": 40.88,
-    "zipcode": "68514",
     "polygon": [
         [
             -96.649979,
@@ -592,6 +590,14 @@
                 {
                     "x": 2007,
                     "y": 134
+                },
+                {
+                    "x": 2017,
+                    "y": 250
+                },
+                {
+                    "x": 2018,
+                    "y": 280
                 }
             ]
         }
@@ -601,75 +607,75 @@
             "key": "Male",
             "values": [
                 {
-                    "x": "Under 5",
+                    "x": 0,
                     "y": 4
                 },
                 {
-                    "x": "5-9",
+                    "x": 1,
                     "y": 5
                 },
                 {
-                    "x": "10-14",
+                    "x": 2,
                     "y": 6
                 },
                 {
-                    "x": "15-19",
+                    "x": 3,
                     "y": 6
                 },
                 {
-                    "x": "20-24",
+                    "x": 4,
                     "y": 6
                 },
                 {
-                    "x": "25-29",
+                    "x": 5,
                     "y": 1
                 },
                 {
-                    "x": "30-34",
+                    "x": 6,
                     "y": 5
                 },
                 {
-                    "x": "35-39",
+                    "x": 7,
                     "y": 6
                 },
                 {
-                    "x": "40-44",
+                    "x": 8,
                     "y": 2
                 },
                 {
-                    "x": "45-49",
+                    "x": 9,
                     "y": 7
                 },
                 {
-                    "x": "50-54",
+                    "x": 10,
                     "y": 9
                 },
                 {
-                    "x": "55-59",
+                    "x": 11,
                     "y": 5
                 },
                 {
-                    "x": "60-64",
+                    "x": 12,
                     "y": 4
                 },
                 {
-                    "x": "65-69",
+                    "x": 13,
                     "y": 3
                 },
                 {
-                    "x": "70-74",
+                    "x": 14,
                     "y": 1
                 },
                 {
-                    "x": "75-79",
+                    "x": 15,
                     "y": 2
                 },
                 {
-                    "x": "80-84",
+                    "x": 16,
                     "y": 0
                 },
                 {
-                    "x": "85 Plus",
+                    "x": 17,
                     "y": 1
                 }
             ]
@@ -678,156 +684,156 @@
             "key": "Female",
             "values": [
                 {
-                    "x": "Under 5",
+                    "x": 0,
                     "y": 2
                 },
                 {
-                    "x": "5-9",
+                    "x": 1,
                     "y": 4
                 },
                 {
-                    "x": "10-14",
+                    "x": 2,
                     "y": 2
                 },
                 {
-                    "x": "15-19",
+                    "x": 3,
                     "y": 4
                 },
                 {
-                    "x": "20-24",
+                    "x": 4,
                     "y": 2
                 },
                 {
-                    "x": "25-29",
+                    "x": 5,
                     "y": 3
                 },
                 {
-                    "x": "30-34",
+                    "x": 6,
                     "y": 1
                 },
                 {
-                    "x": "35-39",
+                    "x": 7,
                     "y": 4
                 },
                 {
-                    "x": "40-44",
+                    "x": 8,
                     "y": 3
                 },
                 {
-                    "x": "45-49",
+                    "x": 9,
                     "y": 5
                 },
                 {
-                    "x": "50-54",
+                    "x": 10,
                     "y": 8
                 },
                 {
-                    "x": "55-59",
+                    "x": 11,
                     "y": 5
                 },
                 {
-                    "x": "60-64",
+                    "x": 12,
                     "y": 5
                 },
                 {
-                    "x": "65-69",
+                    "x": 13,
                     "y": 4
                 },
                 {
-                    "x": "70-74",
+                    "x": 14,
                     "y": 1
                 },
                 {
-                    "x": "75-79",
+                    "x": 15,
                     "y": 1
                 },
                 {
-                    "x": "80-84",
+                    "x": 16,
                     "y": 0
                 },
                 {
-                    "x": "85 Plus",
+                    "x": 17,
                     "y": 0
                 }
             ]
         },
         {
             "key": "Total",
+            "color": "#000000",
             "values": [
                 {
-                    "x": "Under 5",
+                    "x": 0,
                     "y": 6
                 },
                 {
-                    "x": "5-9",
+                    "x": 1,
                     "y": 9
                 },
                 {
-                    "x": "10-14",
+                    "x": 2,
                     "y": 8
                 },
                 {
-                    "x": "15-19",
+                    "x": 3,
                     "y": 10
                 },
                 {
-                    "x": "20-24",
+                    "x": 4,
                     "y": 8
                 },
                 {
-                    "x": "25-29",
+                    "x": 5,
                     "y": 4
                 },
                 {
-                    "x": "30-34",
+                    "x": 6,
                     "y": 6
                 },
                 {
-                    "x": "35-39",
+                    "x": 7,
                     "y": 10
                 },
                 {
-                    "x": "40-44",
+                    "x": 8,
                     "y": 5
                 },
                 {
-                    "x": "45-49",
+                    "x": 9,
                     "y": 12
                 },
                 {
-                    "x": "50-54",
+                    "x": 10,
                     "y": 17
                 },
                 {
-                    "x": "55-59",
+                    "x": 11,
                     "y": 10
                 },
                 {
-                    "x": "60-64",
+                    "x": 12,
                     "y": 9
                 },
                 {
-                    "x": "65-69",
+                    "x": 13,
                     "y": 7
                 },
                 {
-                    "x": "70-74",
+                    "x": 14,
                     "y": 2
                 },
                 {
-                    "x": "75-79",
+                    "x": 15,
                     "y": 3
                 },
                 {
-                    "x": "80-84",
+                    "x": 16,
                     "y": 0
                 },
                 {
-                    "x": "85 Plus",
+                    "x": 17,
                     "y": 1
                 }
-            ],
-            "color": "#000000"
+            ]
         }
     ],
     "population_by_gender": [
@@ -885,35 +891,35 @@
             "key": "Owner",
             "values": [
                 {
-                    "x": "15-24",
+                    "x": 0,
                     "y": 0
                 },
                 {
-                    "x": "25-34",
+                    "x": 1,
                     "y": 3
                 },
                 {
-                    "x": "35-44",
+                    "x": 2,
                     "y": 7
                 },
                 {
-                    "x": "45-54",
+                    "x": 3,
                     "y": 13
                 },
                 {
-                    "x": "55-64",
+                    "x": 4,
                     "y": 8
                 },
                 {
-                    "x": "65-74",
+                    "x": 5,
                     "y": 6
                 },
                 {
-                    "x": "75-84",
+                    "x": 6,
                     "y": 2
                 },
                 {
-                    "x": "85 Plus",
+                    "x": 7,
                     "y": 0
                 }
             ]
@@ -922,76 +928,76 @@
             "key": "Renter",
             "values": [
                 {
-                    "x": "15-24",
+                    "x": 0,
                     "y": 0
                 },
                 {
-                    "x": "25-34",
+                    "x": 1,
                     "y": 2
                 },
                 {
-                    "x": "35-44",
+                    "x": 2,
                     "y": 2
                 },
                 {
-                    "x": "45-54",
+                    "x": 3,
                     "y": 1
                 },
                 {
-                    "x": "55-64",
+                    "x": 4,
                     "y": 2
                 },
                 {
-                    "x": "65-74",
+                    "x": 5,
                     "y": 0
                 },
                 {
-                    "x": "75-84",
+                    "x": 6,
                     "y": 0
                 },
                 {
-                    "x": "85 Plus",
+                    "x": 7,
                     "y": 0
                 }
             ]
         },
         {
             "key": "Total",
+            "color": "#000000",
             "values": [
                 {
-                    "x": "15-24",
+                    "x": 0,
                     "y": 0
                 },
                 {
-                    "x": "25-34",
+                    "x": 1,
                     "y": 5
                 },
                 {
-                    "x": "35-44",
+                    "x": 2,
                     "y": 9
                 },
                 {
-                    "x": "45-54",
+                    "x": 3,
                     "y": 14
                 },
                 {
-                    "x": "55-64",
+                    "x": 4,
                     "y": 10
                 },
                 {
-                    "x": "65-74",
+                    "x": 5,
                     "y": 6
                 },
                 {
-                    "x": "75-84",
+                    "x": 6,
                     "y": 2
                 },
                 {
-                    "x": "85 Plus",
+                    "x": 7,
                     "y": 0
                 }
-            ],
-            "color": "#000000"
+            ]
         }
     ],
     "families_vs_singles": [
@@ -1205,6 +1211,7 @@
         },
         {
             "key": "Total",
+            "color": "#000000",
             "values": [
                 {
                     "x": 0,
@@ -1286,8 +1293,7 @@
                     "x": 19,
                     "y": 3
                 }
-            ],
-            "color": "#000000"
+            ]
         }
     ],
     "housing_type": [
@@ -1395,7 +1401,7 @@
             ]
         }
     ],
-    "vancancy_reason": [
+    "vacancy_reason": [
         {
             "key": "Data",
             "values": [
@@ -1572,7 +1578,7 @@
                 },
                 {
                     "x": "$500-$749",
-                    "y": 0
+                    "y": 30
                 },
                 {
                     "x": "$750-$999",
@@ -1603,7 +1609,7 @@
                 },
                 {
                     "x": "$500-$749",
-                    "y": 30
+                    "y": 0
                 },
                 {
                     "x": "$750-$999",
@@ -1650,6 +1656,14 @@
                 {
                     "x": 2007,
                     "y": 47097.44
+                },
+                {
+                    "x": 2017,
+                    "y": 134884.62
+                },
+                {
+                    "x": 2018,
+                    "y": 152600
                 }
             ]
         }
@@ -1732,12 +1746,128 @@
             ]
         }
     ],
-    "sources_of_household_income____percent_of_households_receiving_income": null,
-    "sources_of_household_income____average_income_per_household_by_income_source": null,
-    "household_investment_income____percent_of_households_receiving_investment_income": null,
-    "household_investment_income____average_income_per_household_by_income_source": null,
-    "household_retirement_income____percent_of_households_receiving_retirement_incom": null,
-    "household_retirement_income____average_income_per_household_by_income_source": null,
+    "sources_of_household_income____percent_of_households_receiving_income": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Wages",
+                    "y": 92.31
+                },
+                {
+                    "x": "Business",
+                    "y": 0
+                },
+                {
+                    "x": "Partnership",
+                    "y": 0
+                },
+                {
+                    "x": "Unemployment",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "sources_of_household_income____average_income_per_household_by_income_source": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Wages",
+                    "y": 73458.33
+                },
+                {
+                    "x": "Business",
+                    "y": 0
+                },
+                {
+                    "x": "Partnership",
+                    "y": 0
+                },
+                {
+                    "x": "Unemployment",
+                    "y": 0
+                }
+            ]
+        }
+    ],
+    "household_investment_income____percent_of_households_receiving_investment_income": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Interest",
+                    "y": 38.46
+                },
+                {
+                    "x": "Ordinary Dividends",
+                    "y": 23.08
+                },
+                {
+                    "x": "Qualified Dividends",
+                    "y": 23.08
+                },
+                {
+                    "x": "Capital Gains",
+                    "y": 23.08
+                }
+            ]
+        }
+    ],
+    "household_investment_income____average_income_per_household_by_income_source": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "Interest",
+                    "y": 1420
+                },
+                {
+                    "x": "Ordinary Dividends",
+                    "y": 11933.33
+                },
+                {
+                    "x": "Qualified Dividends",
+                    "y": 4833.33
+                },
+                {
+                    "x": "Capital Gains",
+                    "y": 5766.67
+                }
+            ]
+        }
+    ],
+    "household_retirement_income____percent_of_households_receiving_retirement_incom": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "IRA/pension/annuity Distributions",
+                    "y": 23.08
+                },
+                {
+                    "x": "Social Security",
+                    "y": 15.38
+                }
+            ]
+        }
+    ],
+    "household_retirement_income____average_income_per_household_by_income_source": [
+        {
+            "key": "Data",
+            "values": [
+                {
+                    "x": "IRA/pension/annuity Distributions",
+                    "y": 26200
+                },
+                {
+                    "x": "Social Security",
+                    "y": 19600
+                }
+            ]
+        }
+    ],
     "source_of_earnings": [
         {
             "key": "Data",

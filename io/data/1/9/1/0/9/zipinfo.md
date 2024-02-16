@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|19109|
+|Zipcode type|STANDARD|
 |Major city|Philadelphia|
 |Post office city|Philadelphia, PA|
 |Common city list|Philadelphia, Phila|
 |County|Philadelphia County|
 |State|PA|
-|Latitude|39.9497|
-|Longitude|-75.1636|
-|Timezone|Eastern|
+|Latitude|39.95|
+|Longitude|-75.16|
+|Timezone|America/New_York|
 |Radius in miles|0.056818181818181816|
-|Area code list|610, 215, 267, 484|
-|Population|0|
+|Area code list|610,215,267,484|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-75.16|
 |Bounds east|-75.16|
 |Bounds north|39.95|
 |Bounds south|39.95|
-|Zipcode|19109|
 |Population by year: 2005|140|
 |Population by year: 2006|108|
 |Population by year: 2007|144|
@@ -39,7 +39,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

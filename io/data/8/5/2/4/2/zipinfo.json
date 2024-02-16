@@ -1,5 +1,6 @@
 {
-    "zipcode_type": "Standard",
+    "zipcode": "85242",
+    "zipcode_type": "STANDARD",
     "major_city": "Queen Creek",
     "post_office_city": null,
     "common_city_list": [
@@ -9,13 +10,11 @@
     ],
     "county": "Maricopa County",
     "state": "AZ",
-    "lat": null,
-    "lng": null,
-    "timezone": null,
+    "lat": 33.22,
+    "lng": -111.61,
+    "timezone": "America/Phoenix",
     "radius_in_miles": null,
-    "area_code_list": [
-        "480"
-    ],
+    "area_code_list": "480",
     "population": null,
     "population_density": null,
     "land_area_in_sqmi": null,
@@ -28,7 +27,6 @@
     "bounds_east": null,
     "bounds_north": null,
     "bounds_south": null,
-    "zipcode": "85242",
     "polygon": null,
     "population_by_year": null,
     "population_by_age": null,
@@ -41,7 +39,7 @@
     "housing_type": null,
     "year_housing_was_built": null,
     "housing_occupancy": null,
-    "vancancy_reason": null,
+    "vacancy_reason": null,
     "owner_occupied_home_values": null,
     "rental_properties_by_number_of_rooms": null,
     "monthly_rent_including_utilities_studio_apt": null,

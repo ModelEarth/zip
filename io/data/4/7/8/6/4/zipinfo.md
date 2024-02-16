@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|47864|
+|Zipcode type|STANDARD|
 |Major city|Sullivan|
 |Post office city|None|
 |Common city list|Sullivan, New Lebanon|
 |County|Sullivan County|
 |State|IN|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|39.11|
+|Longitude|-87.42|
+|Timezone|America/Indiana/Indianapolis|
 |Radius in miles|None|
 |Area code list|812|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|47864|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

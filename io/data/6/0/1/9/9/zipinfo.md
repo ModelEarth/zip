@@ -2,15 +2,16 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|60199|
+|Zipcode type|STANDARD|
 |Major city|Carol Stream|
 |Post office city|None|
 |Common city list|Carol Stream|
 |County|Dupage County|
 |State|IL|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|41.91|
+|Longitude|-88.13|
+|Timezone|America/Chicago|
 |Radius in miles|None|
 |Area code list|630|
 |Population|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|60199|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

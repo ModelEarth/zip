@@ -2,17 +2,18 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|63380|
+|Zipcode type|STANDARD|
 |Major city|Truesdale|
 |Post office city|None|
 |Common city list|Truesdale, Warrenton|
 |County|Warren County|
 |State|MO|
-|Latitude|None|
-|Longitude|None|
-|Timezone|None|
+|Latitude|38.81|
+|Longitude|-91.13|
+|Timezone|America/Chicago|
 |Radius in miles|None|
-|Area code list|None|
+|Area code list||
 |Population|None|
 |Population density|None|
 |Land area in sqmi|None|
@@ -25,7 +26,6 @@
 |Bounds east|None|
 |Bounds north|None|
 |Bounds south|None|
-|Zipcode|63380|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -37,7 +37,7 @@
 |Housing type|None|
 |Year housing was built|None|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

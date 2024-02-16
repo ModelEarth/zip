@@ -2,30 +2,30 @@
 =====
 |||
 |--|--|
-|Zipcode type|Standard|
+|Zipcode|98929|
+|Zipcode type|STANDARD|
 |Major city|Naches|
 |Post office city|Naches, WA|
 |Common city list|Naches, Goose Prairie|
 |County|Yakima County|
 |State|WA|
-|Latitude|46.8|
-|Longitude|-121.1|
-|Timezone|Pacific|
+|Latitude|46.88|
+|Longitude|-121.29|
+|Timezone|America/Los_Angeles|
 |Radius in miles|32.0|
 |Area code list|509|
-|Population|0|
+|Population|None|
 |Population density|None|
-|Land area in sqmi|0.0|
-|Water area in sqmi|0.0|
-|Housing units|0|
-|Occupied housing units|0|
+|Land area in sqmi|None|
+|Water area in sqmi|None|
+|Housing units|None|
+|Occupied housing units|None|
 |Median home value|None|
 |Median household income|None|
 |Bounds west|-121.32|
 |Bounds east|-121.17|
 |Bounds north|46.97|
 |Bounds south|46.86|
-|Zipcode|98929|
 |Population by year|None|
 |Population by age|None|
 |Population by gender|None|
@@ -45,7 +45,7 @@
 |Year housing was built: 2000s|0|
 |Year housing was built: 2010 or later|0|
 |Housing occupancy|None|
-|Vancancy reason|None|
+|Vacancy reason|None|
 |Owner occupied home values|None|
 |Rental properties by number of rooms|None|
 |Monthly rent including utilities studio apt|None|

@@ -6,6 +6,8 @@ Also see our [industry naics zip pipeline](/community-data/process/naics/).
 
 File name format: zip/US/NY/US-NY-zip-2023.csv
 
+Notes on [Google Data Commons API](/localsite/info/data/datacommons/) for international data.
+
 
 ## Geonames International Postal Data
 

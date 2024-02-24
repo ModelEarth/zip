@@ -21,6 +21,10 @@ We used this for the data displayed to the right.
 
 Data Source: [data.census.gov](https://data.census.gov) crawled by [uszipcode](https://uszipcode.readthedocs.io/).
 
+PO Box zip codes are NOT included the USZipcode's data since they have no human populations. (Check further to see if an attribute fetches the PO Box zips too.)
+
+<!--Leroy [49051](#zip=49051) is there, but Grand Rapids PO Box [49501](#zip=49501) is not.-->
+
 Run the following in the "io" folder to initiate a virtual environment folder called env (optional, may differ on PC). On some machines, run "python" rather than "python3"  
 
 	python3 -m venv env &&
